@@ -1,0 +1,14 @@
+CyberSeurity is the practice of ensuring confidentiality, integrity, and availability (CIA Triad) of information by proctecting
+networks, devices, people, and the data fom unauthorized access or criminal exploitation.
+
+Benefits of Security:
+
+->Protects against external and internal threats.
+
+->Meets regulatory compliance.
+
+->Maintains and improves business productivity.
+
+->Reduces expenses.
+
+->Maintains brand's trust.
