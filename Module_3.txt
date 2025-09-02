@@ -56,3 +56,8 @@ their right to privacy in and out of E.U. territory. For example, if an organiza
 the data they are holding about an E.U. citizen and why they are holding that data, this is an infringement that 
 can result in a fine to the organization. Additionally, if a breach occurs and an E.U. citizen’s data is compromised, 
 they must be informed. The affected organization has 72 hours to notify the E.U. citizen about the breach.
+
+Payment Card Industry Data Security Standard (PCI DSS)
+PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, 
+and transmitting credit card information do so in a secure environment. The objective of this compliance standard is 
+to reduce credit card fraud. 
