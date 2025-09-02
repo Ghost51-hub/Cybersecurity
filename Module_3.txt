@@ -102,3 +102,14 @@ levels such as:
 
 They are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, 
 privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
+
+Securtity Ethics:
+Guidelines for making appropriate decisions as a security professional.
+
+Ethical Principles in Security:
+
+->Confidentiality
+
+->Privacy protections
+
+->Laws
