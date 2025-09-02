@@ -106,14 +106,6 @@ privacy, integrity, availability, security, and overall data safety. Control fai
 Securtity Ethics:
 Guidelines for making appropriate decisions as a security professional.
 
-Ethical Principles in Security:
-
-->Confidentiality
-
-->Privacy protections
-
-->Laws
-
 Ethical concerns and laws related to counterattacks:-
 
 United States standpoint on counterattacks:
