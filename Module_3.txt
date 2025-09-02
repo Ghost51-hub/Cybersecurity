@@ -113,3 +113,17 @@ Ethical Principles in Security:
 ->Privacy protections
 
 ->Laws
+
+Ethical concerns and laws related to counterattacks:-
+
+United States standpoint on counterattacks:
+In the U.S., deploying a counterattack on a threat actor is illegal because of laws like the Computer Fraud and Abuse Act of 1986 
+and the Cybersecurity Information Sharing Act of 2015, among others. You can only defend. The act of counterattacking in the U.S. 
+is perceived as an act of vigilantism. A vigilante is a person who is not a member of law enforcement who decides to stop a 
+crime on their own. And because threat actors are criminals, counterattacks can lead to further escalation of the attack, 
+which can cause even more damage and harm. Lastly, if the threat actor in question is a state-sponsored hacktivist, 
+a counterattack can lead to serious international implications. A hacktivist is a person who uses hacking to achieve a 
+political goal. The political goal may be to promote social change or civil disobedience. 
+
+For these reasons, the only individuals in the U.S. who are allowed to counterattack are approved employees of the federal 
+government or military personnel. 
