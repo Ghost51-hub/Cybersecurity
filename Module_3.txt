@@ -1,0 +1,46 @@
+Security Frameworks:
+Guidelines used for building plans to help mitigate risk and threats to data and privacy.
+It's purpose:
+
+->Protecting PII
+
+->Securing financial information
+
+->Identifying security weakness
+
+->Managing organizational risks
+
+->Aligning security with business goals
+
+It's Components:
+
+1.Identifying and documenting security goals.
+
+2.Setting guidelines to achieve security goals.
+
+3.Implementing security processes.
+
+4.Monitoring and Communicating results.
+
+Security Control:
+Safeguards designed to reduce specific security risks.
+
+CIA triad:-
+A foundational model that helps inform how organizations consider risk when setting up systems 
+and security policies.
+Confidentiality:Only authorized users can access specific assets or data.
+Integrity:Data is correct, authentic, and reliable.
+Availability: Data is accessible to those who are authorized to access it.
+
+Asset:An item perceived as having value to an organization.
+
+NIST Cybersecurity Framework(CSF):
+A voluntary framework that consists of standards, guidelines, and best practices to manage
+cybersecurity risk.
+
+Compliance is the process of adhering to internal standards and external regulations.
+
+The Federal Risk and Authorization Management Program (FedRAMP®):
+FedRAMP is a U.S. federal government program that standardizes security assessment, authorization, monitoring, 
+and handling of cloud services and product offerings. Its purpose is to provide consistency across the government 
+sector and third-party cloud providers. 
