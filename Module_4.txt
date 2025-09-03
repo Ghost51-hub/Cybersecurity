@@ -1,0 +1,13 @@
+Log:
+A record of events that occur within an organization's systems.
+
+Security Information Event Management (SIEM) tool:
+An application that collects and analyzes log data to monitor critical activities in an organization.
+Examples: Splunk and Chronicle.
+
+Playbook:
+A manual that provides details about any operational action.
+
+Network protocol analyzer(packet sniffer):
+A tool designed to capture and analyze data traffic within a network.
+Examples: tcsdump and wireshark.
