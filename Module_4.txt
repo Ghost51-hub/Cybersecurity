@@ -76,3 +76,7 @@ Previously, you were introduced to Linux as an open-source operating system. Ope
 the public and allows people to make contributions to improve the software. Linux is not a programming language; however, it 
 does involve the use of a command line within the operating system. A command is an instruction telling the computer to do 
 something. A command-line interface is a text-based user interface that uses commands to interact with the computer.
+
+Web vulnerability:
+A web vulnerability is a unique flaw in a web application that a threat actor could exploit by using malicious code or behavior,
+to allow unauthorized access, data theft, and malware deployment.
