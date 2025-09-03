@@ -24,7 +24,7 @@ A network protocol analyzer, also known as a packet sniffer, is a tool designed 
 This means that the tool keeps a record of all the data that a computer within an organization's network encounters.
 Examples: tcsdump and wireshark.
 
-Playbooks
+Playbooks:
 A playbook is a manual that provides details about any operational action, such as how to respond to a security incident. 
 Organizations usually have multiple playbooks documenting processes and procedures for their teams to follow. Playbooks 
 vary from one organization to the next, but they all have a similar purpose: To guide analysts through a series of steps 
