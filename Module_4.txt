@@ -91,3 +91,12 @@ An intrusion detection system (IDS) is an application that monitors system activ
 The system scans and analyzes network packets, which carry small amounts of data through a network. The small amount of 
 data makes the detection process easier for an IDS to identify potential threats to sensitive data. Other occurrences 
 an IDS might detect can include theft and unauthorized access.
+
+Encryption:
+Encryption makes data unreadable and difficult to decode for an unauthorized user; its main goal is to ensure confidentiality 
+of private data. Encryption is the process of converting data from a readable format to a cryptographically encoded format. 
+Cryptographic encoding means converting plaintext into secure ciphertext. Plaintext is unencrypted information and secure 
+ciphertext is the result of encryption.  
+
+Note: Encoding and encryption serve different purposes. Encoding uses a public conversion algorithm to enable systems that 
+use different data representations to share information.
