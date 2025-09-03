@@ -54,3 +54,16 @@ last. It prioritizes volatile data, which is data that may be lost if the device
 While conducting an investigation, improper management of digital evidence can compromise and alter that evidence. When evidence 
 is improperly managed during an investigation, it can no longer be used. For this reason, the first priority in any investigation 
 is to properly preserve the data. You can preserve the data by making copies and conducting your investigation using those copies.
+
+
+Tools and their purposes:-
+
+Programming:
+Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. 
+Security analysts use programming languages, such as Python, to execute automation. Automation is the use of technology 
+to reduce human and manual effort in performing common and repetitive tasks. Automation also helps reduce the risk of
+human error.
+
+Another programming language used by analysts is called Structured Query Language (SQL). SQL is used to create, interact with, 
+and request information from a database. A database is an organized collection of information or data. There can be millions 
+of data points in a database. A data point is a specific piece of information. 
