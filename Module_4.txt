@@ -4,12 +4,8 @@ A record of events that occur within an organization's systems.
 Playbook:
 A manual that provides details about any operational action.
 
-Network protocol analyzer(packet sniffer):
-A tool designed to capture and analyze data traffic within a network.
-Examples: tcsdump and wireshark.
 
 Security information and event management (SIEM) tools:
-
 A SIEM tool is an application that collects and analyzes log data to monitor critical activities in an organization. 
 A log is a record of events that occur within an organization’s systems. Depending on the amount of data you’re working with, 
 it could take hours or days to filter through log data on your own. SIEM tools reduce the amount of data an analyst must 
@@ -23,3 +19,7 @@ option over another based on a security team member’s expertise. For example, 
 easier to set up, use, and maintain than an on-premise version, a less experienced security team may choose this option 
 for their organization.
 
+Network protocol analyzers (packet sniffers):
+A network protocol analyzer, also known as a packet sniffer, is a tool designed to capture and analyze data traffic in a network. 
+This means that the tool keeps a record of all the data that a computer within an organization's network encounters.
+Examples: tcsdump and wireshark.
