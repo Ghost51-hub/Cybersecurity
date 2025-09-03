@@ -67,3 +67,12 @@ human error.
 Another programming language used by analysts is called Structured Query Language (SQL). SQL is used to create, interact with, 
 and request information from a database. A database is an organized collection of information or data. There can be millions 
 of data points in a database. A data point is a specific piece of information. 
+
+Operating systems:
+An operating system is the interface between computer hardware and the user. Linux®, macOS®, and Windows are operating systems. 
+They each offer different functionality and user experiences. 
+
+Previously, you were introduced to Linux as an open-source operating system. Open source means that the code is available to 
+the public and allows people to make contributions to improve the software. Linux is not a programming language; however, it 
+does involve the use of a command line within the operating system. A command is an instruction telling the computer to do 
+something. A command-line interface is a text-based user interface that uses commands to interact with the computer.
