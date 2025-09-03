@@ -80,3 +80,8 @@ something. A command-line interface is a text-based user interface that uses com
 Web vulnerability:
 A web vulnerability is a unique flaw in a web application that a threat actor could exploit by using malicious code or behavior,
 to allow unauthorized access, data theft, and malware deployment.
+
+Antivirus software:
+Antivirus software is a software program used to prevent, detect, and eliminate malware and viruses. It is also called 
+anti-malware. Depending on the type of antivirus software, it can scan the memory of a device to find patterns that 
+indicate the presence of malware. 
