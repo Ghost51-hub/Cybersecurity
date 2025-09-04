@@ -149,8 +149,12 @@ Layers of Web:
 
 ->Dark Web.
 
-NIST Risk Management Framework:-
+NIST Risk Management Framework Steps:-
 
 1.Prepare: Activities that are necessary to manage security and privacy risks before a breach occurs.
 
 2.Categorize: Used to develop risk management processes and tasks.
+
+3.Choose, customize, and capture documentation of the controls that protect an organization.
+
+4.
