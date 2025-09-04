@@ -41,3 +41,29 @@ increase the level of risk, keeping track of assets and the data they hold is es
 establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security 
 analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment 
 if a security incident places the organization’s data at risk.
+
+Domain three: Security architecture and engineering:
+This domain focuses on managing data security. Ensuring effective tools, systems, and processes are in place helps protect an organization’s assets and data. Security architects and engineers create these processes.
+
+One important aspect of this domain is the concept of shared responsibility. Shared responsibility means all individuals involved 
+take an active role in lowering risk during the design of a security system. Additional design principles related to this domain, 
+which are discussed later in the program, include:
+
+->Threat modeling
+
+->Least privilege
+
+->Defense in depth
+
+->Fail securely
+
+->Separation of duties
+
+->Keep it simple
+
+->Zero trust
+
+->Trust but verify
+
+An example of managing data is the use of a security information and event management (SIEM) tool to monitor for flags related 
+to unusual login or user activity that could indicate a threat actor is attempting to access private data.
