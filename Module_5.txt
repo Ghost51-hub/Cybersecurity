@@ -159,3 +159,8 @@ NIST Risk Management Framework Steps:-
 
 4.Implement: Implement security and privacy plans for the organization.
 
+5.Assess: Determine if established controls are implemented correctly.
+
+6.Authorize: Being accountable for the security and privacy risks that may exist in an organization.
+
+7.Monitor: Be aware of how systems are operating.
