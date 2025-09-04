@@ -182,7 +182,7 @@ Examples of physical assets include:
 
 ->Payment kiosks
 
--.Servers
+->Servers
 
 ->Desktop computers
 
