@@ -155,6 +155,7 @@ NIST Risk Management Framework Steps:-
 
 2.Categorize: Used to develop risk management processes and tasks.
 
-3.Choose, customize, and capture documentation of the controls that protect an organization.
+3.Select: Choose, customize, and capture documentation of the controls that protect an organization.
 
-4.
+4.Implement: Implement security and privacy plans for the organization.
+
