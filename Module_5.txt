@@ -140,3 +140,11 @@ is necessary. Having quality assurance and pen tester professionals ensure the s
 standards is also an essential part of the software development process. For example, an entry-level analyst working for 
 a pharmaceutical company might be asked to make sure encryption is properly configured for a new medical device that will 
 store private patient data.
+
+Layers of Web:
+
+->Surface Web.
+
+->Deep Web.
+
+->Dark Web.
