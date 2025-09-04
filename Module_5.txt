@@ -148,3 +148,9 @@ Layers of Web:
 ->Deep Web.
 
 ->Dark Web.
+
+NIST Risk Management Framework:-
+
+1.Prepare: Activities that are necessary to manage security and privacy risks before a breach occurs.
+
+2.Categorize: Used to develop risk management processes and tasks.
