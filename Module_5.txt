@@ -1,0 +1,2 @@
+Security Posture:
+An organization's ablity to manage its defense of critical assets and data, and react to change
