@@ -1,4 +1,9 @@
-Frameworks and controls
+Encryption:
+The eprocess of converting data from a readable format to an encoded format.
+
+
+
+Frameworks and controls:-
 Security frameworks: are guidelines used for building plans to help mitigate risk and threats to data and privacy. 
 Frameworks support organizations’ ability to adhere to compliance laws and regulations. For example, the healthcare industry 
 uses frameworks to comply with the United States’ Health Insurance Portability and Accountability Act (HIPAA), which requires 
