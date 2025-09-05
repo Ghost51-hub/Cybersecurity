@@ -1,6 +1,12 @@
 Encryption:
 The eprocess of converting data from a readable format to an encoded format.
 
+Authentication:
+The process of verifying who someone or something is.
+
+Biometrics:
+Unique physical characteristics that can be used to verify a person's identity.
+
 
 
 Frameworks and controls:-
