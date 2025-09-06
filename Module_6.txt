@@ -221,3 +221,8 @@ The audit should:
 
 ->Include an evaluation of organizational policies, protocols, and procedures to make sure they are working as intended and 
 being implemented by employees
+
+Complete a risk assessment:
+
+->A risk assessment is used to evaluate identified organizational risks related to budget, controls, internal processes, and 
+external standards (i.e., regulations).
