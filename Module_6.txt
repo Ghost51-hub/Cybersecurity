@@ -98,3 +98,8 @@ organization allows remote employees to access its internal network to perform t
 to data on the internal network is still limited, depending on what type of access employees need to do their jobs. If, 
 for example, an employee works in the organization’s accounting department, they might need access to corporate accounts 
 but not data related to ongoing development projects. 
+
+
+NIST Cybersecurity Framework(CSF):
+A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
