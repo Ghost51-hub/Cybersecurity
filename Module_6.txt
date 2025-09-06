@@ -105,18 +105,20 @@ A voluntary framework that consists of standards, guidelines, and best practices
 
 NIST CSF focuses on five core functions:-
 
-1.Identify: The management of cybersecurity risk and its effect on an organization's people and assets.
+1.Govern.
 
-2.Protect: The strategy used to protect an organization through the implementation of policies, procedures, training, 
+2.Identify: The management of cybersecurity risk and its effect on an organization's people and assets.
+
+3.Protect: The strategy used to protect an organization through the implementation of policies, procedures, training, 
 and tools that help mitigate cybersecurity threats.
 
-3.Detect: Identifying potential security incidents and improving monitoring capabilities to increase the speed and 
+4.Detect: Identifying potential security incidents and improving monitoring capabilities to increase the speed and 
 efficiency of detections.
 
-4.Respond: Making sur that the proper procedures are used to contain, neutralize, and analyze security incidents,
+5.Respond: Making sur that the proper procedures are used to contain, neutralize, and analyze security incidents,
 and implement improvements to the security process.
 
-5.Recover: The process of returning affected systems back to normal operation.
+6.Recover: The process of returning affected systems back to normal operation.
 
 NIST S.P. 800-53:
 A unified framework for protecting the security of information systems within the federal government.
