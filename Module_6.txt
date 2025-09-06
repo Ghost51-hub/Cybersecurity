@@ -115,7 +115,7 @@ and tools that help mitigate cybersecurity threats.
 4.Detect: Identifying potential security incidents and improving monitoring capabilities to increase the speed and 
 efficiency of detections.
 
-5.Respond: Making sur that the proper procedures are used to contain, neutralize, and analyze security incidents,
+5.Respond: Making sure that the proper procedures are used to contain, neutralize, and analyze security incidents,
 and implement improvements to the security process.
 
 6.Recover: The process of returning affected systems back to normal operation.
