@@ -30,3 +30,6 @@ alerts in real-time.
 
 Splunk Cloud:
 A cloud-hosted tool used to collect, search, and monitor log data.
+
+Chronicle:
+A cloud-native tool designed to retain, analyze, and search data.
