@@ -1,0 +1,10 @@
+Log:
+A record of event that occur within an organization's systems and network.
+
+Common log sources:-
+
+->Firewall Log: A firewall log is a record of attempted or established connections for incoming traffic from the internet.
+It also includes outbound requests to the internet from within the network.
+
+->Network Log: A network log is a record of all computers and devices that enter and leave the network. It also records 
+connections between devices and services on the network.
