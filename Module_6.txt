@@ -163,3 +163,16 @@ The security of key systems should not rely on keeping details hidden.
 The security of an application should not rely on keeping the source code secret. Its security should rely upon many other 
 factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, 
 and fraud and audit controls.
+
+
+Security audits
+A security audit is a review of an organization's security controls, policies, and procedures against a set of expectations. 
+Audits are independent reviews that evaluate whether an organization is meeting internal and external criteria. Internal criteria 
+include outlined policies, procedures, and best practices. External criteria include regulatory compliance, laws, and federal 
+regulations. 
+
+Additionally, a security audit can be used to assess an organization's established security controls. 
+
+Audits help ensure that security checks are made (i.e., daily monitoring of security information and event management dashboards), 
+to identify threats, risks, and vulnerabilities. This helps maintain an organization’s security posture. And, if there are 
+security issues, a remediation process must be in place.
