@@ -204,4 +204,20 @@ the National Institute of Standards and Technology Cybersecurity Framework (NIST
 information security (ISO 27000) series are designed to help organizations prepare for regulatory compliance security audits. 
 By adhering to these and other relevant frameworks, organizations can save time when conducting external and internal audits. 
 Additionally, frameworks, when used alongside controls, can support organizations’ ability to align with regulatory compliance 
-requirements and standards.  
+requirements and standards.
+
+Audit checklist:-
+It’s necessary to create an audit checklist before conducting an audit. A checklist is generally made up of the following areas 
+of focus:
+
+Identify the scope of the audit:
+The audit should:
+
+->List assets that will be assessed (e.g., firewalls are configured correctly, PII is secure, physical assets are locked, etc.) 
+
+->Note how the audit will help the organization achieve its desired goals
+
+->Indicate how often an audit should be performed
+
+->Include an evaluation of organizational policies, protocols, and procedures to make sure they are working as intended and 
+being implemented by employees
