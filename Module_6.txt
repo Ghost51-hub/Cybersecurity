@@ -113,5 +113,8 @@ and tools that help mitigate cybersecurity threats.
 3.Detect: Identifying potential security incidents and improving monitoring capabilities to increase the speed and 
 efficiency of detections.
 
+4.Respond: Making sur that the proper procedures are used to contain, neutralize, and analyze security incidents,
+and implement improvements to the security process.
+
 NIST S.P. 800-53:
 A unified framework for protecting the security of information systems within the federal government.
