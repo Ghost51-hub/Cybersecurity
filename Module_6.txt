@@ -226,3 +226,7 @@ Complete a risk assessment:
 
 ->A risk assessment is used to evaluate identified organizational risks related to budget, controls, internal processes, and 
 external standards (i.e., regulations).
+
+Conduct the audit:
+
+->When conducting an internal audit, you will assess the security of the identified assets listed in the audit scope.
