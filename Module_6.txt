@@ -21,3 +21,12 @@ use to lower risk and threats to data and privacy. For example, a control that c
 hospital remains compliant with HIPAA is requiring that patients use multi-factor authentication (MFA) to access their medical 
 records. Using a measure like MFA to validate someone’s identity is one way to help mitigate potential risks and threats to 
 private data.
+
+Specific frameworks and controls:-
+
+Cyber Threat Framework (CTF):
+According to the Office of the Director of National Intelligence, the CTF was developed by the U.S. government to provide “a 
+common language for describing and communicating information about cyber threat activity.” By providing a common language to 
+communicate information about threat activity, the CTF helps cybersecurity professionals analyze and share information more 
+efficiently. This allows organizations to improve their response to the constantly evolving cybersecurity landscape and threat 
+actors' many tactics and techniques.
