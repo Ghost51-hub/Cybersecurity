@@ -23,3 +23,7 @@ Types of SIEM tools:
 -> Cloud-hosted
 
 -> Hybrid
+
+Splunk Enterprise:
+A self-hosted used to retain, analyze, and search an organization’s log data to provide security information and 
+alerts in real-time.
