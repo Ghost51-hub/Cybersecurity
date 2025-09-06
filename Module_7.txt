@@ -15,3 +15,11 @@ It includes actions such as login, password, and username requests.
 Metrics:
 Key technical attributes, such as response time, availability, failure rate, which are used to assess the performance 
 of a software application.
+
+Types of SIEM tools:
+
+-> Self-hosted
+
+-> Cloud-hosted
+
+-> Hybrid
