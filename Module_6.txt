@@ -184,3 +184,16 @@ and clarity by identifying what the current failures are and developing a plan t
 
 Security audits must be performed to safeguard data and avoid penalties and fines from governmental agencies. The frequency of 
 audits is dependent on local laws and federal compliance regulations.
+
+Factors that affect audits:-
+Factors that determine the types of audits an organization implements include: 
+
+->Industry type
+
+->Organization size
+
+->Ties to the applicable government regulations
+
+->A business’s geographical location
+
+->A business decision to adhere to a specific regulatory compliance
