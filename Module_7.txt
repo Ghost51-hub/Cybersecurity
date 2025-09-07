@@ -51,3 +51,11 @@ The owners of proprietary tools are the only ones who can access and modify the 
 generally need to wait for updates to be made to the software, and at times they might need to pay a fee for those updates. 
 Proprietary software generally allows users to modify a limited number of features to meet individual and organizational needs. 
 Examples of proprietary tools include Splunk® and Google SecOps (Chronicle) SIEM tools.
+
+
+Splunk:-
+Splunk offers different SIEM tool options: Splunk® Enterprise and Splunk® Cloud. Both allow you to review an organization's 
+data on dashboards. This helps security professionals manage an organization's internal infrastructure by collecting, searching, 
+monitoring, and analyzing log data from multiple sources to obtain full visibility into an organization’s everyday operations. 
+
+Review the following Splunk dashboards and their purposes:
