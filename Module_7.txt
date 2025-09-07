@@ -81,3 +81,21 @@ The risk analysis dashboard helps analysts identify risk for each risk object (e
 an IP address). It shows changes in risk-related activity or behavior, such as a user logging in outside of normal working 
 hours or unusually high network traffic from a specific computer. A security analyst might use this dashboard to analyze 
 the potential impact of vulnerabilities in critical assets, which helps analysts prioritize their risk mitigation efforts.
+
+
+Chronicle:-
+Chronicle is a cloud-native SIEM tool from Google that retains, analyzes, and searches log data to identify potential 
+security threats, risks, and vulnerabilities. Chronicle allows you to collect and analyze log data according to: 
+
+->A specific asset
+
+->A domain name
+
+->A user
+
+->An IP address
+
+Chronicle provides multiple dashboards that help analysts monitor an organization’s logs, create filters and alerts, and 
+track suspicious domain names. 
+
+Review the following Chronicle dashboards and their purposes:
