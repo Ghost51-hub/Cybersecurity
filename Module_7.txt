@@ -124,3 +124,10 @@ Main dashboard:
 The main dashboard displays a high-level summary of information related to the organization’s data ingestion, alerting, and 
 event activity over time. Security professionals can use this dashboard to access a timeline of security events—such as a 
 spike in failed login attempts— to identify threat trends across log sources, devices, IP addresses, and physical locations.
+
+Rule detections dashboard:
+The rule detections dashboard provides statistics related to incidents with the highest occurrences, severities, and 
+detections over time. Security analysts can use this dashboard to access a list of all the alerts triggered by a specific 
+detection rule, such as a rule designed to alert whenever a user opens a known malicious attachment from an email. Analysts 
+then use those statistics to help manage recurring incidents and establish mitigation tactics to reduce an organization's 
+level of risk.
