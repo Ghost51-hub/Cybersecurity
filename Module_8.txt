@@ -45,7 +45,7 @@ Common steps included in incident and vulnerability playbooks include:
 
 ->Detection and Analysis: Detect and analyze events by implementing defined processes and appropriate technology.
 
-->Containment
+->Containment: Prevent further damage and reduce immediate impact of incidents.
 
 ->Eradication
 
