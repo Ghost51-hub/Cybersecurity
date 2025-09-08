@@ -36,7 +36,8 @@ forward allowing a business to recover and continue to operate as normal, despit
 
 These two types of playbooks are similar in that they both contain predefined and up-to-date lists of steps to perform when 
 responding to an incident. Following these steps is necessary to ensure that you, as a security professional, are adhering to 
-legal and organizational standards and protocols. These playbooks also help minimize errors and ensure that important actions are performed within a specific timeframe.
+legal and organizational standards and protocols. These playbooks also help minimize errors and ensure that important actions 
+are performed within a specific timeframe.
 
 When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable. 
 
