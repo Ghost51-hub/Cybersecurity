@@ -17,3 +17,14 @@ Updates are often made if:
 ->There is a change in industry standards, such as changes in laws or regulatory compliance.
 
 ->The cybersecurity landscape changes due to evolving threat actor tactics and techniques.
+
+Types of playbooks:
+Playbooks sometimes cover specific incidents and vulnerabilities. These might include ransomware, vishing, business email 
+compromise (BEC), and other attacks. Incident and vulnerability response playbooks are very common, but they are not the only 
+types of playbooks organizations develop. 
+
+Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to, and 
+different individuals are involved at each step of the response process, depending on the country they are in. For example, 
+incident notification requirements from government-imposed laws and regulations, along with compliance standards, affect the 
+content in the playbooks. These requirements are subject to change based on where the incident originated and the type of data 
+affected. 
