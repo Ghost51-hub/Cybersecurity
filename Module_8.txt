@@ -55,3 +55,17 @@ Common steps included in incident and vulnerability playbooks include:
 
 Additional steps include performing post-incident activities, and a coordination of efforts throughout the investigation 
 and incident and vulnerability response stages.
+
+You can use playbook for:
+
+->Open attacks
+
+->Privacy incidents
+
+->Data leaks
+
+->Denial of service attacks
+
+->Service alerts
+
+->others
