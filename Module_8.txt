@@ -41,7 +41,7 @@ When an incident, threat, or vulnerability occurs or is identified, the level of
 
 Common steps included in incident and vulnerability playbooks include: 
 
-->Preparation
+->Preparation:Before incidents occur, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users.
 
 ->Detection
 
