@@ -43,9 +43,7 @@ Common steps included in incident and vulnerability playbooks include:
 
 ->Preparation:Before incidents occur, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users.
 
-->Detection
-
-->Analysis
+->Detection and Analysis: Detect and analyze events by implementing defined processes and appropriate technology.
 
 ->Containment
 
