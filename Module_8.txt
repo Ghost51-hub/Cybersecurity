@@ -51,5 +51,7 @@ Common steps included in incident and vulnerability playbooks include:
 
 ->Post-incident activity: Document the incident, inform organizational leadership, and apply lessons learned.
 
+->Coordination: Report incidents and share information throughout the response process, based on established standards.
+
 Additional steps include performing post-incident activities, and a coordination of efforts throughout the investigation 
 and incident and vulnerability response stages.
