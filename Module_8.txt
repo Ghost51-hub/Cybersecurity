@@ -40,7 +40,8 @@ legal and organizational standards and protocols. These playbooks also help mini
 are performed within a specific timeframe.
 
 When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the 
-potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable. 
+potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. 
+For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable. 
 
 Common steps included in incident and vulnerability playbooks include: 
 
