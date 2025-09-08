@@ -47,9 +47,7 @@ Common steps included in incident and vulnerability playbooks include:
 
 ->Containment: Prevent further damage and reduce immediate impact of incidents.
 
-->Eradication
-
-->Recovery from an incident 
+->Eradication and Recovery: Completely remove artifacts of the incident so that an organization can return to normal operations.
 
 Additional steps include performing post-incident activities, and a coordination of efforts throughout the investigation 
 and incident and vulnerability response stages.
