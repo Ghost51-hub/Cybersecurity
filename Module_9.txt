@@ -6,3 +6,6 @@ A unique addresses or identifiers to locate other devices on the network.
 
 Local Area Network (LAN):
 A network that spans a small area like an office building, a school, or a home. 
+
+Wide Area Network (WAN):
+A network that spans a large geographic area like a city, state, or country.
