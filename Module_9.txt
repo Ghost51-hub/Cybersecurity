@@ -66,7 +66,8 @@ malicious traffic from entering the private network and damaging the local area 
 Modems:
 Modems usually connect your home or office with an internet service provider (ISP). ISPs provide internet connectivity via 
 telephone lines, coaxial cables, or fiber optic cables. Modems receive transmissions or digital signals from the internet and 
-convert them into a digital format compatible with the physical connection provided by your ISP. Usually, modems connect to a router that takes the decoded transmissions and sends them on to the local network.
+convert them into a digital format compatible with the physical connection provided by your ISP. Usually, modems connect to a 
+router that takes the decoded transmissions and sends them on to the local network.
 
 Note: Enterprise networks used by large organizations to connect their users and devices often use other broadband technologies to handle high-volume traffic, instead of using a modem. 
 
