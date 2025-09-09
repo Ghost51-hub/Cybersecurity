@@ -3,3 +3,6 @@ A group of connected devices.
 
 IP and Mac address:
 A unique addresses or identifiers to locate other devices on the network.
+
+Local Area Network (LAN):
+A network that spans a small area like an office building, a school, or a home. 
