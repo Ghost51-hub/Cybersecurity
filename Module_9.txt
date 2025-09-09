@@ -20,7 +20,8 @@ information about the source and the destination of the data.  This is how the i
 different devices on a network. 
 
 The network is the overall infrastructure that allows devices to communicate with each other. Network devices are specialized 
-vehicles like routers and switches that manage what is being sent and received over the network. Additionally, devices like computers and phones connect to the network via network devices. 
+vehicles like routers and switches that manage what is being sent and received over the network. Additionally, devices like 
+computers and phones connect to the network via network devices. 
 
 Devices and desktop computers:
 Most internet users are familiar with everyday devices, such as personal computers, laptops, mobile phones, and tablets. Each device and desktop computer has a unique MAC address and IP address, which identify it on the network. They also have a network interface that sends and receives data packets. These devices can connect to the network via a hard wire or a wireless connection.
