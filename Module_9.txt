@@ -79,6 +79,7 @@ communicate wirelessly. Wireless access points and the devices connected to them
 waves where they are sent to routers and switches and directed along the path to their final destination.
 
 Using network diagrams as a security analyst:
-Network diagrams allow network administrators and security personnel to imagine the architecture and design of their organization’s private network.
+Network diagrams allow network administrators and security personnel to imagine the architecture and design of their 
+organization’s private network.
 
 Network diagrams are maps that show the devices on the network and how they connect. Network diagrams use small representative graphics to portray each network device and dotted lines to show how each device connects to the other. By studying network diagrams, security analysts develop and refine their strategies for securing network architectures.
