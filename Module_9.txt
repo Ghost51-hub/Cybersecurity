@@ -1,2 +1,5 @@
 Network:
 A group of connected devices.
+
+IP and Mac address:
+A unique addresses or identifiers to locate other devices on the network.
