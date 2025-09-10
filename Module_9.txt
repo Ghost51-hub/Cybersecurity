@@ -89,3 +89,7 @@ diagrams, security analysts develop and refine their strategies for securing net
 Cloud computing:
 The practice of using remote servers,applications, and network services that are hosted on the internet instead of on local 
 physical devices.
+
+Cloud network:
+A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
+internet.
