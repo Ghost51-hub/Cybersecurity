@@ -93,3 +93,11 @@ physical devices.
 Cloud network:
 A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
 internet.
+
+Cloud service providers offer:
+
+->On-demand storage
+
+->Processing power
+
+->Analytics
