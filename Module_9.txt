@@ -85,3 +85,7 @@ organization’s private network.
 Network diagrams are maps that show the devices on the network and how they connect. Network diagrams use small representative 
 graphics to portray each network device and dotted lines to show how each device connects to the other. By studying network 
 diagrams, security analysts develop and refine their strategies for securing network architectures.
+
+Cloud computing:
+The practice of using remote servers,applications, and network services that are hosted on the internet instead of on local 
+physical devices.
