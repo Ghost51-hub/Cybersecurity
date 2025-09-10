@@ -98,7 +98,6 @@ compute at such a large scale that they can sell their services to other compani
 and services they need and consume them through the CSP’s application programming interface (API) or web console.
 
 
-
 Cloud network:
 A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
 internet.
