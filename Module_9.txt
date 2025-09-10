@@ -87,8 +87,11 @@ graphics to portray each network device and dotted lines to show how each device
 diagrams, security analysts develop and refine their strategies for securing network architectures.
 
 Cloud computing:
-The practice of using remote servers,applications, and network services that are hosted on the internet instead of on local 
-physical devices.
+Traditional networks are called on-premise networks, which means that all of the devices used for network operations are kept at a physical location owned by the company, like in an office building, for example. Cloud computing, however, refers to the practice of using remote servers, applications, and network services that are hosted on the internet instead of at a physical location owned by the company.
+
+A cloud service provider (CSP) is a company that offers cloud computing services. These companies own large data centers in locations around the globe that house millions of servers. Data centers provide technology services, such as storage, and compute at such a large scale that they can sell their services to other companies for a fee. Companies can pay for the storage and services they need and consume them through the CSP’s application programming interface (API) or web console.
+
+
 
 Cloud network:
 A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
