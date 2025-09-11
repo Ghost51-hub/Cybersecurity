@@ -158,3 +158,6 @@ A basic unit of information that travels from one device to another within a net
 
 Bandwidth:
 The amount of data a device receives every second.
+
+Speed:
+The rate at which data packets are received or downloaded.
