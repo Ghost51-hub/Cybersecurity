@@ -108,8 +108,8 @@ and services they need and consume them through the CSP’s application programm
  applications can be modified to take advantage of the availability, performance, and security features that are unique to 
  cloud provider services.
 
-->Platform as a service (PaaS) refers to tools that application developers can use to design custom applications for their company. 
-Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.
+ ->Platform as a service (PaaS) refers to tools that application developers can use to design custom applications for their company. 
+ Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.
 
 Cloud network:
 A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
