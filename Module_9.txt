@@ -171,7 +171,7 @@ An internet communication protocol that allows two devices to form a connection 
 Internet Protocol (IP):
 A set of standards used for routing and addressing data packets as they travel between devices on a network.
 
-Port:
+Port:-
 A software-based location that organizes the sending and receiving of data between devices on a network.
 
 Port numbers:
@@ -182,5 +182,6 @@ Port numbers:
 
 ->Port 20 - Large file transfers
 
-TCP/IP model:
+TCP/IP model:-
 A framework used to visualize how data is organized and transmitted across the network.
+
