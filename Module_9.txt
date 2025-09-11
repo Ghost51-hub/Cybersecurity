@@ -164,3 +164,6 @@ The rate at which data packets are received or downloaded.
 
 Packet sniffing:
 The practice of capturing and inspecting data packets across a network.
+
+Transmission Control Protocol (TCP):
+An internet communication protocol that allows two devices to form a connection and stream data.
