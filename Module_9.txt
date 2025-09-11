@@ -185,3 +185,6 @@ Port numbers:
 TCP/IP model:-
 A framework used to visualize how data is organized and transmitted across the network.
 
+1. Network access layer
+
+2. Internet layer
