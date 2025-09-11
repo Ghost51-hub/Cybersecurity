@@ -182,13 +182,11 @@ Port numbers:
 
 ->Port 20 - Large file transfers
 
-TCP/IP model:-
-A framework used to visualize how data is organized and transmitted across the network.
+The TCP/IP model:-
+The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network. This model helps 
+network engineers and network security analysts conceptualize processes on the network and communicate where disruptions or 
+security threats occur. 
 
-1. Network access layer
-
-2. Internet layer
-
-3. Transport layer
-
-4. Application layer
+The TCP/IP model has four layers: the network access layer, internet layer, transport layer, and application layer. When 
+troubleshooting issues on the network, security professionals can analyze which layers were impacted by an attack based on what 
+processes were involved in an incident. 
