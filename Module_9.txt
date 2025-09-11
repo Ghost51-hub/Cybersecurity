@@ -155,3 +155,6 @@ necessary, leading to better network performance and security.
 
 Data packet:
 A basic unit of information that travels from one device to another within a network.
+
+Bandwidth:
+The amount of data a device receives every second.
