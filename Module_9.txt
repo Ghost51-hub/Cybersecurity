@@ -177,3 +177,5 @@ A software-based location that organizes the sending and receiving of data betwe
 Port numbers:
 
 ->Port 25 - Email
+
+->Port 443 - Secure internet communication
