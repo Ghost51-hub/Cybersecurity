@@ -246,3 +246,11 @@ processes were involved in an incident.
  ->Domain name system (DNS)
 
  Application layer protocols rely on underlying layers to transfer the data across the network.
+
+TCP/IP model versus OSI model:
+The OSI visually organizes network protocols into different layers. Network professionals often use this model to communicate 
+with each other about potential sources of problems or security threats when they occur. 
+
+The TCP/IP model combines multiple layers of the OSI model. There are many similarities between the two models. Both models 
+define standards for networking and divide the network communication process into different layers. The TCP/IP model is a 
+simplified version of the OSI model.
