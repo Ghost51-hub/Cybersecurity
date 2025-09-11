@@ -161,3 +161,6 @@ The amount of data a device receives every second.
 
 Speed:
 The rate at which data packets are received or downloaded.
+
+Packet sniffing:
+The practice of capturing and inspecting data packets across a network.
