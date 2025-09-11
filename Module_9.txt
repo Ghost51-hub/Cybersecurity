@@ -167,3 +167,6 @@ The practice of capturing and inspecting data packets across a network.
 
 Transmission Control Protocol (TCP):
 An internet communication protocol that allows two devices to form a connection and stream data.
+
+Internet Protocol (IP):
+A set of standards used for routing and addressing data packets as they travel between devices on a network.
