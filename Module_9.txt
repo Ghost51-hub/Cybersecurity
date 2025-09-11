@@ -228,3 +228,21 @@ processes were involved in an incident.
   transmissions. It is used by applications that are not concerned with the reliability of the transmission. Data sent over 
   UDP is not tracked as extensively as data sent using TCP. Because UDP does not establish network connections, it is used mostly 
   for performance sensitive applications that operate in real time, such as video streaming.
+
+ Application layer:
+ The application layer in the TCP/IP model is similar to the application, presentation, and session layers of the OSI model. 
+ The application layer is responsible for making network requests or responding to requests. This layer defines which internet 
+ services and applications any user can access. Protocols in the application layer determine how the data packets will interact 
+ with receiving devices. Some common protocols used on this layer are: 
+
+ ->Hypertext transfer protocol (HTTP)
+
+ ->Simple mail transfer protocol (SMTP)
+
+ ->Secure shell (SSH)
+
+ ->File transfer protocol (FTP)
+
+ ->Domain name system (DNS)
+
+ Application layer protocols rely on underlying layers to transfer the data across the network.
