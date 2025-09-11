@@ -181,3 +181,6 @@ Port numbers:
 ->Port 443 - Secure internet communication
 
 ->Port 20 - Large file transfers
+
+TCP/IP model:
+A framework used to visualize how data is organized and transmitted across the network.
