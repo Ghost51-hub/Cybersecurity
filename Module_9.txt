@@ -173,3 +173,7 @@ A set of standards used for routing and addressing data packets as they travel b
 
 Port:
 A software-based location that organizes the sending and receiving of data between devices on a network.
+
+Port numbers:
+
+->Port 25 - Email
