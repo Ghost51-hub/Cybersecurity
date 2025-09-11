@@ -100,16 +100,16 @@ and services they need and consume them through the CSP’s application programm
  CSPs provide three main categories of services:
 
  ->Software as a service (SaaS) refers to software suites operated by the CSP that a company can use remotely without hosting 
- the software. 
+   the software. 
 
  ->Infrastructure as a service (IaaS) refers to the use of virtual computer components offered by the CSP. These include virtual 
- containers and storage that are configured remotely through the CSP’s API or web console. Cloud-compute and storage services 
- can be used to operate existing applications and other technology workloads without significant modifications. Existing 
- applications can be modified to take advantage of the availability, performance, and security features that are unique to 
- cloud provider services.
+   containers and storage that are configured remotely through the CSP’s API or web console. Cloud-compute and storage services 
+   can be used to operate existing applications and other technology workloads without significant modifications. Existing 
+   applications can be modified to take advantage of the availability, performance, and security features that are unique to 
+   cloud provider services.
 
  ->Platform as a service (PaaS) refers to tools that application developers can use to design custom applications for their company. 
- Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.
+   Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.
 
 Cloud network:
 A collection of servers or computers that stores resources and data in remove data centers that can be accessed via the 
@@ -131,27 +131,27 @@ routing. In the case of cloud networking, the SDN tools are hosted on servers lo
  scalability. 
 
  ->Reliability:
- Reliability in cloud computing is based on how available cloud services and resources are, how secure connections are, and how 
- often the services are effectively running. Cloud computing allows employees and customers to access the resources they need 
- consistently and with minimal interruption. 
+   Reliability in cloud computing is based on how available cloud services and resources are, how secure connections are, and how 
+   often the services are effectively running. Cloud computing allows employees and customers to access the resources they need 
+   consistently and with minimal interruption. 
 
  ->Cost:
- Traditionally, companies have had to provide their own network infrastructure, at least for internet connections. This meant 
- there could be potentially significant upfront costs for companies. However, because CSPs have such large data centers, they 
- are able to offer virtual devices and services at a fraction of the cost required for companies to install, patch, upgrade, 
- and manage the components and software themselves.
+   Traditionally, companies have had to provide their own network infrastructure, at least for internet connections. This meant 
+   there could be potentially significant upfront costs for companies. However, because CSPs have such large data centers, they 
+   are able to offer virtual devices and services at a fraction of the cost required for companies to install, patch, upgrade, 
+   and manage the components and software themselves.
 
  ->Scalability:
- Another challenge that companies face with traditional computing is scalability. When organizations experience an increase in 
- their business needs, they might be forced to buy more equipment and software to keep up. But what if business decreases shortly 
- after? They might no longer have the business to justify the cost incurred by the upgraded components. CSPs reduce this risk by 
- making it easy to consume services in an elastic utility model as needed. This means that companies only pay for what they need 
- when they need it. 
+   Another challenge that companies face with traditional computing is scalability. When organizations experience an increase in 
+   their business needs, they might be forced to buy more equipment and software to keep up. But what if business decreases shortly 
+   after? They might no longer have the business to justify the cost incurred by the upgraded components. CSPs reduce this risk by 
+   making it easy to consume services in an elastic utility model as needed. This means that companies only pay for what they need 
+   when they need it. 
 
- Changes can be made quickly through the CSPs, APIs, or web console—much more quickly than if network technicians had to purchase 
- their own hardware and set it up. For example, if a company needs to protect against a threat to their network, web application 
- firewalls (WAFs), intrusion detection/protection systems (IDS/IPS), or L3/L4 firewalls can be configured quickly whenever 
- necessary, leading to better network performance and security.
+   Changes can be made quickly through the CSPs, APIs, or web console—much more quickly than if network technicians had to purchase 
+   their own hardware and set it up. For example, if a company needs to protect against a threat to their network, web application 
+   firewalls (WAFs), intrusion detection/protection systems (IDS/IPS), or L3/L4 firewalls can be configured quickly whenever 
+   necessary, leading to better network performance and security.
 
 Data packet:
 A basic unit of information that travels from one device to another within a network.
@@ -176,11 +176,11 @@ A software-based location that organizes the sending and receiving of data betwe
 
  Port numbers:
 
- ->Port 25 - Email
+  ->Port 25 - Email
 
- ->Port 443 - Secure internet communication
+  ->Port 443 - Secure internet communication
 
- ->Port 20 - Large file transfers
+  ->Port 20 - Large file transfers
 
 The TCP/IP model:-
 The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network. This model helps 
@@ -205,11 +205,11 @@ processes were involved in an incident.
  packets and ensures the delivery to the destination host. Here are some of the common protocols that operate at the internet 
  layer:
 
- ->Internet Protocol (IP). IP sends the data packets to the correct destination and relies on the Transmission Control 
- Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. IP packets allow communication between 
- two networks. They are routed from the sending network to the receiving network. TCP in particular retransmits any data that is 
- lost or corrupt.
+  ->Internet Protocol (IP). IP sends the data packets to the correct destination and relies on the Transmission Control 
+    Protocol/User Datagram Protocol (TCP/UDP) to deliver them to the corresponding service. IP packets allow communication between 
+    two networks. They are routed from the sending network to the receiving network. TCP in particular retransmits any data that is 
+    lost or corrupt.
 
- ->Internet Control Message Protocol (ICMP). The ICMP shares error information and status updates of data packets. This is useful 
- for detecting and troubleshooting network errors. The ICMP reports information about packets that were dropped or that 
- disappeared in transit, issues with network connectivity, and packets redirected to other routers.
+  ->Internet Control Message Protocol (ICMP). The ICMP shares error information and status updates of data packets. This is useful 
+    for detecting and troubleshooting network errors. The ICMP reports information about packets that were dropped or that 
+    disappeared in transit, issues with network connectivity, and packets redirected to other routers.
