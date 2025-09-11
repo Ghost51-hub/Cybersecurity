@@ -126,9 +126,9 @@ many SDNs also provide virtual switches, routers, firewalls, and more. Most mode
 virtualization and software-defined networking. This means that physical switches and routers use software to perform packet 
 routing. In the case of cloud networking, the SDN tools are hosted on servers located at the CSP’s data center.
 
-Benefits of cloud computing and software-defined networks:-
-Three of the main reasons that cloud computing is so attractive to businesses are reliability, decreased cost, and increased 
-scalability. 
+ Benefits of cloud computing and software-defined networks:-
+ Three of the main reasons that cloud computing is so attractive to businesses are reliability, decreased cost, and increased 
+ scalability. 
 
 ->Reliability:
 Reliability in cloud computing is based on how available cloud services and resources are, how secure connections are, and how 
