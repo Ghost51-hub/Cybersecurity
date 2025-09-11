@@ -179,3 +179,5 @@ Port numbers:
 ->Port 25 - Email
 
 ->Port 443 - Secure internet communication
+
+->Port 20 - Large file transfers
