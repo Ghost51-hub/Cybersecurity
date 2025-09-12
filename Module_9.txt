@@ -338,3 +338,18 @@ UDP connections. A router uses the IP address to route packets from network to n
 header of a data packet. Header information communicates more than just the address of the destination. It also includes 
 information such as the source IP address, the size of the packet, and which protocol will be used for the data portion of the 
 packet. 
+
+Format of an IPv4 packet:-
+An IP packet divided into two parts: a section on the left marked “header,” and section on the right marked “data”
+An IPv4 packet is made up of two sections, the header and the data:
+
+ An IPv4 header format is determined by the IPv4 protocol and includes the IP routing information that devices use to direct the 
+ packet. The size of the IPv4 header ranges from 20 to 60 bytes. The first 20 bytes are a fixed set of information containing 
+ data such as the source and destination IP address, header length, and total length of the packet. The last set of bytes can 
+ range from 0 to 40 and consists of the options field.
+
+ The length of the data section of an IPv4 packet can vary greatly in size. However, the maximum possible size of an IPv4 packet 
+ is 65,535 bytes. It contains the message being transferred over the internet, like website information or email text. 
+
+ There are 13 fields within the header of an IPv4 packet:
+
