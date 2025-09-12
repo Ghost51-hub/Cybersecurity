@@ -320,4 +320,5 @@ problems or security threats when they occur.
 
 Internet Protocol (IP) address:
 A unique string of characters that identifies the location of a device on the internet.
-
+ ->IP version 4 (IPv4)
+ ->IP version 6 (IPv6)
