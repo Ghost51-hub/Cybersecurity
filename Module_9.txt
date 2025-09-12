@@ -322,3 +322,6 @@ Internet Protocol (IP) address:
 A unique string of characters that identifies the location of a device on the internet.
  ->IP version 4 (IPv4)
  ->IP version 6 (IPv6)
+
+MAC address:
+A unique alphanumeric identifier that is assigned to each physical device on a network. 
