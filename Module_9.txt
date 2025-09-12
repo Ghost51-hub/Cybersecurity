@@ -298,3 +298,9 @@ problems or security threats when they occur.
  segments need to be reassembled at their destination so they can be processed at the session layer (layer 5). The speed and 
  rate of the transmission also has to match the connection speed of the destination system. TCP and UDP are transport layer 
  protocols. 
+
+ Layer 3: Network layer:
+ The network layer oversees receiving the frames from the data link layer (layer 2) and delivers them to the intended destination. 
+ The intended destination can be found based on the address that resides in the frame of the data packets. Data packets allow 
+ communication between two networks. These packets include IP addresses that tell routers where to send them. They are routed 
+ from the sending network to the receiving network. 
