@@ -247,10 +247,15 @@ processes were involved in an incident.
 
  Application layer protocols rely on underlying layers to transfer the data across the network.
 
-TCP/IP model versus OSI model:
-The OSI visually organizes network protocols into different layers. Network professionals often use this model to communicate 
-with each other about potential sources of problems or security threats when they occur. 
+The TCP/IP model vs. the OSI model:
+The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network. This model helps 
+network engineers and security analysts conceptualize processes on the network and communicate where disruptions or security 
+threats occur.
 
-The TCP/IP model combines multiple layers of the OSI model. There are many similarities between the two models. Both models 
-define standards for networking and divide the network communication process into different layers. The TCP/IP model is a 
-simplified version of the OSI model.
+The TCP/IP model has four layers: the network access layer, internet layer, transport layer, and application layer. When 
+analyzing network events, security professionals can determine what layer or layers an attack occurred in based on what processes 
+were involved in the incident. 
+
+The OSI model is a standardized concept that describes the seven layers computers use to communicate and send data over the 
+network. Network and security professionals often use this model to communicate with each other about potential sources of 
+problems or security threats when they occur.
