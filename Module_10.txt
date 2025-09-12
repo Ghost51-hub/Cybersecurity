@@ -4,4 +4,5 @@ of data. Network protocols serve as instructions that come with the information 
 receiving device what to do with the data. Protocols are like a common language that allows devices all across the world to 
 communicate with and understand each other.
 
-Even though network protocols perform an essential function in network communication, security analysts should still understand their associated security implications. Some protocols have vulnerabilities that malicious actors exploit. For example, a nefarious actor could use the Domain Name System (DNS) protocol, which resolves web addresses to IP addresses, to divert traffic from a legitimate website to a malicious website containing malware. 
+Even though network protocols perform an essential function in network communication, security analysts should still understand 
+their associated security implications. Some protocols have vulnerabilities that malicious actors exploit. For example, a nefarious actor could use the Domain Name System (DNS) protocol, which resolves web addresses to IP addresses, to divert traffic from a legitimate website to a malicious website containing malware. 
