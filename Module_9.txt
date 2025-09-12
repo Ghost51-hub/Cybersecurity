@@ -380,3 +380,13 @@ An IPv4 packet is made up of two sections, the header and the data:
 
  ->Protocol: The protocol field tells the receiving device which protocol will be used for the data portion of the packet.
 
+ ->Header Checksum: The header checksum field contains a checksum that can be used to detect corruption of the IP header in 
+   transit. Corrupted packets are discarded.
+
+ ->Source IP Address: The source IP address is the IPv4 address of the sending device.
+
+ ->Destination IP Address: The destination IP address is the IPv4 address of the destination device.
+
+ ->Options: The options field allows for security options to be applied to the packet if the HLEN value is greater than five. 
+   The field communicates these options to the routing devices.
+
