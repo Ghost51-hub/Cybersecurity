@@ -40,7 +40,8 @@ security analyst role. However, it’s important for you to know the ones listed
     request is large, it will switch to using the TCP protocol. In the TCP/IP model, DNS occurs at the application layer.
 
  Management Protocols:
- The next category of network protocols is management protocols. Management protocols are used for monitoring and managing activity on a network. They include protocols for error reporting and optimizing performance on the network.
+ The next category of network protocols is management protocols. Management protocols are used for monitoring and managing 
+ activity on a network. They include protocols for error reporting and optimizing performance on the network.
 
 
 
