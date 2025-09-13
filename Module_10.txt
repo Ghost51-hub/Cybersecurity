@@ -53,8 +53,9 @@ security analyst role. However, it’s important for you to know the ones listed
     transmission. ICMP is commonly used as a quick way to troubleshoot network connectivity and latency by issuing the “ping” 
     command on a Linux operating system. In the TCP/IP model, ICMP occurs at the internet layer.
 
- Security Protocols
-Security protocols are network protocols that ensure that data is sent and received securely across a network. Security protocols use encryption algorithms to protect data in transit. Below are some common security protocols.
+ Security Protocols:
+ Security protocols are network protocols that ensure that data is sent and received securely across a network. Security 
+ protocols use encryption algorithms to protect data in transit. Below are some common security protocols.
 
 
 
