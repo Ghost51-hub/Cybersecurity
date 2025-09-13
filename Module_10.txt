@@ -8,3 +8,8 @@ Even though network protocols perform an essential function in network communica
 their associated security implications. Some protocols have vulnerabilities that malicious actors exploit. For example, a 
 nefarious actor could use the Domain Name System (DNS) protocol, which resolves web addresses to IP addresses, to divert traffic 
 from a legitimate website to a malicious website containing malware. 
+
+Three categories of network protocols:
+Network protocols can be divided into three main categories: communication protocols, management protocols, and security 
+protocols. There are dozens of different network protocols, but you don’t need to memorize all of them for an entry-level 
+security analyst role. However, it’s important for you to know the ones listed in this reading. 
