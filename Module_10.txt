@@ -58,7 +58,8 @@ security analyst role. However, it’s important for you to know the ones listed
  protocols use encryption algorithms to protect data in transit. Below are some common security protocols.
 
   ->Hypertext Transfer Protocol Secure (HTTPS) is a network protocol that provides a secure method of communication between 
-    clients and website servers. HTTPS is a secure version of HTTP that uses secure sockets layer/transport layer security (SSL/TLS) encryption on all transmissions so that malicious actors cannot read the information contained. HTTPS uses port 443. In the TCP/IP model, HTTPS occurs at the application layer.
+    clients and website servers. HTTPS is a secure version of HTTP that uses secure sockets layer/transport layer security 
+    (SSL/TLS) encryption on all transmissions so that malicious actors cannot read the information contained. HTTPS uses port 443. In the TCP/IP model, HTTPS occurs at the application layer.
 
 
 
