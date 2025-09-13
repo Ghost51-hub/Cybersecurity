@@ -68,6 +68,8 @@ security analyst role. However, it’s important for you to know the ones listed
     application layer. SFTP is used often with cloud storage. Every time a user uploads or downloads a file from cloud storage, 
     the file is transferred using the SFTP protocol.
 
+ Note: The encryption protocols mentioned do not conceal the source or destination IP address of network traffic. This means a malicious actor can still learn some basic information about the network traffic if they intercept it. 
+
 
 
 
