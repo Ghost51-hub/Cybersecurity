@@ -29,5 +29,12 @@ security analyst role. However, it’s important for you to know the ones listed
     to their destination quickly. For example, one use of UDP is for sending DNS requests to local DNS servers. In the TCP/IP 
     model, UDP occurs at the transport layer.
 
+  ->Hypertext Transfer Protocol (HTTP) is an application layer protocol that provides a method of communication between clients 
+    and website servers. HTTP uses port 80. HTTP is considered insecure, so it is being replaced on most websites by a secure 
+    version, called HTTPS that uses encryption from SSL/TLS for communication. However, there are still many websites that use 
+    the insecure HTTP protocol. In the TCP/IP model, HTTP occurs at the application layer.
+
+
+
 
 
