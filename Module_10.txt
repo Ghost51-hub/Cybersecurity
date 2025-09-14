@@ -76,7 +76,8 @@ The devices on your local home or office network each have a private IP address 
 each other. However, in order for the devices with private IP addresses to communicate with the public internet, they need to 
 have a single public IP address that represents all devices on the LAN to the public. For outgoing messages, the router can 
 replace a private source IP address with its public IP address and perform the reverse operation for responses. This process is 
-known as Network Address Translation (NAT) and it generally requires a router or firewall to be specifically configured to perform NAT. NAT is a part of layer 2 (internet layer) and layer 3 (transport layer) of the TCP/IP model.
+known as Network Address Translation (NAT) and it generally requires a router or firewall to be specifically configured to 
+perform NAT. NAT is a part of layer 2 (internet layer) and layer 3 (transport layer) of the TCP/IP model.
 
 
 
