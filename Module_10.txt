@@ -85,7 +85,7 @@ protocol used on a network to configure devices. It works with the router to ass
 provide the addresses of the appropriate DNS server and default gateway for each device. DHCP servers operate on UDP port 67 
 while DHCP clients operate on UDP port 68.
 
-Address Resolution Protocol
+Address Resolution Protocol:
 By now, you are familiar with IP and MAC addresses. You’ve learned that each device on a network has a public IP address, a 
 private IP address, and a MAC address that identify it on the network. A device’s IP address may change over time, but its MAC 
 address is permanent because it is unique to a device's network interface card. The MAC address is used to communicate with 
