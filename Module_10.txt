@@ -93,7 +93,8 @@ devices within the same network, but sometimes, the MAC address is unknown. This
 needed. ARP is mainly a network access layer protocol in the TCP/IP model used to translate the IP addresses that are found in 
 data packets into the MAC address of the hardware device. 
 
-Each device on the network performs ARP and keeps track of matching IP and MAC addresses in an ARP cache. ARP does not have a specific port number since it is a layer 2 protocol and port numbers are associated with the layer 7 application layer.
+Each device on the network performs ARP and keeps track of matching IP and MAC addresses in an ARP cache. ARP does not have a 
+specific port number since it is a layer 2 protocol and port numbers are associated with the layer 7 application layer.
 
 
 
