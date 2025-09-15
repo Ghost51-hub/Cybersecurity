@@ -229,7 +229,8 @@ A network security device that monitors traffic to and from your network.
  ->Threat intelligence
 
 Virtual Private Network (VPN):
-A network security servie that changes your public IP address and hides your virtual location so that you can keep your data private when you are using a public network like the internet.
+A network security servie that changes your public IP address and hides your virtual location so that you can keep your data 
+private when you are using a public network like the internet.
 
  Encapsulation:
  A process performed by a VPN service that protects your data by wrapping sensitive data in other data packets. 
@@ -252,3 +253,11 @@ A segment of a network that protects the internal network from the internet.
  ->Internal network.
 
  ->Restricted zone.
+
+Subnetting:
+Subnetting is the subdivision of a network into logical groups called subnets. It works like a network inside a network. 
+Subnetting divides up a network address range into smaller subnets within the network. These smaller subnets form based on the 
+IP addresses and network mask of the devices on the network. Subnetting creates a network of devices to function as their own 
+network. This makes the network more efficient and can also be used to create security zones. If devices on the same subnet 
+communicate with each other, the switch changes the transmissions to stay on the same subnet, improving speed and efficiency 
+of the communications.
