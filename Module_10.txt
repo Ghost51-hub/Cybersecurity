@@ -217,3 +217,9 @@ A network security device that monitors traffic to and from your network.
 
  Stateful:
  A class of firewall that keeps track of information passing through it and proactively filters out threats.
+
+ Stateless:
+ A class of firewall that operates based on predefined rules and does not keep track of information from data packets.
+
+ Benefits of next generation firewalls (NGFWs):
+ ->Deep packet inspection
