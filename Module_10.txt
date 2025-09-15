@@ -210,4 +210,4 @@ Firewall:
 A network security device that monitors traffic to and from your network.
 
  Port filtering:
- A fire
+ A firewall function that blocs or allows certain port numbers to limit unwanted communication.
