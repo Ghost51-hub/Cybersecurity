@@ -133,3 +133,14 @@ Protocols and port numbers:
 Remember that port numbers are used by network devices to determine what should be done with the information contained in each 
 data packet once they reach their destination. Firewalls can filter out unwanted traffic based on port numbers. For example, an 
 organization may configure a firewall to only allow access to TCP port 995 (POP3) by IP addresses belonging to the organization.
+
+Wireless Communication Protocols:
+Many people today refer to wireless internet as Wi-Fi. Wi-Fi refers to a set of standards that define communication for wireless 
+LANs. Wi-Fi is a marketing term commissioned by the Wireless Ethernet Compatibility Alliance (WECA). WECA has since renamed their 
+organization Wi-Fi Alliance. 
+
+Wi-Fi standards and protocols are based on the 802.11 family of internet communication standards determined by the Institute of 
+Electrical and Electronics Engineers (IEEE). So, as a security analyst, you might also see Wi-Fi referred to as IEEE 802.11.
+
+Wi-Fi communications are secured by wireless networking protocols. Wireless security protocols have evolved over the years, 
+helping to identify and resolve vulnerabilities with more advanced wireless technologies.
