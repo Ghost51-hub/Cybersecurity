@@ -288,3 +288,6 @@ serve as a barrier between clients on the network and external threats. Forward 
 they access resources external to the network. Reverse proxies function opposite of forward proxies; they handle requests from 
 external systems to services on the internal network. Some proxy servers can also be configured with rules, like a firewall.  
 For example, you can create filters to block websites identified as containing malware.
+
+ Forward proxy server:
+ Regulates and restricts a person's access to the internet.
