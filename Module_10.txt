@@ -214,3 +214,6 @@ A network security device that monitors traffic to and from your network.
 
  Cloud-based firewalls:
  Software firewalls that are hosted by a cloud service provider.
+
+ Stateful:
+ A class of firewall that keeps track of information passing through it and proactively filters out threats.
