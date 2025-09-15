@@ -302,3 +302,13 @@ that acts as a gateway between a computer and the internet. This server creates 
 the computer’s IP address and encrypts the data in transit to the internet. The main purpose of a VPN is to create a secure 
 connection between a computer and a network. Additionally, a VPN allows trusted connections to be established on non-trusted 
 networks. VPN protocols determine how the secure network tunnel is formed. Different VPN providers provide different VPN protocols.
+
+ Remote access and site-to-site VPNs:
+ Individual users use remote access VPNs to establish a connection between a personal device and a VPN server. Remote access VPNs 
+ encrypt data sent or received through a personal device. The connection between the user and the remote access VPN is established 
+ through the internet.
+
+ Enterprises use site-to-site VPNs largely to extend their network to other networks and locations. This is particularly useful 
+ for organizations that have many offices across the globe. IPSec is commonly used in site-to-site VPNs to create an encrypted 
+ tunnel between the primary network and the remote network. One disadvantage of site-to-site VPNs is how complex they can be to 
+ configure and manage compared to remote VPNs.
