@@ -269,9 +269,15 @@ classes (Class A to Class E). Each class included a limited number of IP address
 connecting to the internet outgrew the classful range in the 1990s. Classless CIDR addressing expanded the number of available 
 IPv4 addresses. 
 
-CIDR allows cybersecurity professionals to segment classful networks into smaller chunks. CIDR IP addresses are formatted like 
-IPv4 addresses, but they include a slash (“/’”) followed by a number at the end of the address, This extra number is called the 
-IP network prefix.  For example, a regular IPv4 address uses the 198.51.100.0 format, whereas a CIDR IP address would include the 
-IP network prefix at the end of the address, 198.51.100.0/24. This CIDR address encompasses all IP addresses between 198.51.100.0
-and 198.51.100.255. The system of CIDR addressing reduces the number of entries in routing tables and provides more available IP 
-addresses within networks.
+ CIDR allows cybersecurity professionals to segment classful networks into smaller chunks. CIDR IP addresses are formatted like 
+ IPv4 addresses, but they include a slash (“/’”) followed by a number at the end of the address, This extra number is called the 
+ IP network prefix.  For example, a regular IPv4 address uses the 198.51.100.0 format, whereas a CIDR IP address would include the 
+ IP network prefix at the end of the address, 198.51.100.0/24. This CIDR address encompasses all IP addresses between 198.51.100.0
+ and 198.51.100.255. The system of CIDR addressing reduces the number of entries in routing tables and provides more available IP 
+ addresses within networks.
+
+ Security benefits of subnetting:
+ Subnetting allows network professionals and analysts to create a network within their own network without requesting another 
+ network IP address from their internet service provider. This process uses network bandwidth more efficiently and improves 
+ network performance. Subnetting is one component of creating isolated subnetworks through physical isolation, routing 
+ configuration, and firewalls.
