@@ -227,3 +227,6 @@ A network security device that monitors traffic to and from your network.
  ->Intrusion protection
 
  ->Threat intelligence
+
+Virtual Private Network (VPN):
+A network security servie that changes your public IP address and hides your virtual location so that you can keep your data private when you are using a public network like the internet.
