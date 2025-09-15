@@ -237,5 +237,11 @@ A network security servie that changes your public IP address and hides your vir
 Security Zone:
 A segment of a network that protects the internal network from the internet.
 
-Network segmentation:
-A security technique that divides the network into segments.
+ Network segmentation:
+ A security technique that divides the network into segments.
+
+ Uncontrolled Zone:
+ Any network outside of the organization's control.
+
+ Controlled Zone:
+ A subnet that protects the internal network from the uncontrolled zone.
