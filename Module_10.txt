@@ -205,3 +205,9 @@ helping to identify and resolve vulnerabilities with more advanced wireless tech
 
  ->WPA3 has increased encryption to make passwords more secure  by using 128-bit encryption, with WPA3-Enterprise mode offering 
    optional 192-bit encryption.
+
+Firewall:
+A network security device that monitors traffic to and from your network.
+
+ Port filtering:
+ A fire
