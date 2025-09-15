@@ -225,3 +225,5 @@ A network security device that monitors traffic to and from your network.
  ->Deep packet inspection
 
  ->Intrusion protection
+
+ ->Threat intelligence
