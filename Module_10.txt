@@ -294,3 +294,11 @@ For example, you can create filters to block websites identified as containing m
 
  Reverse proxy server:
  Regulates and restricts the internet's access to an internal server.
+
+VPN protocols: Wireguard and IPSec:-
+A VPN, or virtual private network, is a network security service that changes your public IP address and hides your virtual 
+location so that you can keep your data private when you’re using a public network like the internet. VPNs provide a server 
+that acts as a gateway between a computer and the internet. This server creates a path similar to a virtual tunnel that hides 
+the computer’s IP address and encrypts the data in transit to the internet. The main purpose of a VPN is to create a secure 
+connection between a computer and a network. Additionally, a VPN allows trusted connections to be established on non-trusted 
+networks. VPN protocols determine how the secure network tunnel is formed. Different VPN providers provide different VPN protocols.
