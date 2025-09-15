@@ -281,3 +281,10 @@ IPv4 addresses.
  network IP address from their internet service provider. This process uses network bandwidth more efficiently and improves 
  network performance. Subnetting is one component of creating isolated subnetworks through physical isolation, routing 
  configuration, and firewalls.
+
+Proxy servers:
+A proxy server is another way to add security to your private network. Proxy servers utilize network address translation (NAT) to 
+serve as a barrier between clients on the network and external threats. Forward proxies handle queries from internal clients when 
+they access resources external to the network. Reverse proxies function opposite of forward proxies; they handle requests from 
+external systems to services on the internal network. Some proxy servers can also be configured with rules, like a firewall.  
+For example, you can create filters to block websites identified as containing malware.
