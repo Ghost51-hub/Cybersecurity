@@ -291,3 +291,6 @@ For example, you can create filters to block websites identified as containing m
 
  Forward proxy server:
  Regulates and restricts a person's access to the internet.
+
+ Reverse proxy server:
+ Regulates and restricts the internet's access to an internal server.
