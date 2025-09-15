@@ -116,5 +116,10 @@ TCP/UDP port 110 and encrypted emails use Secure Sockets Layer/Transport Layer S
 When using POP, mail has to finish downloading on a local device before it can be read. After downloading, the mail may or may 
 not be deleted from the mail server, so it does not guarantee that a user can sync the same email across multiple devices. 
 
+Internet Message Access Protocol (IMAP):
+IMAP is used for incoming email. It downloads the headers of emails and the message content. The content also remains on the 
+email server, which allows users to access their email from multiple devices. IMAP uses TCP port 143 for unencrypted email and 
+TCP port 993 over the TLS protocol. Using IMAP allows users to partially read email before it is finished downloading. Since the 
+mail is kept on the mail server, it allows a user to sync emails across multiple devices. 
 
 
