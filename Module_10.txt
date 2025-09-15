@@ -230,3 +230,6 @@ A network security device that monitors traffic to and from your network.
 
 Virtual Private Network (VPN):
 A network security servie that changes your public IP address and hides your virtual location so that you can keep your data private when you are using a public network like the internet.
+
+ Encapsulation:
+ A process performed by a VPN service that protects your data by wrapping sensitive data in other data packets. 
