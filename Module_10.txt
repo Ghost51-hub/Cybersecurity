@@ -245,3 +245,10 @@ A segment of a network that protects the internal network from the internet.
 
  Controlled Zone:
  A subnet that protects the internal network from the uncontrolled zone.
+
+ Areas in the controlled zone:
+ ->Demilitarized zone(DMZ)
+
+ ->Internal network.
+
+ ->Restricted zone.
