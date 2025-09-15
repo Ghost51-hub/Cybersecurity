@@ -233,3 +233,6 @@ A network security servie that changes your public IP address and hides your vir
 
  Encapsulation:
  A process performed by a VPN service that protects your data by wrapping sensitive data in other data packets. 
+
+Security Zone:
+A segment of a network that protects the internal network from the internet.
