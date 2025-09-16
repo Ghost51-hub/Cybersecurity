@@ -157,3 +157,15 @@ and suspicious traffic.
  An important way to protect against a smurf attack is to use an advanced firewall that can monitor any unusual traffic on the 
  network. Most next generation firewalls (NGFW) include features that detect network anomalies to ensure that oversized broadcasts 
  are detected before they have a chance to bring down the network.
+
+ ->DoS attack
+ As you’ve learned, once the malicious actor has sniffed the network traffic, they can impersonate an authorized user. A Denial 
+ of Service attack is a class of attacks where the attacker prevents the compromised system from performing legitimate activity 
+ or responding to legitimate traffic. Unlike IP spoofing, however, the attacker will not receive a response from the targeted 
+ host. Everything about the data packet is authorized including the IP address in the header of the packet. In IP spoofing 
+ attacks, the malicious actor uses IP packets containing fake IP addresses. The attackers keep sending IP packets containing fake 
+ IP addresses until the network server crashes.
+
+ Pro Tip: Remember the principle of defense-in-depth. There isn’t one perfect strategy for stopping each kind of attack. You can 
+ layer your defense by using multiple strategies. In this case, using industry standard encryption will strengthen your security 
+ and help you defend from DoS attacks on more than one level. 
