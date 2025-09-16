@@ -126,4 +126,9 @@ information based on the protocol. This occurs in all standard network operation
 which means that it accepts all traffic on the network, even the packets that aren’t addressed to the NIC’s device. You’ll learn 
 more about NIC’s later in the program. Malicious actors might use software like Wireshark to capture the data on a private network 
 and store it for later use. They can then use the personal information to their own advantage. Alternatively, they might use the 
-IP and MAC addresses of authorized users of the private network to perform IP spoofin
+IP and MAC addresses of authorized users of the private network to perform IP spoofing.
+
+IP spoofing:
+After a malicious actor has sniffed packets on the network, they can impersonate the IP and MAC addresses of authorized devices 
+to perform an IP spoofing attack. Firewalls can prevent IP spoofing attacks by configuring it to refuse unauthorized IP packets 
+and suspicious traffic. 
