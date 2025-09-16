@@ -118,3 +118,12 @@ There are a wide variety of network protocol analyzers available, but some of th
  However, attackers can also use network protocol analyzers maliciously to gain information about a specific network. For 
  example, attackers can capture data packets that contain sensitive information, such as account usernames and passwords. As a 
  cybersecurity analyst, It’s important to understand the purpose and uses of network protocol analyzers. 
+
+packet sniffing:
+The device’s Network Interface Card (NIC) is a piece of hardware that connects the device to a network. The NIC reads the data 
+transmission, and if it contains the device’s MAC address, it accepts the packet and sends it to the device to process the 
+information based on the protocol. This occurs in all standard network operations. However, a NIC can be set to promiscuous mode,
+which means that it accepts all traffic on the network, even the packets that aren’t addressed to the NIC’s device. You’ll learn 
+more about NIC’s later in the program. Malicious actors might use software like Wireshark to capture the data on a private network 
+and store it for later use. They can then use the personal information to their own advantage. Alternatively, they might use the 
+IP and MAC addresses of authorized users of the private network to perform IP spoofin
