@@ -119,7 +119,7 @@ There are a wide variety of network protocol analyzers available, but some of th
  example, attackers can capture data packets that contain sensitive information, such as account usernames and passwords. As a 
  cybersecurity analyst, It’s important to understand the purpose and uses of network protocol analyzers. 
 
-packet sniffing:
+Packet Sniffing:
 The device’s Network Interface Card (NIC) is a piece of hardware that connects the device to a network. The NIC reads the data 
 transmission, and if it contains the device’s MAC address, it accepts the packet and sends it to the device to process the 
 information based on the protocol. This occurs in all standard network operations. However, a NIC can be set to promiscuous mode,
@@ -127,7 +127,12 @@ which means that it accepts all traffic on the network, even the packets that ar
 more about NIC’s later in the program. Malicious actors might use software like Wireshark to capture the data on a private network 
 and store it for later use. They can then use the personal information to their own advantage. Alternatively, they might use the 
 IP and MAC addresses of authorized users of the private network to perform IP spoofing.
+ 
+ Passive Packet Sniffing:
+ A type of attack where data packets are read in transit.
 
+ Active Packet Sniffing:
+ A type of attack where data packets are manipulated in transit.
 IP spoofing:
 After a malicious actor has sniffed packets on the network, they can impersonate the IP and MAC addresses of authorized devices 
 to perform an IP spoofing attack. Firewalls can prevent IP spoofing attacks by configuring it to refuse unauthorized IP packets 
