@@ -39,3 +39,6 @@ Possible impacts on an organization:
    of a country. In recent years, defense agencies across the globe are investing heavily in combating cyber warfare tactics. If 
    a malicious actor gained access to a power grid, a public water system, or even a military defense communication system, the 
    public could face physical harm due to a network 
+
+Denial of Service Attack (DoS):
+An attack that targets a network or server and floods it with network traffic.  
