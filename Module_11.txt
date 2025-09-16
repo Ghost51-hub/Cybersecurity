@@ -169,3 +169,7 @@ and suspicious traffic.
  Pro Tip: Remember the principle of defense-in-depth. There isn’t one perfect strategy for stopping each kind of attack. You can 
  layer your defense by using multiple strategies. In this case, using industry standard encryption will strengthen your security 
  and help you defend from DoS attacks on more than one level. 
+
+ ->Replay Attack:
+ A network attack performed when a malicious aactor intercepts a data packet in transit and delays it or repeats it at another 
+ time.
