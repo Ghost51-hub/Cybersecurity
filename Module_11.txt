@@ -44,4 +44,5 @@ Denial of Service Attack (DoS):
 An attack that targets a network or server and floods it with network traffic.
 
  Distributed Denial of Service Attack (DDoS):
- A type of denial of service attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic.
+ A type of denial of service attack that uses multiple devices or servers in different locations to flood the target network with 
+ unwanted traffic.
