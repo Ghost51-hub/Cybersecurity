@@ -55,3 +55,6 @@ An attack that targets a network or server and floods it with network traffic.
 
  Internet Control Message Protocol (ICMP) flood:
  A type of DoS attack performed by an attacker repeatedly sending ICMP packets to a network server.
+
+ Ping of Death:
+ A type of Dos attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB.
