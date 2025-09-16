@@ -133,6 +133,7 @@ IP and MAC addresses of authorized users of the private network to perform IP sp
 
  Active Packet Sniffing:
  A type of attack where data packets are manipulated in transit.
+
 IP spoofing:
 After a malicious actor has sniffed packets on the network, they can impersonate the IP and MAC addresses of authorized devices 
 to perform an IP spoofing attack. Firewalls can prevent IP spoofing attacks by configuring it to refuse unauthorized IP packets 
