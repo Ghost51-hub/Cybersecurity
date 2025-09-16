@@ -49,3 +49,6 @@ An attack that targets a network or server and floods it with network traffic.
 
  SYN (synchronize) flood attack:
  A type of DoS attack that simulates a TCP connection and floods a server with SYN packets.
+
+ Internet Control Message Protocol (ICMP):
+ An internet protocol used by devices to tell each other about data transmission errors across the network.
