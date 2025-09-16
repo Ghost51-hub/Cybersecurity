@@ -46,3 +46,6 @@ An attack that targets a network or server and floods it with network traffic.
  Distributed Denial of Service Attack (DDoS):
  A type of denial of service attack that uses multiple devices or servers in different locations to flood the target network with 
  unwanted traffic.
+
+ SYN (synchronize) flood attack:
+ A type of DoS attack that simulates a TCP connection and floods a server with SYN packets.
