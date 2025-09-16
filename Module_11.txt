@@ -102,3 +102,19 @@ There are a wide variety of network protocol analyzers available, but some of th
 
   Note: By default, tcpdump will attempt to resolve host addresses to hostnames. It'll also replace port numbers with commonly 
   associated services that use these ports.
+
+ Common uses:
+ tcpdump and other network protocol analyzers are commonly used to capture and view network communications and to collect 
+ statistics about the network, such as troubleshooting network performance issues. They can also be used to:
+
+ ->Establish a baseline for network traffic patterns and network utilization metrics.
+
+ ->Detect and identify malicious traffic
+
+ ->Create customized alerts to send the right notifications when network issues or security threats arise.
+
+ ->Locate unauthorized instant messaging (IM), traffic, or wireless access points.
+
+ However, attackers can also use network protocol analyzers maliciously to gain information about a specific network. For 
+ example, attackers can capture data packets that contain sensitive information, such as account usernames and passwords. As a 
+ cybersecurity analyst, It’s important to understand the purpose and uses of network protocol analyzers. 
