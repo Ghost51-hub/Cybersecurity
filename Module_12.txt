@@ -12,3 +12,6 @@ The process of strengthening a system to reduce its vulnerability and attack sur
  ->Applications
 
  ->Computer networks
+
+Penetration Test:
+A simulated attack that helps identify vulnerabilities in system, networks, websites, applications, and processes.
