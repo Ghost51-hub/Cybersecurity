@@ -221,3 +221,15 @@ scalability of these options. Cloud computing presents unique security challenge
  Cloud networking offers various options that might appear attractive to a small company—options that they could never afford to 
  build on their own premises. However, it is important to consider that each service adds complexity to the security profile of 
  the organization, and they will need security personnel to monitor all of the cloud services. 
+
+ Shared responsibility model:
+ A commonly accepted cloud security principle is the shared responsibility model. The shared responsibility model states that the 
+ CSP must take responsibility for security involving the cloud infrastructure, including physical data centers, hypervisors, and
+ host operating systems. The company using the cloud service is responsible for the assets and processes that they store or operate 
+ in the cloud.
+
+ The shared responsibility model ensures that both the CSP and the users agree about where their responsibility for security 
+ begins and ends. A problem occurs when organizations assume that the CSP is taking care of security that they have not taken 
+ responsibility for. One example of this is cloud applications and configurations. The CSP takes responsibility for securing the 
+ cloud, but it is the organization’s responsibility to ensure that services are configured properly according to the security 
+ requirements of their organization. 
