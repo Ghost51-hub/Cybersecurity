@@ -176,4 +176,15 @@ scalability of these options. Cloud computing presents unique security challenge
  configuration to uphold security and compliance standards. This challenge intensifies during cloud migrations, where ensuring 
  accurate configuration for every migrated process is critical. Neglect in this area can expose the network to vulnerabilities. 
  Misconfigured cloud services are a frequent source of security breaches, underscoring the importance of meticulous attention to
-detail by network administrators and architects during the migration and ongoing management of cloud services.
+ detail by network administrators and architects during the migration and ongoing management of cloud services.
+
+ Attack surface:
+ Cloud service providers (CSPs) offer numerous applications and services for organizations at a low cost. 
+
+ Every service or application on a network carries its own set of risks and vulnerabilities and increases an organization’s 
+ overall attack surface. An increased attack surface must be compensated for with increased security measures.
+
+ Cloud networks that utilize many services introduce lots of entry points into an organization’s network. However, if the network 
+ is designed correctly, utilizing several services does not introduce more entry points into an organization’s network design. 
+ These entry points can be used to introduce malware onto the network and pose other security vulnerabilities. It is important to
+ note that CSPs often defer to more secure options, and have undergone more scrutiny than a traditional on-premises network. 
