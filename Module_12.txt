@@ -161,3 +161,7 @@ Network Security Hardening:
  a way to aggregate security event data so that it all appears in one place for security analysts to analyze. This is referred to 
  as a single pane of glass. 
 
+Cloud security considerations:
+Many organizations choose to use cloud services because of the ease of deployment, speed of deployment, cost savings, and 
+scalability of these options. Cloud computing presents unique security challenges that cybersecurity analysts need to be aware of. 
+
