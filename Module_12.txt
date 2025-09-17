@@ -149,3 +149,8 @@ Network Security Hardening:
  is inline: If it breaks, the connection between the private network and the internet breaks. Another limitation of IPS is the 
  possibility of false positives, which can result in legitimate traffic getting dropped.
 
+ Full packet capture devices: 
+ Full packet capture devices can be incredibly useful for network administrators and security professionals. These devices allow 
+ you to record and analyze all of the data that is transmitted over your network. They also aid in investigating alerts created 
+ by an IDS. 
+
