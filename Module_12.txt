@@ -49,3 +49,8 @@ attacks that malicious actors use to guess passwords, including:
 
 Using brute force to access a system can be a tedious and time consuming process, especially when it’s done manually. There are a 
 range of tools attackers use to conduct their attacks. 
+
+Assessing Vulnerabilities:
+Before a brute force attack or other cybersecurity incident occurs, companies can run a series of tests on their network or web 
+applications to assess vulnerabilities. Analysts can use virtual machines and sandboxes to test suspicious files, check for 
+vulnerabilities before an event occurs, or to simulate a cybersecurity incident.
