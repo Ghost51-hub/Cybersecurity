@@ -1,5 +1,14 @@
 Security Hardening:
 The process of strengthening a system to reduce its vulnerability and attack surface.
 
-Attack Surface:
-All the potential vulnerabilities that a threat actor could exploit.
+ Attack Surface:
+ All the potential vulnerabilities that a threat actor could exploit.
+
+ Security Hardening is conducted on:
+ ->Hardware
+
+ ->Operating System 
+
+ ->Applications
+
+ ->Computer networks
