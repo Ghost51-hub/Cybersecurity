@@ -119,3 +119,16 @@ Network Security Hardening:
  enter a network, the packet header is inspected and allowed or denied based on its port number. NGFWs are also able to inspect 
  packet payloads. Each system should have its own firewall, regardless of the network firewall.
 
+ Intrusion Detection System: 
+ An intrusion detection system (IDS) is an application that monitors system activity and alerts on possible intrusions. An IDS 
+ alerts administrators based on the signature of malicious traffic.
+
+ The IDS is configured to detect known attacks. IDS systems often sniff data packets as they move across the network and analyze 
+ them for the characteristics of known attacks. Some IDS systems review not only for signatures of known attacks, but also for 
+ anomalies that could be the sign of malicious activity. When the IDS discovers an anomaly, it sends an alert to the network 
+ administrator who can then investigate further.
+
+ The limitations to IDS systems are that they can only scan for known attacks or obvious anomalies. New and sophisticated attacks 
+ might not be caught. The other limitation is that the IDS doesn’t actually stop the incoming traffic if it detects something awry. 
+ It’s up to the network administrator to catch the malicious activity before it does anything damaging to the network. 
+
