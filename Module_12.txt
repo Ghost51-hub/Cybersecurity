@@ -21,3 +21,6 @@ The interface between computer hardware and the user.
 
  Patch Update:
  A software and operating system update that addresses security vulnerabilities within a program or product.
+
+ Baseline Configuration (baseline image):
+ A documented set of specifiations within a system that is used as a basis for future builds, releases, and updates.
