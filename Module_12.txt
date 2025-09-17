@@ -170,3 +170,10 @@ scalability of these options. Cloud computing presents unique security challenge
  in their environment. This service also authorizes how users can use different cloud resources. A common problem that 
  organizations face when using the cloud is the loose configuration of cloud user roles. An improperly configured user role 
  increases risk by allowing unauthorized users to have access to critical cloud operations. 
+ 
+ Configuration
+ The expanding cloud ecosystem introduces significant complexity to network management. Each cloud service necessitates precise 
+ configuration to uphold security and compliance standards. This challenge intensifies during cloud migrations, where ensuring 
+ accurate configuration for every migrated process is critical. Neglect in this area can expose the network to vulnerabilities. 
+ Misconfigured cloud services are a frequent source of security breaches, underscoring the importance of meticulous attention to
+detail by network administrators and architects during the migration and ongoing management of cloud services.
