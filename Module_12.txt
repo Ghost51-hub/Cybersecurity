@@ -207,3 +207,17 @@ scalability of these options. Cloud computing presents unique security challenge
  third-party audits to verify how secure a cloud network is and identify potential vulnerabilities. The audits can help 
  organizations identify whether any vulnerabilities originate from on-premise infrastructure and if there are any compliance 
  lapses from their CSP. 
+
+ Things change fast in the cloud
+ CSPs are large organizations that work hard to stay up-to-date with technology advancements. For organizations that are used to 
+ being in control of any adjustments made to their network, this can be a potential challenge to keep up with. Cloud service 
+ updates can affect security considerations for the organizations using them. For example, connection configurations might need 
+ to be changed based on the CSP’s updates. 
+
+ Organizations that use CSPs usually have to update their IT processes. It is possible for organizations to continue following 
+ established best practices for changes, configurations, and other security considerations. However, an organization might have 
+ to adopt a different approach in a way that aligns with changes made by the CSP. 
+
+ Cloud networking offers various options that might appear attractive to a small company—options that they could never afford to 
+ build on their own premises. However, it is important to consider that each service adds complexity to the security profile of 
+ the organization, and they will need security personnel to monitor all of the cloud services. 
