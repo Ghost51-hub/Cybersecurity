@@ -99,7 +99,7 @@ Some common measures organizations use to prevent brute force attacks and simila
    can be reused or not, and if there are limits to how many times a user can attempt to log in before their account is suspended.
 
 Network Security Hardening:
- ->Port Filtering
+ ->Port Filtering: A firewall function that blocks or allows certain port numbers to limit unwanted communication.
 
  ->Network Access Privilage
 
