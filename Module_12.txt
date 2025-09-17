@@ -180,6 +180,13 @@ security hardening techniques include incorporating IAM, hypervisors, baselining
  in hypervisors or misconfigurations can lead to virtual machine escapes (VM escapes). A VM escape is an exploit where a malicious 
  actor gains access to the primary hypervisor, potentially the host computer and other VMs. As a CSP customer, you will rarely 
  deal with hypervisors directly.
+
+ Baselining:
+ Baselining for cloud networks and operations cover how the cloud environment is configured and set up. A baseline is a fixed 
+ reference point. This reference point can be used to compare changes made to a cloud environment. Proper configuration and setup 
+ can greatly improve the security and performance of a cloud environment. Examples of establishing a baseline in a cloud 
+ environment include: restricting access to the admin portal of the cloud environment, enabling password management, enabling 
+ file encryption, and enabling threat detection services for SQL databases.
  
  Configuration
  The expanding cloud ecosystem introduces significant complexity to network management. Each cloud service necessitates precise 
