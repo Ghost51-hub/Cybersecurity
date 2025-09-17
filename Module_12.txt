@@ -106,11 +106,11 @@ Network Security Hardening:
  ->Encryption
 
  Tasks Performed:
- ->Firewll rules maintenance
+  ->Firewll rules maintenance
 
- ->Network log analysis 
+  ->Network log analysis: The process of examining network logs to identify events of interest.
 
- ->Patch updates
+  ->Patch updates
 
- ->Server backups
+  ->Server backups
 
