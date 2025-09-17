@@ -27,3 +27,10 @@ The interface between computer hardware and the user.
 
 Multi-factor authentication (MFA):
 A security measure which requires a user to verify their identity in two or more ways to access a system or network.
+
+ Categories fo multi-factor identification:
+ ->Something you know
+
+ ->Something you have
+
+ ->Something unique about you
