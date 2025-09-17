@@ -97,3 +97,11 @@ Some common measures organizations use to prevent brute force attacks and simila
  ->Password policies: Organizations use password policies to standardize good password practices throughout the business. 
    Policies can include guidelines on how complex a password should be, how often users need to update passwords, whether passwords 
    can be reused or not, and if there are limits to how many times a user can attempt to log in before their account is suspended.
+
+Network Security Hardening:
+ ->Port Filtering
+
+ ->Network Access Privilage
+
+ ->Encryption
+
