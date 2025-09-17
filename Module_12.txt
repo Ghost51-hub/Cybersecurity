@@ -105,3 +105,12 @@ Network Security Hardening:
 
  ->Encryption
 
+ Tasks Performed:
+ ->Firewll rules maintenance
+
+ ->Network log analysis 
+
+ ->Patch updates
+
+ ->Server backups
+
