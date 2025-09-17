@@ -15,3 +15,6 @@ The process of strengthening a system to reduce its vulnerability and attack sur
 
 Penetration Test:
 A simulated attack that helps identify vulnerabilities in system, networks, websites, applications, and processes.
+
+Operating System (OS):
+The interface between computer hardware and the user.
