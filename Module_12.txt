@@ -195,3 +195,15 @@ scalability of these options. Cloud computing presents unique security challenge
  occurring before a traditional IT organization does. CSPs have ways of patching hypervisors and migrating workloads to other 
  virtual machines. These methods ensure the customers are not impacted by the attack. There are also several tools available for
  patching at the operating system level that organizations can use.
+
+ Visibility and tracking:
+ Network administrators have access to every data packet crossing the network with both on-premise and cloud networks. They can 
+ sniff and inspect data packets to learn about network performance or to check for possible threats and attacks.
+
+ This kind of visibility is also offered in the cloud through flow logs and tools, such as packet mirroring. CSPs take 
+ responsibility for security in the cloud, but they do not allow the organizations that use their infrastructure to monitor 
+ traffic on the CSP’s servers. Many CSPs offer strong security measures to protect their infrastructure. Still, this situation 
+ might be a concern for organizations that are accustomed to having full access to their network and operations. CSPs pay for 
+ third-party audits to verify how secure a cloud network is and identify potential vulnerabilities. The audits can help 
+ organizations identify whether any vulnerabilities originate from on-premise infrastructure and if there are any compliance 
+ lapses from their CSP. 
