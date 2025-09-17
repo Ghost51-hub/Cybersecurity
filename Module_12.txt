@@ -154,3 +154,10 @@ Network Security Hardening:
  you to record and analyze all of the data that is transmitted over your network. They also aid in investigating alerts created 
  by an IDS. 
 
+ Security Information and Event Management:
+ A security information and event management system (SIEM) is an application that collects and analyzes log data to monitor 
+ critical activities in an organization. SIEM tools work in real time to report suspicious activity in a centralized dashboard. 
+ SIEM tools additionally analyze network log data sourced from IDSs, IPSs, firewalls, VPNs, proxies, and DNS logs. SIEM tools are 
+ a way to aggregate security event data so that it all appears in one place for security analysts to analyze. This is referred to 
+ as a single pane of glass. 
+
