@@ -24,3 +24,6 @@ The interface between computer hardware and the user.
 
  Baseline Configuration (baseline image):
  A documented set of specifiations within a system that is used as a basis for future builds, releases, and updates.
+
+Multi-factor authentication (MFA):
+A security measure which requires a user to verify their identity in two or more ways to access a system or network.
