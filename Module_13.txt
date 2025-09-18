@@ -68,3 +68,7 @@ instructions is to verify the health of the computer’s hardware.
 
 The last instruction from the BIOS or UEFI activates the bootloader. The bootloader is a software program that boots the operating 
 system. Once the operating system has finished booting, your computer is ready for use.
+
+ Completing a task:
+ Operating systems help us use computers more efficiently. Once a computer has gone through the booting process, completing a task 
+ on a computer is a four-part process.
