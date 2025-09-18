@@ -176,10 +176,14 @@ CLI vs. GUI:
 A graphical user interface (GUI) is a user interface that uses icons on the screen to manage different tasks on the computer. 
 A command-line interface (CLI) is a text-based user interface that uses commands to interact with the computer. 
 
- Display:
- One notable difference between these two interfaces is how they appear on the screen. A GUI has graphics and icons, such as the 
- icons on your desktop or taskbar for launching programs. In contrast, a CLI only has text. It looks similar to lines of code. 
+ ->Display:
+   One notable difference between these two interfaces is how they appear on the screen. A GUI has graphics and icons, such as the 
+   icons on your desktop or taskbar for launching programs. In contrast, a CLI only has text. It looks similar to lines of code. 
 
- Function:
- These two interfaces also differ in how they function. A GUI is an interface that only allows you to make one request at a time. 
- However, a CLI allows you to make multiple requests at a time. 
+ ->Function:
+   These two interfaces also differ in how they function. A GUI is an interface that only allows you to make one request at a time. 
+   However, a CLI allows you to make multiple requests at a time. 
+
+ Advantages of a CLI in cybersecurity:
+ The choice between using a GUI or CLI is partly based on personal preference, but security analysts should be able to use both 
+ interfaces. Using a CLI can provide certain advantages.
