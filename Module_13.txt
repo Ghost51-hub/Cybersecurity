@@ -72,3 +72,9 @@ system. Once the operating system has finished booting, your computer is ready f
  Completing a task:
  Operating systems help us use computers more efficiently. Once a computer has gone through the booting process, completing a task 
  on a computer is a four-part process.
+
+ The process moves from user to application to operating systems and finally to hardware.
+
+  User:
+  The first part of the process is the user. The user initiates the process by having something they want to accomplish on the 
+  computer. Right now, you’re a user!  You’ve initiated the process of accessing this reading.
