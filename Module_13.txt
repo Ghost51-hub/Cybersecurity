@@ -36,3 +36,21 @@ system and all of its components up to date.
 
  Legacy operating systems can be vulnerable to security issues because they’re no longer supported or updated. This means that 
  legacy operating systems might be vulnerable to new threats. 
+
+ Other vulnerabilities:
+ Even when operating systems are kept up to date, they can still become vulnerable to attack. Below are several resources that 
+ include information on operating systems and their vulnerabilities.
+
+ ->Microsoft Security Response Center (MSRC): A list of known vulnerabilities affecting Microsoft products and services
+
+ ->Apple Security Updates: A list of security updates and information for Apple® operating systems, including macOS and iOS, and 
+   other products
+
+ ->Common Vulnerabilities and Exposures (CVE) Report for Ubuntu: A list of known vulnerabilities affecting Ubuntu, which is a 
+   specific distribution of Linux
+
+ ->Google Cloud Security Bulletin: A list of known vulnerabilities affecting Google Cloud products and services
+
+ Keeping an operating system up to date is one key way to help the system stay secure. Because it can be difficult to keep all 
+ systems updated at all times, it’s important for security analysts to be knowledgeable about legacy operating systems and the 
+ risks they can create.
