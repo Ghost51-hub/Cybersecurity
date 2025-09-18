@@ -10,6 +10,7 @@ The interface between computer hardware and the user.
 
  Linux:
  The first version of Linux was released in 1991, and other major releases followed in the early 1990s. Linux is a completely 
- open-source operating system, which means that anyone can access Linux and its source code. The open-source nature of Linux allows developers in the Linux community to collaborate.
+ open-source operating system, which means that anyone can access Linux and its source code. The open-source nature of Linux 
+ allows developers in the Linux community to collaborate.
 
  Linux is particularly important to the security industry. There are some distributions that are specifically designed for security. Later in this course, you’ll learn about Linux and its importance to the security industry.
