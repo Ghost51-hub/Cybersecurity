@@ -171,3 +171,7 @@ and function similarly to a typical computer.
  In addition to virtual machines, there are other forms of virtualization. Some of these virtualization technologies do not use 
  operating systems. For example, multiple virtual servers can be created from a single physical server. Virtual networks can also 
  be created to more efficiently use the hardware of a physical network. 
+
+CLI vs. GUI:
+A graphical user interface (GUI) is a user interface that uses icons on the screen to manage different tasks on the computer. 
+A command-line interface (CLI) is a text-based user interface that uses commands to interact with the computer. 
