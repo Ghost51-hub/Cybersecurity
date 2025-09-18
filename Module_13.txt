@@ -145,3 +145,15 @@ and function similarly to a typical computer.
   Note: Although using virtual machines is useful when investigating potentially infected machines or running malware in a 
   constrained environment, there are still some risks. For example, a malicious program can escape virtualization and access the 
   host machine. This is why you should never completely trust virtualized systems.
+
+  Efficiency:
+  Using virtual machines can also be an efficient and convenient way to perform security tasks. You can open multiple virtual 
+  machines at once and switch easily between them. This allows you to streamline security tasks, such as testing and exploring 
+  various applications.
+
+  You can compare the efficiency of a virtual machine to a city bus. A single city bus has a lot of room and is an efficient way 
+  to transport many people simultaneously. If city buses didn’t exist, then everyone on the bus would have to drive their own cars. 
+  This uses more gas, cars, and other resources than riding the city bus. 
+
+  Similar to how many people can ride one bus, many virtual machines can be hosted on the same physical machine. That way, 
+  separate physical machines aren't needed to perform certain tasks.
