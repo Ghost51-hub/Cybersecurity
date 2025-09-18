@@ -2,3 +2,4 @@ Operating System (OS):
 The interface between computer hardware and the user.
 
 Hardware:
+The physical components of a computer.
