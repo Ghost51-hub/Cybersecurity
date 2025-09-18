@@ -16,5 +16,5 @@ The interface between computer hardware and the user.
  Linux is particularly important to the security industry. There are some distributions that are specifically designed for 
  security. Later in this course, you’ll learn about Linux and its importance to the security industry.
 
- ChromeOS
-ChromeOS launched in 2011. It’s partially open source and is derived from Chromium OS, which is completely open source. ChromeOS is frequently used in the education field.
+ ChromeOS:
+ ChromeOS launched in 2011. It’s partially open source and is derived from Chromium OS, which is completely open source. ChromeOS is frequently used in the education field.
