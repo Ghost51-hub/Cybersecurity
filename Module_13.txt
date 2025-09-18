@@ -25,5 +25,6 @@ The interface between computer hardware and the user.
  typically used in mobile devices, such as phones, tablets, and watches. Android was introduced for public use in 2008, and iOS 
  was introduced in 2007. Android is open source, and iOS is partially open source.
 
-Operating systems and vulnerabilities
-Security issues are inevitable with all operating systems. An important part of protecting an operating system is keeping the system and all of its components up to date.
+Operating systems and vulnerabilities:
+Security issues are inevitable with all operating systems. An important part of protecting an operating system is keeping the 
+system and all of its components up to date.
