@@ -13,4 +13,5 @@ The interface between computer hardware and the user.
  open-source operating system, which means that anyone can access Linux and its source code. The open-source nature of Linux 
  allows developers in the Linux community to collaborate.
 
- Linux is particularly important to the security industry. There are some distributions that are specifically designed for security. Later in this course, you’ll learn about Linux and its importance to the security industry.
+ Linux is particularly important to the security industry. There are some distributions that are specifically designed for 
+ security. Later in this course, you’ll learn about Linux and its importance to the security industry.
