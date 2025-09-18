@@ -54,3 +54,17 @@ system and all of its components up to date.
  Keeping an operating system up to date is one key way to help the system stay secure. Because it can be difficult to keep all 
  systems updated at all times, it’s important for security analysts to be knowledgeable about legacy operating systems and the 
  risks they can create.
+
+Booting the computer:
+When you boot, or turn on, your computer, either a BIOS or UEFI microchip is activated. The Basic Input/Output System (BIOS) is a 
+microchip that contains loading instructions for the computer and is prevalent in older systems. The Unified Extensible Firmware 
+Interface (UEFI) is a microchip that contains loading instructions for the computer and replaces BIOS on more modern systems.
+
+The BIOS and UEFI chips both perform the same function for booting the computer. BIOS was the standard chip until 2007, when UEFI 
+chips increased in use. Now, most new computers include a UEFI chip. UEFI provides enhanced security features.
+
+The BIOS or UEFI microchips contain a variety of loading instructions for the computer to follow. For example, one of the loading 
+instructions is to verify the health of the computer’s hardware.
+
+The last instruction from the BIOS or UEFI activates the bootloader. The bootloader is a software program that boots the operating 
+system. Once the operating system has finished booting, your computer is ready for use.
