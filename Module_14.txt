@@ -33,3 +33,11 @@ Standard, the kernel, and the hardware.
  The kernel is the component of the Linux OS that manages processes and memory. It communicates with the applications to route 
  commands. The Linux kernel is unique to the Linux OS and is critical for allocating resources in the system. The kernel controls 
  all major functions of the hardware, which can help get tasks expedited more efficiently.
+
+ Hardware:
+ The hardware is the physical components of a computer. Hardware is categorized as either peripheral or internal. 
+
+  Peripheral devices:
+  Peripheral devices are hardware components that are attached and controlled by the computer system. They are not core components 
+  needed to run the computer system. Peripheral devices can be added or removed freely. Examples of peripheral devices include 
+  monitors, printers, the keyboard, and the mouse.
