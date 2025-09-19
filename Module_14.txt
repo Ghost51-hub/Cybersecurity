@@ -98,4 +98,17 @@ There are multiple other Linux distributions that security analysts should be fa
  code published by Red Hat to provide a similar platform. AlmaLinux is designed to be a drop-in replacement for CentOS 8. This 
  ensures that applications and configurations that worked on CentOS will continue to function on AlmaLinux. 
 
+Package Managers:
+A package is a piece of software that can be combined with other packages to form an application. Some packages may be large 
+enough to form applications on their own. 
+
+Packages contain the files necessary for an application to be installed. These files include dependencies, which are supplemental 
+files used to run an application. 
+
+Package managers can help resolve any issues with dependencies and perform other management tasks. A package manager is a tool 
+that helps users install, manage, and remove packages or applications. Linux uses multiple package managers. 
+
+Note: It’s important to use the most recent version of a package when possible. The most recent version has the most up-to-date 
+bug fixes and security patches. These help keep your system more secure
+
  
