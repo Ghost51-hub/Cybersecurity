@@ -57,3 +57,15 @@ Standard, the kernel, and the hardware.
   ->The hard drive is a hardware component used for long-term memory. It’s where programs and files are stored for the computer to 
     access later. Information on the hard drive can be accessed even after a computer has been turned off and on again. A computer 
     can have multiple hard drives.
+
+Linux distributions:
+There are multiple other Linux distributions that security analysts should be familiar with.
+
+ KALI LINUX ™:
+ KALI LINUX ™ is an open-source distribution of Linux that is widely used in the security industry. This is because KALI LINUX ™,
+ which is Debian-based, is pre-installed with many useful tools for penetration testing and digital forensics. A penetration test 
+ is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes. Digital 
+ forensics is the practice of collecting and analyzing data to determine what has happened after an attack. These are key 
+ activities in the security industry. 
+
+ 
