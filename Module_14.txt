@@ -15,3 +15,8 @@ Standard, the kernel, and the hardware.
  be installed, such as some web browsers or email clients. In Linux, you'll often use a package manager to install applications. 
  A package manager is a tool that helps users install, manage, and remove packages or applications. A package is a piece of 
  software that can be combined with other packages to form an application.
+
+ Shell
+ The shell is the command-line interpreter. Everything entered into the shell is text based. The shell allows users to give 
+ commands to the kernel and receive responses from it. You can think of the shell as a translator between you and your computer. 
+ The shell translates the commands you enter so that the computer can perform the tasks you want
