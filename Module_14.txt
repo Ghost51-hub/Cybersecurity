@@ -1,0 +1,2 @@
+Linux:
+An open-source operating system.
