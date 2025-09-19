@@ -19,4 +19,12 @@ Standard, the kernel, and the hardware.
  Shell
  The shell is the command-line interpreter. Everything entered into the shell is text based. The shell allows users to give 
  commands to the kernel and receive responses from it. You can think of the shell as a translator between you and your computer. 
- The shell translates the commands you enter so that the computer can perform the tasks you want
+ The shell translates the commands you enter so that the computer can perform the tasks you want.
+
+ Filesystem Hierarchy Standard (FHS):
+ The Filesystem Hierarchy Standard (FHS) is the component of the Linux OS that organizes data. It specifies the location where 
+ data is stored in the operating system. 
+
+ A directory is a file that organizes where other files are stored. Directories are sometimes called “folders,” and they can 
+ contain files or other directories. The FHS defines how directories, directory contents, and other storage is organized so the 
+ operating system knows where to find specific data. 
