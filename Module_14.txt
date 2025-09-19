@@ -123,4 +123,9 @@ bug fixes and security patches. These help keep your system more secure
  use the .rpm file extension, such as Package-Version-Release_Architecture.rpm. Package managers for Debian-derived Linux 
  distributions, such as dpkg, have files which use the .deb file extension, such as Package_Version-Release_Architecture.deb.
 
+ Package management tools
+ In addition to package managers like RPM and dpkg, there are also package management tools that allow you to easily work with 
+ packages through the shell. Package management tools are sometimes utilized instead of package managers because they allow users 
+ to more easily perform basic tasks, such as installing a new package. Two notable tools are the Advanced Package Tool (APT) and 
+ Yellowdog Updater Modified (YUM).
  
