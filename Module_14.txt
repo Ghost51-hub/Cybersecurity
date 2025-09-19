@@ -87,4 +87,9 @@ There are multiple other Linux distributions that security analysts should be fa
  Parrot is also considered to be a user-friendly Linux distribution. This is because it has a GUI that many find easy to navigate. 
  This is in addition to Parrot’s CLI.
 
+ Red Hat® Enterprise Linux®
+ Red Hat Enterprise Linux is a subscription-based distribution of Linux built for enterprise use. Red Hat is not free, which is a 
+ major difference from the previously mentioned distributions. Because it’s built and supported for enterprise use, Red Hat also 
+ offers a dedicated support team for customers to call about issues.
+
  
