@@ -41,3 +41,19 @@ Standard, the kernel, and the hardware.
   Peripheral devices are hardware components that are attached and controlled by the computer system. They are not core components 
   needed to run the computer system. Peripheral devices can be added or removed freely. Examples of peripheral devices include 
   monitors, printers, the keyboard, and the mouse.
+
+  Internal hardware:
+  Internal hardware are the components required to run the computer. Internal hardware includes a main circuit board and all 
+  components attached to it. This main circuit board is also called the motherboard. Internal hardware includes the following: 
+
+  ->The Central Processing Unit (CPU) is a computer’s main processor, which is used to perform general computing tasks on a 
+    computer. The CPU executes the instructions provided by programs, which enables these programs to run. 
+
+  ->Random Access Memory (RAM) is a hardware component used for short-term memory. It’s where data is stored temporarily as you 
+    perform tasks on your computer. For example, if you’re writing a report on your computer, the data needed for this is stored 
+    in RAM. After you’ve finished writing the report and closed down that program, this data is deleted from RAM. Information in 
+    RAM cannot be accessed once the computer has been turned off. The CPU takes the data from RAM to run programs. 
+
+  ->The hard drive is a hardware component used for long-term memory. It’s where programs and files are stored for the computer to 
+    access later. Information on the hard drive can be accessed even after a computer has been turned off and on again. A computer 
+    can have multiple hard drives.
