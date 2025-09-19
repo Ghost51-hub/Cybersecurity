@@ -1,2 +1,6 @@
 Linux:
 An open-source operating system.
+
+Linux architecture:
+A request to complete a task starts with the user and then flows through applications, the shell, the Filesystem Hierarchy 
+Standard, the kernel, and the hardware.
