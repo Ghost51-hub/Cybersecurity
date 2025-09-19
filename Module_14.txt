@@ -28,3 +28,8 @@ Standard, the kernel, and the hardware.
  A directory is a file that organizes where other files are stored. Directories are sometimes called “folders,” and they can 
  contain files or other directories. The FHS defines how directories, directory contents, and other storage is organized so the 
  operating system knows where to find specific data. 
+
+ Kernel:
+ The kernel is the component of the Linux OS that manages processes and memory. It communicates with the applications to route 
+ commands. The Linux kernel is unique to the Linux OS and is critical for allocating resources in the system. The kernel controls 
+ all major functions of the hardware, which can help get tasks expedited more efficiently.
