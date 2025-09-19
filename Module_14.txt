@@ -128,4 +128,8 @@ bug fixes and security patches. These help keep your system more secure
  packages through the shell. Package management tools are sometimes utilized instead of package managers because they allow users 
  to more easily perform basic tasks, such as installing a new package. Two notable tools are the Advanced Package Tool (APT) and 
  Yellowdog Updater Modified (YUM).
+
+  Advanced Package Tool (APT):
+  APT is a tool used with Debian-derived distributions. It is run from the command-line interface to manage, search, and install 
+  packages.
  
