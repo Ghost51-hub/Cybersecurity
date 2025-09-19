@@ -111,4 +111,16 @@ that helps users install, manage, and remove packages or applications. Linux use
 Note: It’s important to use the most recent version of a package when possible. The most recent version has the most up-to-date 
 bug fixes and security patches. These help keep your system more secure
 
+ Types of package managers:
+ Many commonly used Linux distributions are derived from the same parent distribution. For example, KALI LINUX ™, Ubuntu, and 
+ Parrot all come from Debian. CentOS comes from Red Hat.
+
+ This knowledge is useful when installing applications because certain package managers work with certain distributions. For 
+ example, the Red Hat Package Manager (RPM) can be used for Linux distributions derived from Red Hat, and package managers such 
+ as dpkg can be used for Linux distributions derived from Debian.
+
+ Different package managers typically use different file extensions. For example, Red Hat Package Manager (RPM) has files which 
+ use the .rpm file extension, such as Package-Version-Release_Architecture.rpm. Package managers for Debian-derived Linux 
+ distributions, such as dpkg, have files which use the .deb file extension, such as Package_Version-Release_Architecture.deb.
+
  
