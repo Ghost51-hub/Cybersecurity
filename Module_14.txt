@@ -162,6 +162,11 @@ executes many internal processes to interpret your command, send it to the kerne
   Bash is the default shell in most Linux distributions. It’s considered a user-friendly shell. You can use bash for basic Linux 
   commands as well as larger projects. Bash is also the most popular shell in the cybersecurity profession.
 
+ Standard input:
+ Information received by the OS via the command line.
+
+ echo:
+ A linux command that outputs a specified string of text.
 
 
 
