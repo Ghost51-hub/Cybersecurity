@@ -137,6 +137,11 @@ bug fixes and security patches. These help keep your system more secure
   YUM is a tool used with Red Hat-derived distributions. It is run from the command-line interface to manage, search, and install 
   packages. YUM works with .rpm files.
 
+Shell:
+The shell is the command-line interpreter. You can think of a shell as a translator between you and the computer system. 
+Shells allow you to give commands to the computer and receive responses from it. When you enter a command into a shell, the shell 
+executes many internal processes to interpret your command, send it to the kernel, and return your results.
+
 
 
 
