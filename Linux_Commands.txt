@@ -7,7 +7,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 
 ->CTRL + V: Pastes text
 
-clear: Clears the terminal screen; this can also be done by entering CTRL + L
+->clear: Clears the terminal screen; this can also be done by entering CTRL + L
 
 CTRL + A: Sets your cursor at the beginning of a command
 
