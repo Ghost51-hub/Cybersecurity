@@ -15,7 +15,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 
 ->Left arrow key: Moves left within a command
 
-Right arrow key: Moves right within a command
+->Right arrow key: Moves right within a command
 
 Up arrow key: Provides the last command you entered into the command line; can be entered multiple times to go through multiple 
 commands from the command history
