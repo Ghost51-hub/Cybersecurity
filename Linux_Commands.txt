@@ -13,7 +13,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 
 ->CTRL + E: Sets your cursor at the end of a command
 
-Left arrow key: Moves left within a command
+->Left arrow key: Moves left within a command
 
 Right arrow key: Moves right within a command
 
