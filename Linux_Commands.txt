@@ -22,7 +22,7 @@ commands from the command history
 
 ->Down arrow key: Provides the next command in the command history; must be after using the up arrow key
 
-Tab key: Provides available suggestions for completing your text
+->Tab key: Provides available suggestions for completing your text
 
 Linux Commands:
 (suricata is an example application, you can cahnge it)
