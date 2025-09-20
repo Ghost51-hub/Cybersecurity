@@ -9,7 +9,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 
 ->clear: Clears the terminal screen; this can also be done by entering CTRL + L
 
-CTRL + A: Sets your cursor at the beginning of a command
+->CTRL + A: Sets your cursor at the beginning of a command
 
 CTRL + E: Sets your cursor at the end of a command
 
