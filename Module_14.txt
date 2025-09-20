@@ -171,7 +171,5 @@ executes many internal processes to interpret your command, send it to the kerne
  String data;
  Data consisting of an ordered sequence of characters.
 
-
-
-
- 
+ Standard output:
+ Information returned by the OS through the shell.
