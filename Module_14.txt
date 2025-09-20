@@ -163,17 +163,6 @@ Down arrow key: Provides the next command in the command history; must be after 
 
 Tab key: Provides available suggestions for completing your text
 
-Linux Commands:
-(suricata is an example application, you can cahnge it)
- ->suricata: To check if the apllication is installed.
-
- ->suricata --version: To check the version of installed application.
-
- ->sudo apt install suricata: To install the application.
-
- ->sudo apt remove suricata: To uninstall the application.
-
- ->apt list --installed: It gives the list of application installed.
 
 
  
