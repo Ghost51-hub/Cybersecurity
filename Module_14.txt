@@ -173,3 +173,6 @@ executes many internal processes to interpret your command, send it to the kerne
 
  Standard output:
  Information returned by the OS through the shell.
+
+ Standard error:
+ Error messages returned by the OS through the shell.
