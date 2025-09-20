@@ -11,7 +11,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 
 ->CTRL + A: Sets your cursor at the beginning of a command
 
-CTRL + E: Sets your cursor at the end of a command
+->CTRL + E: Sets your cursor at the end of a command
 
 Left arrow key: Moves left within a command
 
