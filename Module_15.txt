@@ -23,7 +23,7 @@ but within the terminal, it will only terminate a command and if one isn't runni
 ->Tab key: Provides available suggestions for completing your text
 
 Linux Commands:
-(suricata is an example application, you can cahnge i)
+(suricata is an example application, you can )
  ->suricata: To check if the apllication is installed.
 
  ->suricata --version: To check the version of installed application.
