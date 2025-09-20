@@ -168,6 +168,9 @@ executes many internal processes to interpret your command, send it to the kerne
  echo:
  A linux command that outputs a specified string of text.
 
+ String data;
+ Data consisting of an ordered sequence of characters.
+
 
 
 
