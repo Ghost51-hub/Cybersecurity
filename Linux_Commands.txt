@@ -34,4 +34,8 @@ Linux Commands:
 
  ->apt list --installed: It gives the list of application installed.
 
- ->clear: Clears the terminal screen; this can also be done by entering CTRL + L
+ ->clear: Clears the terminal screen; this can also be done by entering CTRL + L.
+
+ ->echo: This command in the Bash shell outputs a specified string of text.
+
+ ->expr: This command performs basic mathematical calculation
