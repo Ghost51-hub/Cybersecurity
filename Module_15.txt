@@ -51,3 +51,5 @@ Linux Commands:
  ->ls: Displays the names of files and directories in the current working directory.
 
  ->cd: Navigates between directories.
+
+ ->cat file_name: Displays the content of a file. 
