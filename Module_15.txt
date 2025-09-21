@@ -10,8 +10,8 @@ path, the different levels of the hierarchy are separated by a forward slash (/)
  subdirectories branch off the root directory. Subdirectories can continue branching out to as many levels as necessary.
 
  Standard FHS directories:
- Directly below the root directory, you’ll find standard FHS directories. In the diagram, home, bin, and etc are standard FHS 
- directories. Here are a few examples of what standard directories contain:
+ Directly below the root directory, you’ll find standard FHS directories. Here are a few examples of what standard directories 
+ contain:
 
  ->/home: Each user in the system gets their own home directory.
 
