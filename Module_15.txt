@@ -47,3 +47,5 @@ Linux Commands:
  ->expr: This command performs basic mathematical calculation. (put space between the operands and operators)
 
  ->pwd: Prints the working directory onto the screen.
+
+ ->ls: Displays the names of files and directories in the current working directory.
