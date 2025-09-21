@@ -49,11 +49,16 @@ Linux Commands:
  ->pwd: Prints the working directory onto the screen.
 
  ->ls: Displays the names of files and directories in the current working directory.
+   
+   Note: If you want to return the contents of a directory that’s not your current working directory, you can add an argument 
+   after ls with the absolute or relative file path to the desired directory. For example, if you’re in the /home/analyst 
+   directory but want to list the contents of its projects subdirectory, you can enter ls /home/analyst/projects or just ls 
+   projects.
 
  ->cd: Navigates between directories.
 
-  Pro Tip: You can use the relative file path and enter cd .. to go up one level in the file structure. For example, if the 
-  current directory is /home/analyst/projects, entering cd .. would change your working directory to /home/analyst. 
+   Pro Tip: You can use the relative file path and enter cd .. to go up one level in the file structure. For example, if the 
+   current directory is /home/analyst/projects, entering cd .. would change your working directory to /home/analyst. 
 
  ->cat file_name: Displays the content of a file. 
 
