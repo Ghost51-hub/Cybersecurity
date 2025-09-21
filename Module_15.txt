@@ -85,7 +85,7 @@ Linux Commands:
 
   ->expr: This command performs basic mathematical calculation. (put space between the operands and operators)
 
- Key commands for navigating the file system:
+ Commands for navigating the file system:
 
   ->pwd: Prints the working directory onto the screen.
 
@@ -127,3 +127,9 @@ Linux Commands:
      Up arrow: Move back one line
 
      q: Quit and return to the previous terminal window
+
+ Filtering Commands:-
+
+  ->grep specific_string file_name: This command searches a specified file and returns all lines in the file containing a 
+    specified string or text. It commonly takes two arguments: a specific string to search for and a specific file to search 
+    through.
