@@ -44,4 +44,6 @@ Linux Commands:
 
  ->echo: This command in the Bash shell outputs a specified string of text.
 
- ->expr: This command performs basic mathematical calculation. (put sapce between the operands and operators)
+ ->expr: This command performs basic mathematical calculation. (put space between the operands and operators)
+
+ ->pwd: Prints the working directory onto the screen.
