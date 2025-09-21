@@ -140,3 +140,6 @@ Linux Commands:
     Before the pipe, ls indicates to list the names of the files and directories in reports. Then, it sends this output to the 
     command after the pipe. In this case, grep users returns all of the file or directory names containing users from the input 
     it received. 
+
+  Note: Piping is a general form of redirection in Linux and can be used for multiple tasks other than filtering. You can think 
+  of piping as a general tool that you can use whenever you want the output of one command to become the input of another command.
