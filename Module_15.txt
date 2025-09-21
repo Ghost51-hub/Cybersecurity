@@ -1,6 +1,9 @@
 Filesystem Hierarchy Standard (FHS):
 The component of the Linux OS that organizes data.
 
+Root directory:
+The highest-level directory in Linux.
+
 Helpful navigation tips and keyboard shortcuts:
 The following contains a list of navigation tips and keyboard shortcuts you may find useful when completing your Linux labs. 
 Your cursor must be in the terminal window to use these navigation tips and keyboard shortcuts.
