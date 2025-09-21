@@ -49,3 +49,5 @@ Linux Commands:
  ->pwd: Prints the working directory onto the screen.
 
  ->ls: Displays the names of files and directories in the current working directory.
+
+ ->cd: Navigates between directories.
