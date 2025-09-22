@@ -197,3 +197,6 @@ Linux Commands:
     remove this empty directory from the file system.
 
     Note: The rmdir command cannot delete directories with files or subdirectories inside.It will return error.
+
+  ->touch: The touch command creates a new file. If your current directory is /home/analyst/reports, entering touch permissions.txt 
+    creates a new file in the reports subdirectory called permissions.txt.
