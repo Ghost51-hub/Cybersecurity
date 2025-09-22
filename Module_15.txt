@@ -185,3 +185,10 @@ Linux Commands:
        one day ago, and entering -mtime -1 indicates all files or directories last modified less than one day ago. 
 
        Note: The option -mmin can be used instead of -mtime if you want to base the search on minutes rather than days.
+
+
+ Creating and modifying directories/files:
+
+  ->mkdir: The mkdir command creates a new directory. For example, if you want to create a new directory called network in your 
+    /home/analyst/logs directory, you can enter mkdir /home/analyst/logs/network to create this new directory. If you’re already 
+    in the /home/analyst/logs directory, you can also create this new directory by entering mkdir network.
