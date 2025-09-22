@@ -257,3 +257,18 @@ Linux Commands:
    file size, and the time of last modification.
 
  ->ls -la: Displays permissions to files and directories, including hidden files. This is a combination of the other two options.
+
+ ->chmod :ls -la: Displays permissions to files and directories, including hidden files. This is a combination of the other two 
+   options.For example, the following command would add all permissions to login_sessions.txt: 
+   
+   chmod u+rwx,g+rwx,o+rwx login_sessions.txt 
+   
+   If you wanted to take all the permissions away, you could use
+
+   chmod u-rwx,g-rwx,o-rwx login_sessions.txt
+
+   Another way to assign these permissions is to use the equals sign (=) in this first argument. Using = with chmod sets, or 
+   assigns, the permissions exactly as specified. For example, the following command would set read permissions for 
+   login_sessions.txt for user, group, and other:
+
+   chmod u=r,g=r,o=r login_sessions.txt
