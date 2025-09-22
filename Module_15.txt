@@ -203,3 +203,14 @@ Linux Commands:
 
   ->rm: The rm command removes, or deletes, a file. This command should be used carefully because it’s not easy to recover files 
     deleted with rm. To remove the permissions file you just created, enter rm permissions.txt. 
+
+  ->mv: This command moves a file or directory to a new location. The first argument after mv is the file or directory you want to 
+    move , and the second argument is the location you want to move. To move permissions.txt into the logs subdirectory, enter mv 
+    permissions.txt /home/analyst/logs. Moving a file removes the file from its original location.
+
+  Note: The mv command can also be used to rename files. To rename a file, pass the new name in as the second argument instead of 
+  the new location. For example, entering mv permissions.txt perm.txt renames the permissions.txt file to perm.txt.
+
+  ->cp: This command copies a file or directory into a new location. The first argument after cp is the file or directory you want 
+    to copy, and the second argument is the location you want to copy it to. To copy permissions.txt into the logs subdirectory 
+    while also keeping it in its original location, enter cp permissions.txt /home/analyst/logs.
