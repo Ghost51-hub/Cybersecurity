@@ -192,3 +192,8 @@ Linux Commands:
   ->mkdir: The mkdir command creates a new directory. For example, if you want to create a new directory called network in your 
     /home/analyst/logs directory, you can enter mkdir /home/analyst/logs/network to create this new directory. If you’re already 
     in the /home/analyst/logs directory, you can also create this new directory by entering mkdir network.
+
+  ->rmdir: The rmdir command removes, or deletes, a directory. For example, entering rmdir /home/analyst/logs/network would 
+    remove this empty directory from the file system.
+
+    Note: The rmdir command cannot delete directories with files or subdirectories inside.It will return error.
