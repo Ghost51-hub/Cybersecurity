@@ -255,3 +255,5 @@ Linux Commands:
 
  ->ls -l: Displays permissions to files and directories. Also displays other additional information, including owner name, group, 
    file size, and the time of last modification.
+
+ ->ls -la: Displays permissions to files and directories, including hidden files. This is a combination of the other two options.
