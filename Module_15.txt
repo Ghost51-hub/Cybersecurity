@@ -279,9 +279,9 @@ Linux Commands:
    The useradd command adds a user to the system. To add a user with the username of fgarcia with sudo, enter sudo useradd fgarcia. 
    There are additional options you can use with useradd:
 
-   -g: Sets the user’s default group, also called their primary group
+    -g: Sets the user’s default group, also called their primary group
 
-   -G: Adds the user to additional groups, also called supplemental or secondary groups
+    -G: Adds the user to additional groups, also called supplemental or secondary groups
 
    To use the -g option, the primary group must be specified after -g. For example, entering sudo useradd -g security fgarcia adds 
    fgarcia as a new user and assigns their primary group to be security.
@@ -291,27 +291,34 @@ Linux Commands:
    the existing finance and admin groups.
 
  ->usermod:
-  The usermod command modifies existing user accounts. The same -g and -G options from the useradd command can be used with 
-  usermod if a user already exists. 
+   The usermod command modifies existing user accounts. The same -g and -G options from the useradd command can be used with 
+   usermod if a user already exists. 
 
-  To change the primary group of an existing user, you need the -g option. For example, entering sudo usermod -g executive 
-  fgarcia would change fgarcia’s primary group to the executive group.
+   To change the primary group of an existing user, you need the -g option. For example, entering sudo usermod -g executive 
+   fgarcia would change fgarcia’s primary group to the executive group.
 
-  To add a supplemental group for an existing user, you need the -G option. You also need a -a option, which appends the user to 
-  an existing group and is only used with the -G option. For example, entering sudo usermod -a -G marketing fgarcia would add the 
-  existing fgarcia user to the supplemental marketing group.
+   To add a supplemental group for an existing user, you need the -G option. You also need a -a option, which appends the user to 
+   an existing group and is only used with the -G option. For example, entering sudo usermod -a -G marketing fgarcia would add the 
+   existing fgarcia user to the supplemental marketing group.
 
-  Note: When changing the supplemental group of an existing user, if you don't include the -a option, -G will replace any 
-  existing supplemental groups with the groups specified after usermod.  Using -a with -G ensures that the new groups are added 
-  but existing groups are not replaced.
+   Note: When changing the supplemental group of an existing user, if you don't include the -a option, -G will replace any 
+   existing supplemental groups with the groups specified after usermod.  Using -a with -G ensures that the new groups are added 
+   but existing groups are not replaced.
 
-  There are other options you can use with usermod to specify how you want to modify the user, including:
+   There are other options you can use with usermod to specify how you want to modify the user, including:
 
-   -d: Changes the user’s home directory.
+    -d: Changes the user’s home directory.
 
-   -l: Changes the user’s login name.
+    -l: Changes the user’s login name.
 
-   -L: Locks the account so the user can’t log in.
+    -L: Locks the account so the user can’t log in.
 
-  The option always goes after the usermod command. For example, to change fgarcia’s home directory to /home/garcia_f, enter sudo 
-  usermod -d /home/garcia_f fgarcia. The option -d directly follows the command usermod before the other two needed arguments.
+   The option always goes after the usermod command. For example, to change fgarcia’s home directory to /home/garcia_f, enter sudo 
+   usermod -d /home/garcia_f fgarcia. The option -d directly follows the command usermod before the other two needed arguments.
+
+  ->userdel:
+    The userdel command deletes a user from the system. For example, entering sudo userdel fgarcia deletes fgarcia as a user. Be careful before you delete a user using this command.
+
+    The userdel command doesn’t delete the files in the user’s home directory unless you use the -r option. Entering sudo userdel -r fgarcia would delete fgarcia as a user and delete all files in their home directory. Before deleting any user files, you should ensure you have backups in case you need them later.
+
+    Note: Instead of deleting the user, you could consider deactivating their account with usermod -L. This prevents the user from logging in while still giving you access to their account and associated permissions. For example, if a user left an organization, this option would allow you to identify which files they have ownership over, so you could move this ownership to other users.
