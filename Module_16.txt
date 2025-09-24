@@ -1,2 +1,6 @@
 Database:
 An organized collection of information or data.
+
+Spreadsheets:
+ 
+ ->Designed
