@@ -16,3 +16,4 @@ Databases:
  ->Perform complex tasks while accessing data
 
 Relational database:
+A structured database containing tables that are related to each other.
