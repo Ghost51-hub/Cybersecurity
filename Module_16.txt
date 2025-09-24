@@ -23,4 +23,4 @@ A structured database containing tables that are related to each other.
  Foreign key: A column in a table that is a primary key in another table.
 
 SQL (Structure Query Language):
-A programming language 
+A programming language used to create, interact with, and request information from a database.
