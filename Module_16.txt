@@ -27,3 +27,6 @@ A programming language used to create, interact with, and request information fr
 
 Query:
 A request for data from a database table or a combination of tables.
+
+Log:
+A record of events that occur within an organization's systems.
