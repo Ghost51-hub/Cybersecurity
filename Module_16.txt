@@ -14,3 +14,5 @@ Databases:
  ->Store massive amounts of data
 
  ->Perform complex tasks while accessing data
+
+Relational database:
