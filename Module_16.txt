@@ -24,3 +24,6 @@ A structured database containing tables that are related to each other.
 
 SQL (Structure Query Language):
 A programming language used to create, interact with, and request information from a database.
+
+Query:
+A request for data from a database table or a combination of tables.
