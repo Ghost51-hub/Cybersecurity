@@ -17,3 +17,5 @@ Databases:
 
 Relational database:
 A structured database containing tables that are related to each other.
+
+ Primary key:
