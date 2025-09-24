@@ -21,3 +21,6 @@ A structured database containing tables that are related to each other.
  Primary key: A column where every row has a unique entry. 
 
  Foreign key: A column in a table that is a primary key in another table.
+
+SQL (Structure Query Language):
+A programming language 
