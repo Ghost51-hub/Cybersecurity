@@ -18,4 +18,4 @@ Databases:
 Relational database:
 A structured database containing tables that are related to each other.
 
- Primary key:
+ Primary key: A column where every row has a unique entry. 
