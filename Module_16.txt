@@ -12,3 +12,5 @@ Databases:
  ->Accessed by multiple people simultaneously
 
  ->Store massive amounts of data
+
+ ->
