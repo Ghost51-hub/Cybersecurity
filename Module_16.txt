@@ -4,3 +4,5 @@ An organized collection of information or data.
 Spreadsheets:
  
  ->Designed for a single user or a small.
+
+ ->Store less data
