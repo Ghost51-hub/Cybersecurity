@@ -33,3 +33,10 @@ A record of events that occur within an organization's systems.
 
 Differences between Linux and SQL filtering:
 Although both Linux and SQL allow you to filter through data, there are some differences that affect which one you should choose.
+
+ Purpose:
+ Linux filters data in the context of files and directories on a computer system. It’s used for tasks like searching for specific 
+ files, manipulating file permissions, or managing processes. 
+
+ SQL is used to filter data within a database management system. It’s used for querying and manipulating data stored in tables and 
+ retrieving specific information based on defined criteria. 
