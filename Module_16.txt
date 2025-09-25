@@ -40,3 +40,10 @@ Although both Linux and SQL allow you to filter through data, there are some dif
 
  SQL is used to filter data within a database management system. It’s used for querying and manipulating data stored in tables and 
  retrieving specific information based on defined criteria. 
+
+ Syntax:
+ Linux uses various commands and command-line options specific to each filtering tool. Syntax varies depending on the tool and 
+ purpose. Some examples of Linux commands are find, sed, cut, e grep
+
+ SQL uses the Structured Query Language (SQL), a standardized language with specific keywords and clauses for filtering data 
+ across different SQL databases. Some examples of SQL keywords and clauses are WHERE, SELECT, JOIN
