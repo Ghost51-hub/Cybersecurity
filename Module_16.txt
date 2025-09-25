@@ -30,3 +30,6 @@ A request for data from a database table or a combination of tables.
 
 Log:
 A record of events that occur within an organization's systems.
+
+Differences between Linux and SQL filtering:
+Although both Linux and SQL allow you to filter through data, there are some differences that affect which one you should choose.
