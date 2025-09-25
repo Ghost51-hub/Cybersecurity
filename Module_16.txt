@@ -69,4 +69,4 @@ Although both Linux and SQL allow you to filter through data, there are some dif
 
  A lot of data used in cybersecurity will be stored in a database format that works with SQL. However, other logs might be in a 
  format that is not compatible with SQL. For instance, if the data is stored in a text file, you cannot search through it with SQL. 
-In those cases, it is useful to know how to filter in Linux. 
+ In those cases, it is useful to know how to filter in Linux. 
