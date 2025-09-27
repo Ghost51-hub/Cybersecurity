@@ -127,3 +127,12 @@ Chinook is an example of a databasethat is used in these queries.
   SELECT customerid, city, country
   FROM customers
   ORDER BY country, city;
+
+ WHERE:
+ To create a filter in SQL, you need to use the keyword WHERE. WHERE indicates the condition for a filter.
+
+ If you needed to email employees with a title of IT Staff, you might use a query like the one in the following example. You can 
+ run this example to examine what it returns: 
+ SELECT firstname, lastname, title, email
+ FROM employees
+ WHERE title = 'IT Staff';
