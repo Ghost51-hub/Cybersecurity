@@ -96,4 +96,11 @@ Chinook is an example of a databasethat is used in these queries.
  FROM customers;
 
  When you want to end the query here, you put a semicolon (;) at the end to tell SQL that this is the entire query.
+
+ ORDER BY:
+ Database tables are often very complicated, and this is where other SQL keywords come in handy. ORDER BY is an important keyword 
+ for organizing the data you extract from a table.
+
+ ORDER BY sequences the records returned by a query based on a specified column or columns. This can be in either ascending or 
+ descending order.
  
