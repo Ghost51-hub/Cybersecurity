@@ -93,5 +93,5 @@ Chinook is an example of a databasethat is used in these queries.
 
  FROM customers;
 
-When you want to end the query here, you put a semicolon (;) at the end to tell SQL that this is the entire query.
+ When you want to end the query here, you put a semicolon (;) at the end to tell SQL that this is the entire query.
  
