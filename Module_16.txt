@@ -85,4 +85,13 @@ Chinook is an example of a databasethat is used in these queries.
 
  If you want to return all columns in a table, you can follow the SELECT keyword with an asterisk (*). The first line in the query 
  will be SELECT *.
+
+ FROM:
+The SELECT keyword always comes with the FROM keyword. FROM indicates which table to query. To use the FROM keyword, you should write it after the SELECT keyword, often on a new line, and follow it with the name of the table you’re querying. If you want to return all columns from the customers table, you can write:
+
+SELECT *
+
+FROM customers;
+
+When you want to end the query here, you put a semicolon (;) at the end to tell SQL that this is the entire query.
  
