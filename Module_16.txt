@@ -75,7 +75,8 @@ Basic SQL querys:
 Chinook is an example of a databasethat is used in these queries.
 
  SELECT:
- The SELECT keyword indicates which columns to return. For example, you can return the customerid column from the Chinook database with
+ The SELECT keyword indicates which columns to return. For example, you can return the customerid column from the Chinook database 
+ with
 
  SELECT customerid
 
