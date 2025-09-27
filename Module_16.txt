@@ -124,3 +124,6 @@ Chinook is an example of a databasethat is used in these queries.
   You can also choose multiple columns to order by. For example, you might first choose the country and then the city column. SQL 
   then sorts the output by country, and for rows with the same country, it sorts them based on city. You can run this to explore 
   how SQL displays this:
+  SELECT customerid, city, country
+  FROM customers
+  ORDER BY country, city;
