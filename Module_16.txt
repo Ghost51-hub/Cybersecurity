@@ -141,3 +141,10 @@ Chinook is an example of a databasethat is used in these queries.
   A wildcard is a special character that can be substituted with any other character. Two of the most useful wildcards are the 
   percentage sign (%) and the underscore (_).
   These wildcards can be placed after a string, before a string, or in both locations depending on the pattern you’re filtering for.
+
+  LIKE:
+  To apply wildcards to the filter, you need to use the LIKE operator instead of an equals sign (=). LIKE is used with WHERE to 
+  search for a pattern in a column. 
+
+  For instance, if you want to email employees with a title of either 'IT Staff' or 'IT Manager', you can use LIKE operator 
+  combined with the % wildcard:  
