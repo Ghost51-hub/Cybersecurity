@@ -136,3 +136,8 @@ Chinook is an example of a databasethat is used in these queries.
  SELECT firstname, lastname, title, email
  FROM employees
  WHERE title = 'IT Staff';
+
+  Wildcards:
+  A wildcard is a special character that can be substituted with any other character. Two of the most useful wildcards are the 
+  percentage sign (%) and the underscore (_).
+  These wildcards can be placed after a string, before a string, or in both locations depending on the pattern you’re filtering for.
