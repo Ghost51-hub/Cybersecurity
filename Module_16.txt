@@ -104,3 +104,7 @@ Chinook is an example of a databasethat is used in these queries.
  ORDER BY sequences the records returned by a query based on a specified column or columns. This can be in either ascending or 
  descending order.
  
+  Sorting in ascending order:
+  To use the ORDER BY keyword, write it at the end of the query and specify a column to base the sort on. In this example, SQL 
+  will return the customerid, city, and country columns from the customers table, and the records will be sequenced by the city 
+  column:
