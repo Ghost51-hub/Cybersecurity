@@ -148,3 +148,6 @@ Chinook is an example of a databasethat is used in these queries.
 
   For instance, if you want to email employees with a title of either 'IT Staff' or 'IT Manager', you can use LIKE operator 
   combined with the % wildcard:  
+  SELECT lastname, firstname, title, email
+  FROM employees
+  WHERE title LIKE 'IT%';
