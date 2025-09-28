@@ -195,3 +195,11 @@ Chinook is an example of a databasethat is used in these queries.
  SELECT firstname, lastname, email, country
  FROM customers
  WHERE country = 'Canada' OR country = 'USA';
+
+ NOT:
+ Unlike the previous two operators, the NOT operator only works on a single condition, and not on multiple ones. The NOT operator 
+ negates a condition. This means that SQL returns all records that don’t match the condition specified in the query. 
+
+ For example, if a cybersecurity issue doesn't affect customers in the USA but might affect those in other countries, you can 
+ return all customers who are not in the USA. This would be more efficient than creating individual conditions for all of the 
+ other countries. To use the NOT operator for this task, write the following query and place NOT directly after WHERE:
