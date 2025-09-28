@@ -151,3 +151,9 @@ Chinook is an example of a databasethat is used in these queries.
   SELECT lastname, firstname, title, email
   FROM employees
   WHERE title LIKE 'IT%';
+
+  Comparison operators:
+  In SQL, filtering numeric and date and time data often involves operators. You can use the following operators in your filters 
+  to make sure you return only the rows you need.
+  Note: You can also use != as an alternative operator for not equal to.
+
