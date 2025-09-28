@@ -171,3 +171,6 @@ Chinook is an example of a databasethat is used in these queries.
    SELECT firstname, lastname, hiredate
    FROM employees
    WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
+   
+   Note: The BETWEEN operator is inclusive. This means records with a hiredate of January 1, 2002 or January 1, 2003 are included 
+   in the results of the previous query.
