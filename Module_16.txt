@@ -164,13 +164,20 @@ Chinook is an example of a databasethat is used in these queries.
    FROM employees
    WHERE birthdate > '1970-01-01';
 
-   BETWEEN:
-   Another operator used for numeric data as well as date and time data is the BETWEEN operator. BETWEEN filters for numbers or 
-   dates within a range. For example, if you want to find the first and last names of all employees hired between January 1, 2002 
-   and January 1, 2003, you can use the BETWEEN operator as follows:
-   SELECT firstname, lastname, hiredate
-   FROM employees
-   WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
+ BETWEEN:
+ Another operator used for numeric data as well as date and time data is the BETWEEN operator. BETWEEN filters for numbers or 
+ dates within a range. For example, if you want to find the first and last names of all employees hired between January 1, 2002 
+ and January 1, 2003, you can use the BETWEEN operator as follows:
+ SELECT firstname, lastname, hiredate
+ FROM employees
+ WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
    
-   Note: The BETWEEN operator is inclusive. This means records with a hiredate of January 1, 2002 or January 1, 2003 are included 
-   in the results of the previous query.
+ Note: The BETWEEN operator is inclusive. This means records with a hiredate of January 1, 2002 or January 1, 2003 are included 
+ in the results of the previous query.
+
+ AND:
+ AND is used to filter on two conditions. AND specifies that both conditions must be met simultaneously. 
+
+ As an example, a cybersecurity concern might affect only those customer accounts that meet both the condition of being handled by 
+ a support representative with an ID of 5 and the condition of being located in the USA. To find the names and emails of those 
+ specific customers, you should place the two conditions on either side of the AND operator in the WHERE clause:
