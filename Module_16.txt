@@ -276,3 +276,14 @@ Chinook is an example of a databasethat is used in these queries.
   All that you have to do is switch the order of the tables that appear before and after the keyword used for the join, and you 
   will have swapped the left and right tables.
 
+  Full outer joins:
+  FULL OUTER JOIN returns all records from both tables. You can think of it as a way of completely merging two tables.
+
+  SELECT *
+
+  FROM employees
+
+  FULL OUTER JOIN machines ON employees.device_id = machines.device_id;
+
+  The results of a FULL OUTER JOIN query include all records from both tables. Similar to INNER JOIN, the order of tables does not 
+  change the results of the query.
