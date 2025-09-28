@@ -203,3 +203,6 @@ Chinook is an example of a databasethat is used in these queries.
  For example, if a cybersecurity issue doesn't affect customers in the USA but might affect those in other countries, you can 
  return all customers who are not in the USA. This would be more efficient than creating individual conditions for all of the 
  other countries. To use the NOT operator for this task, write the following query and place NOT directly after WHERE:
+ SELECT firstname, lastname, email, country
+ FROM customers
+ WHERE NOT country = 'USA';
