@@ -286,4 +286,4 @@ Chinook is an example of a databasethat is used in these queries.
   FULL OUTER JOIN machines ON employees.device_id = machines.device_id;
 
   The results of a FULL OUTER JOIN query include all records from both tables. Similar to INNER JOIN, the order of tables does not 
-  change the results of the query.
+   change the results of the query.
