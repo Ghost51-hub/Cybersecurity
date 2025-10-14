@@ -92,3 +92,23 @@ Compliance: The process of adhering to internal Standards and external regulatio
 
 NIST Cybersecurity Framework(CSF):
 A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
+ NIST CSF Components:
+
+ ->Core 
+
+  Five functions of the NIST CSF core:
+
+  ->Identity
+
+  ->Protect 
+
+  ->Detect
+
+  ->Respond
+
+  ->Recover 
+
+ ->Tiers 
+
+ ->Profiles
