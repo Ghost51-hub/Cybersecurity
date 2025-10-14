@@ -85,3 +85,5 @@ Elements of Security plan:
 ->Policy: A set of rules that reduces risk and protects information.
 
 ->Standards: References that inform how to set the policy.
+
+->Procedures: Step-by-step instructions to perform a specific security task.
