@@ -105,4 +105,6 @@ A voluntary framework that consists of standards, guidelines, and best practices
    measured on a scale of 1 to 4. Tier 1 is the lowest score, indicating that a limited set of security controls have been 
    implemented. Overall, CSF tiers are used to assess an organization's security posture and identify areas for improvement.
 
- ->Profiles
+ ->Profiles:The CSF profiles are pre-made templates of the NIST CSF that are developed by a team of industry experts. CSF profiles
+are tailored to address the specific risks of an organization or industry. They are used to help organizations develop a baseline 
+for their cybersecurity plans, or as a way of comparing their current cybersecurity posture to a specific industry standard.
