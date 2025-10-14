@@ -101,6 +101,8 @@ A voluntary framework that consists of standards, guidelines, and best practices
    safeguards. The CSF core is also used to understand ways to detect attacks and develop response and recovery plans should an 
    attack happen.
 
- ->Tiers:
+ ->Tiers:The CSF tiers are a way of measuring the sophistication of an organization's cybersecurity program. CSF tiers are 
+   measured on a scale of 1 to 4. Tier 1 is the lowest score, indicating that a limited set of security controls have been 
+   implemented. Overall, CSF tiers are used to assess an organization's security posture and identify areas for improvement.
 
  ->Profiles
