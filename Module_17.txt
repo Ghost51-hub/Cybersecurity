@@ -111,3 +111,13 @@ A voluntary framework that consists of standards, guidelines, and best practices
 
  Note: The core, tiers, and profiles were each designed to help any business improve their security operations. Although there are 
  only three components, the entire framework consists of a complex system of subcategories and processes.
+
+Implementing the CSF:
+
+->Create a current profile of the security operations and outline the specific needs of your business.
+
+->Perform a risk assessment to identify which of your current operations are meeting business and regulatory standards.
+
+->Analyze and prioritize existing gaps in security operations that place the businesses assets at risk.
+
+->Implement a plan of action to achieve your organization’s goals and objectives.
