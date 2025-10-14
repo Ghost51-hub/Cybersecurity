@@ -79,3 +79,9 @@ Types of risk categories:
 ->Disclosure
 
 ->Loss of information
+
+Elements of Security plan:
+
+->Policy: A set of rules that reduces risk and protects information.
+
+->
