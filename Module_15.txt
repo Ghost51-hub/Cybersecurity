@@ -85,6 +85,8 @@ Linux Commands:
 
   ->expr: This command performs basic mathematical calculation. (put space between the operands and operators)
 
+  ->cmp: This command compares the contents of two files.
+
  Commands for navigating the file system:
 
   ->pwd: Prints the working directory onto the screen.
