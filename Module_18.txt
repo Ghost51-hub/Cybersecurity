@@ -571,4 +571,4 @@ solution comes at a steep cost of time and other resources.
 
 Instead, many organizations opt to license third-party solutions that offer a suite of tools that enable them to quickly secure 
 their information systems. Keep in mind, security is about more than combining a bunch of tools. It’s always important to 
- configure these technologies so they can help to provide a secure environment.
+configure these technologies so they can help to provide a secure environment.
