@@ -141,4 +141,4 @@ development teams to be agile and respond quickly to user needs. Let's break dow
    throughout the CI/CD process.
 
 Defense in Depth:
- A layered approach to vulnerability management that reduces risk.
+A layered approach to vulnerability management that reduces risk.
