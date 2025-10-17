@@ -153,3 +153,26 @@ A layered approach to vulnerability management that reduces risk.
  4.Application layer.
 
  5.Data layer.
+
+Exposure:
+A mistake that can be exploited by a threat.
+
+Common Vulnerabilities and Exposures list (CVE list):
+An openly accessible dictionary of known vulnerabilities and exposures.
+
+ MITRE:
+ A collection of non-profit research and development centers.
+
+ CVE Numbering Authority (CNA):
+ An organiztion that volunteers to analyze and distribute information information on eligible CVEs.
+
+ CVE list criteria:
+ 1.Independent of other issues.
+
+ 2.Recognized as a potential security risk.
+
+ 3.Submitted with supporting evidence.
+
+ 4.Only affect one codebase.
+
+ 
