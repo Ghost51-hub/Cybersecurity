@@ -142,3 +142,14 @@ development teams to be agile and respond quickly to user needs. Let's break dow
 
 Defense in Depth:
 A layered approach to vulnerability management that reduces risk.
+
+ Defense in depth strategy:
+ 1.Perimeter layer.
+
+ 2.Network layer.
+
+ 3.Endpoint layer.
+
+ 4.Application layer.
+
+ 5.Data layer.
