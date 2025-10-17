@@ -176,4 +176,4 @@ An openly accessible dictionary of known vulnerabilities and exposures.
  4.Only affect one codebase.
 
  Common Vulnerability Scoring System (CVSS):
- A measurement system that scores the severity of a vulnerability.
+  A measurement system that scores the severity of a vulnerability.
