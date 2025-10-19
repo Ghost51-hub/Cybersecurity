@@ -177,3 +177,7 @@ An openly accessible dictionary of known vulnerabilities and exposures.
 
  Common Vulnerability Scoring System (CVSS):
  A measurement system that scores the severity of a vulnerability.
+
+OWASP:
+OWASP is a nonprofit foundation that works to improve the security of software. OWASP is an open platform that security professionals 
+from around the world use to share information, tools, and events that are focused on securing the web.
