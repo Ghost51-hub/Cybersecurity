@@ -398,4 +398,4 @@ sometimes developed as a result of a zero-day, which is an exploit that was prev
    current with the latest, critical patches.
 
    Disadvantage: A drawback to automatic updates is that instability issues can occur if the patches were not thoroughly tested by 
-   the vendor. This can result in performance problems and a poor user experience.
+  the vendor. This can result in performance problems and a poor user experience.
