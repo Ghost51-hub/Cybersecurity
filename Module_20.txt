@@ -1,2 +1,11 @@
 Social Engineering:
 A manipulation technique that exploits human error to gain private information, access, or valuables.
+
+ Stages of social engineering:
+ 1.Prepare
+
+ 2.Establish trust
+
+ 3.Use persuasion tactics
+
+ 4.Disconnect from the target
