@@ -1,0 +1,2 @@
+Social Engineering:
+A manipulation technique that exploits human error to gain private information, access, or valuables.
