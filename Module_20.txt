@@ -8,4 +8,4 @@ A manipulation technique that exploits human error to gain private information, 
 
  3.Use persuasion tactics
 
- 4.Disconnect from the target
+4.Disconnect from the target
