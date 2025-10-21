@@ -129,3 +129,69 @@ Software designed to harm devices or netweorks.
    turn the devices into a bot for the bot-herder. The attacker then uses file sharing, email, or social media application protocols 
    to create new bots and grow the botnet. When a target unknowingly opens the malicious file, the computer, or bot, reports the 
    information back to the bot-herder, who can execute commands on the infected computer.
+
+ ->Cryptojacking: A form of malware that installs software to illegally mine cryptocurrencies.
+
+Web-based exploits:
+Malicious code or behaviour that's used to take advantage of coding flaws in a web application.
+
+Injection attack:
+Malicious code inserted into a vulnerable application.
+
+ Cross-site scripting (XSS): 
+ An injection attack that inserts code into a vulnerable website or web application.
+
+ Types of Cross-site scripting attacks:
+
+ ->Reflected: An instance when malicious script is sent to a server and activated during the server's response.
+
+ ->Stored: An instance when malicious script is injected directly on the server.
+
+ ->DOM-based: An instance when malicious script exists in the webpage a browser loads.
+
+ SQL injection:
+ An attack that executes unexpected queries on a database.
+
+  SQL injection categories:
+
+  ->In-band SQL injection: In-band, or classic, SQL injection is the most common type. An in-band injection is one that uses the 
+    same communication channel to launch the attack and gather the results.
+
+    For example, this might occur in the search box of a retailer's website that lets customers find products to buy. If the search 
+    box is vulnerable to injection, an attacker could enter a malicious query that would be executed in the database, causing it to 
+    return sensitive information like user passwords. The data that's returned is displayed back in the search box where the attack 
+    was initiated.
+
+  ->Out-of-band SQL injection: An out-of-band injection is one that uses a different communication channel  to launch the attack 
+    and gather the results.
+
+    For example, an attacker could use a malicious query to create a connection between a vulnerable website and a database they 
+    control. This separate channel would allow them to bypass any security controls that are in place on the website's server, 
+    allowing them to steal sensitive data
+
+    Note: Out-of-band injection attacks are very uncommon because they'll only work when certain features are enabled on the 
+    target server.
+
+  ->Inferential SQL injection: Inferential SQL injection occurs when an attacker is unable to directly see the results of their 
+    attack. Instead, they can interpret the results by analyzing the behavior of the system.
+
+    For example, an attacker might perform a SQL injection attack on the login form of a website that causes the system to respond 
+    with an error message. Although sensitive data is not returned, the attacker can figure out the database's structure based on 
+    the error. They can then use this information to craft attacks that will give them access to sensitive data or to take control 
+    of the system.
+
+ Injection Prevention:
+ SQL queries are often programmed with the assumption that users will only input relevant information. For example, a login form 
+ that expects users to input their email address assumes the input will be formatted a certain way, such as jdoe@domain.com. 
+ Unfortunately, this isn’t always the case.
+
+ A key to preventing SQL injection attacks is to escape user inputs—preventing someone from inserting any code that a program isn't 
+ expecting.
+
+ There are several ways to escape user inputs:
+
+  ->Prepared statements: a coding technique that executes SQL statements before passing them on to a database
+
+  ->Input sanitization: programming that removes user input which could be interpreted as code.
+
+  ->Input validation: programming that ensures user input meets a system's expectations.
