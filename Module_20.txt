@@ -9,3 +9,41 @@ A manipulation technique that exploits human error to gain private information, 
  3.Use persuasion tactics
 
  4.Disconnect from the target
+
+ Signs of an attack:
+ Oftentimes, people are unable to tell that an attack is happening until it's too late. Social engineering is such a dangerous 
+ threat because it typically allows attackers to bypass technological defenses that are in their way. Although these threats are 
+ difficult to prevent, recognizing the signs of social engineering is a key to reducing the likelihood of a successful attack.
+
+ These are common types of social engineering to watch out for:
+
+ ->Baiting is a social engineering tactic that tempts people into compromising their security. A common example is USB baiting that 
+   relies on someone finding an infected USB drive and plugging it into their device.
+
+ ->Phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software. It 
+   is one of the most common forms of social engineering, typically performed via email.
+
+ ->Quid pro quo is a type of baiting used to trick someone into believing that they’ll be rewarded in return for sharing access, 
+   information, or money. For example, an attacker might impersonate a loan officer at a bank and call customers offering them a 
+   lower interest rate on their credit card. They'll tell the customers that they simply need to provide their account details to 
+   claim the deal.
+
+ ->Tailgating is a social engineering tactic in which unauthorized people follow an authorized person into a restricted area. This 
+   technique is also sometimes referred to as piggybacking.
+
+ ->Watering hole is a type of attack when a threat actor compromises a website frequently visited by a specific group of users. 
+   Oftentimes, these watering hole sites are infected with malicious software. An example is the Holy Water attack of 2020 that 
+   infected various religious, charity, and volunteer websites.
+
+ Encouraging caution"
+ Spreading awareness usually starts with comprehensive security training. When it comes to social engineering, there are three main 
+ areas to focus on when teaching others:
+
+ ->Stay alert of suspicious communications and unknown people, especially when it comes to email. For example, look out for 
+   spelling errors and double-check the sender's name and email address.
+
+ ->Be cautious about sharing information, especially over social media. Threat actors often search these platforms for any 
+   information they can use to their advantage.
+
+ ->Control curiosity when something seems too good to be true. This can include wanting to click on attachments or links in emails 
+   and advertisements.
