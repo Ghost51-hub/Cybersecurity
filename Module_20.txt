@@ -210,4 +210,20 @@ The process of identifying assets, their vulnerabilities, and how each is expose
 
  5.Mitigate risks
 
- 6.Evaluate findings. 
+ 6.Evaluate findings.
+
+PASTA:
+A popular threat modeling framework that's used across many industries.
+
+ PASTA threat model framework:
+ 1.Define business and security objectives
+
+ 2.Define the technical scope
+
+ 3.Decompose the application
+
+ 4.Perform a threat analysis
+
+ 5.Perform a vulnerability analysis
+
+ 6.Conduct attack modelling
