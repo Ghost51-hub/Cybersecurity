@@ -195,3 +195,19 @@ Malicious code inserted into a vulnerable application.
   ->Input sanitization: programming that removes user input which could be interpreted as code.
 
   ->Input validation: programming that ensures user input meets a system's expectations.
+
+Threat Modeling:
+The process of identifying assets, their vulnerabilities, and how each is exposed to threats.
+
+ Threat Model Steps:
+ 1.Define the scope
+
+ 2.Identify threats
+
+ 3.Characterize the environment
+
+ 4.Analyze threats
+
+ 5.Mitigate risks
+
+ 6.Evaluate findings. 
