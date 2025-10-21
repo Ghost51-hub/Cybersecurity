@@ -47,3 +47,24 @@ A manipulation technique that exploits human error to gain private information, 
 
  ->Control curiosity when something seems too good to be true. This can include wanting to click on attachments or links in emails 
    and advertisements.
+
+ Pro tip: Implementing technologies like firewalls, multi-factor authentication (MFA), block lists, email filtering, and others 
+ helps layers the defenses should someone make a mistake.
+
+Phishing:
+The use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+
+ Types of Phishing:
+
+ ->Email phishing is a type of attack sent via email in which threat actors send messages pretending to be a trusted person or 
+   entity.
+
+ ->Smishing is a type of phishing that uses Short Message Service (SMS), a technology that powers text messaging. Smishing covers 
+   all forms of text messaging services, including Apple’s iMessages, WhatsApp, and other chat mediums on phones.
+
+ ->Vishing refers to the use of voice calls or voice messages to trick targets into providing personal information over the phone.
+
+ ->Spear phishing is a subset of email phishing in which specific people are purposefully targeted, such as the accountants of a 
+   small business.
+
+ ->Whaling refers to a category of spear phishing attempts that are aimed at high-ranking executives in an organization.
