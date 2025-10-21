@@ -68,3 +68,18 @@ The use of digital communications to trick people into revealing sensitive data 
    small business.
 
  ->Whaling refers to a category of spear phishing attempts that are aimed at high-ranking executives in an organization.
+
+Malware:
+Software designed to harm devices or netweorks.
+
+ Types of Malware:
+
+ ->Virus: Malicious code written to interfere with computer operations and cause damage to data and software.
+
+ ->Worm: Malware that can duplicate and spread itself across systems on it's own.
+
+ ->Trojan: Malware that looks like a legitimate file or program.
+
+ ->Ransomware: Type of malicious attack where attackers encrypt an organization's data and demand payment to restore access.
+
+ ->Spyware: Malware that's used to gather and sell information without consent.
