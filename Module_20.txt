@@ -212,7 +212,7 @@ The process of identifying assets, their vulnerabilities, and how each is expose
 
  6.Evaluate findings.
 
- PASTA:
+PASTA:
 A popular threat modeling framework that's used across many industries.
 
  PASTA threat model framework:
