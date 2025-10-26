@@ -16,3 +16,6 @@ procedures, or acceptable use policies.
 
 Event:
 An observable occurence on a network,system, or device.
+
+Computer security incident response teams (CSIRT):
+A specialized group of security professionals that are trained in incident management and response.
