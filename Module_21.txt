@@ -29,3 +29,14 @@ Incident Response Lifecycle:
  ->Containment, Eradication, and Recovery
 
  ->Post-incident activity
+
+Elements of Seccurity plan:
+
+ ->Policies 
+
+ ->Standards
+
+ ->Procedures
+
+Incident response plan:
+A document that outlines the procedures to take in each step of incident response.
