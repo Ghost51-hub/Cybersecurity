@@ -40,3 +40,11 @@ Elements of Seccurity plan:
 
 Incident response plan:
 A document that outlines the procedures to take in each step of incident response.
+
+ Elements of an incident response plan:
+
+ ->Incident response procedures
+
+ ->System information
+
+ ->Other documents
