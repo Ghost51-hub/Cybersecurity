@@ -1,0 +1,18 @@
+Incident:
+An occurence that actually or imminently jeopardizes, without lawful authority, the confidentiality, integrity, or availability of 
+information or an information system; or constitutes a violation or imminent threat of violation of law, security policies, security 
+procedures, or acceptable use policies.
+
+ The 5 W's of an incident:
+ ->who tiggered the incident.
+
+ ->what happened.
+
+ ->when the incident took place
+
+ ->where the incident took place.
+
+ ->why the incident occurred
+
+Event:
+An observable occurence on a network,system, or device.
