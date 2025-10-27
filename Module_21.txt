@@ -48,3 +48,20 @@ A document that outlines the procedures to take in each step of incident respons
  ->System information
 
  ->Other documents
+
+Intrusion detection system (IDS):
+An application that monitors system and network activity and produces alerts on possible intrusions.
+
+Intrusion prevention system (IPS):
+An application that monitors system activity for intrusions and take action to stop the activity.
+
+IDS and IPS tools:
+ ->Snort
+
+ ->Suricata
+
+ ->Zeek
+
+ ->Kismet
+
+ ->Sagan
