@@ -120,3 +120,6 @@ respond to and manage incidents. Some of the advantages are:
   ->LogRhythm
 
   ->Splunk
+
+Security orchestration, automation, and response (SOAR):
+A collection of applications, tools, and workflows that uses automation to respond to security events.
