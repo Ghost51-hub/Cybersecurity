@@ -1,0 +1,11 @@
+Network Traffic:
+The amount of data that moves across a network.
+
+Network Data:
+The data that's transmitted between devices on a network.
+
+Indicators of Compromise (IOCs):
+Observable evidence that suggests signs of a potential security incident.
+
+Data Exfiltration:
+Unauthorized transmission of data from a system.
