@@ -45,3 +45,15 @@ This information can be valuable for security professionals when developing a ba
  Security analysts monitor networks to identify any signs of potential security incidents known as indicators of compromise (IoC) 
  and  protect networks from threats or attacks. To do this, they must understand the environment that network communications travel 
  through so that they can identify deviations in network traffic. 
+
+ Network monitoring tools:
+ Network monitoring can be automated or performed manually. Some common network monitoring tools can include: 
+
+ ->Intrusion detection systems (IDS) monitor system activity and alert on possible intrusions. An IDS will detect and alert on the 
+   deviations you’ve configured it to detect. Most commonly, IDS tools will monitor the content of packet payload to detect patterns
+   associated with threats such as malware or phishing attempts.
+
+ ->Network protocol analyzers, also known as packet sniffers, are tools designed to capture and analyze data traffic within a network. 
+   They can be used to analyze network communications manually in detail. Examples include tools such as tcpdump and Wireshark, which 
+   can be used by security professionals to record network communications through packet captures. Packet captures can then be 
+   investigated to identify potentially malicious activity.
