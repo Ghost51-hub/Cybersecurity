@@ -24,3 +24,9 @@ This information can be valuable for security professionals when developing a ba
  actors to maintain communications with compromised systems. For example, malicious actors can use HTTPS protocol over port 8088 as 
  opposed to its commonly associated port 443 to communicate with compromised systems. Organizations must know which ports should be 
  open and approved for connections, and watch out for any mismatches between ports and their associated protocols.
+
+ Packet payload information:
+ Network packets contain components related to the transmission of the packet. This includes details like source and destination IP 
+ address, and the packet payload information, which is the actual data that’s transmitted. Often, this data is encrypted and requires 
+ decryption for it to be readable. Organizations can monitor the payload information of packets to uncover unusual activity, such 
+ as sensitive data transmitting outside of the network, which could indicate a possible data exfiltration attack.
