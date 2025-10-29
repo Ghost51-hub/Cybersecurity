@@ -37,3 +37,11 @@ This information can be valuable for security professionals when developing a ba
  activity. If large volumes of traffic are suddenly outside of the normal hours of network activity, then this is considered off 
  baseline and should be investigated. Through network monitoring, organizations can promptly detect network intrusions and work to 
  prevent them from happening by securing network components.
+
+ Protect your network:
+ Organizations may deploy a network operations center (NOC), which is an organizational unit that monitors the performance of a 
+ network and responds to any network disruption, such as a network outage. While a SOC is focused on maintaining the security of an 
+ organization through detection and response, a NOC is responsible for maintaining network performance, availability, and uptime. 
+ Security analysts monitor networks to identify any signs of potential security incidents known as indicators of compromise (IoC) 
+ and  protect networks from threats or attacks. To do this, they must understand the environment that network communications travel 
+ through so that they can identify deviations in network traffic. 
