@@ -30,3 +30,10 @@ This information can be valuable for security professionals when developing a ba
  address, and the packet payload information, which is the actual data that’s transmitted. Often, this data is encrypted and requires 
  decryption for it to be readable. Organizations can monitor the payload information of packets to uncover unusual activity, such 
  as sensitive data transmitting outside of the network, which could indicate a possible data exfiltration attack.
+
+ Temporal patterns:
+ Network packets contain information relating to time. This information is useful in understanding time patterns. For example, a 
+ company operating in North America experiences bulk traffic flows between 9 a.m. to 5 p.m., which is the baseline of normal network 
+ activity. If large volumes of traffic are suddenly outside of the normal hours of network activity, then this is considered off 
+ baseline and should be investigated. Through network monitoring, organizations can promptly detect network intrusions and work to 
+ prevent them from happening by securing network components.
