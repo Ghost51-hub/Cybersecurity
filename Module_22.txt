@@ -10,7 +10,7 @@ Observable evidence that suggests signs of a potential security incident.
 Data Exfiltration:
 Unauthorized transmission of data from a system.
 
- Monitor Your Network:
+Monitor Your Network:
 networks connect devices, and devices then communicate and exchange data using network protocols. Network communications provide 
 information about connections such as source and destination IP addresses, amount of data transferred, date and time, and more. 
 This information can be valuable for security professionals when developing a baseline of normal or expected behavior. 
