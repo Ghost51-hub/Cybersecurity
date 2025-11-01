@@ -91,3 +91,22 @@ monitor networks and identify suspicious activity, network protocol analyzers ca
 bandwidth or speed, and troubleshoot network performance issues, like slowdowns. Network protocol analyzers can also be used for 
 malicious purposes. For example, malicious actors can use network protocol analyzers to capture packets containing sensitive data, 
 such as account login information.
+
+ How network protocol analyzers work:
+ Network protocol analyzers use both software and hardware capabilities to capture network traffic and display it for security 
+ analysts to examine and analyze. Here’s how:
+
+ 1.First, packets must be collected from the network via the Network Interface Card (NIC), which is hardware that connects computers 
+ to a network, like a router. NICs receive and transmit network traffic, but by default they only listen to network traffic that’s 
+ addressed to them. To capture all network traffic that is sent over the network, a NIC must be switched to a mode that has access 
+ to all visible network data packets. In wireless interfaces this is often referred to as monitoring mode, and in other systems it 
+ may be called promiscuous mode. This mode enables the NIC to have access to all visible network data packets, but it won’t help 
+ analysts access all packets across a network. A network protocol analyzer must be positioned in an appropriate network segment to 
+ access all traffic between different hosts. 
+
+ 2.The network protocol analyzer collects the network traffic in raw binary format. Binary format consists of 0s and 1s and is not 
+ as easy for humans to interpret. The network protocol analyzer takes the binary and converts it so that it’s displayed in a 
+ human-readable format, so analysts can easily read and understand the information.  
+
+ Note: Enabling promiscuous can expose your device to potential attacks because it allows sensitive information like passwords and 
+ other confidential data to be captured. It's important to use tools that operate in promiscuous mode responsibly and with caution.
