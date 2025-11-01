@@ -57,3 +57,13 @@ This information can be valuable for security professionals when developing a ba
    They can be used to analyze network communications manually in detail. Examples include tools such as tcpdump and Wireshark, which 
    can be used by security professionals to record network communications through packet captures. Packet captures can then be 
    investigated to identify potentially malicious activity.
+
+Components of a packet:
+ 1.Header
+
+ 2.Payload
+
+ 3.Footer
+
+Packet Capture (P-cap):
+A file containing data packets intercepted from an interface or network.
