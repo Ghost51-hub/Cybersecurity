@@ -60,3 +60,26 @@ This information can be valuable for security professionals when developing a ba
 
 Packet Capture (P-cap):
 A file containing data packets intercepted from an interface or network.
+
+Packets:
+A data packet is a basic unit of information that travels from one device to another within a network. Detecting network intrusions 
+begins at the packet level. That's because packets form the basis of information exchange over a network. Each time you perform an 
+activity on the internet—like visiting a website—packets are sent and received between your computer and the website’s server. 
+These packets are what help transmit information through a network. For example, when uploading an image to a website, the data gets 
+broken up into multiple packets, which then get routed to the intended destination and reassembled upon delivery. 
+
+ Components of a packet:
+
+ 1.Header: Packets begin with the most essential component: the header. Packets can have several headers depending on the protocols 
+   used such as an Ethernet header, an IP header, a TCP header, and more. Headers provide information that’s used to route packets 
+   to their destination. This includes information about the source and destination IP addresses, packet length, protocol, packet 
+   identification numbers, and more. 
+
+ 2.Payload: The payload component directly follows the header and contains the actual data being delivered. Think back to the example 
+   of uploading an image to a website; the payload of this packet would be the image itself.
+
+ 3.Footer: The footer, also known as the trailer, is located at the end of a packet. The Ethernet protocol uses footers to provide 
+   error-checking information to determine if data has been corrupted. In addition, Ethernet network packets that are analyzed might 
+   not display footer information due to network configurations.
+
+   Note: Most protocols, such as the Internet Protocol (IP), do not use footers. 
