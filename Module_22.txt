@@ -58,9 +58,6 @@ This information can be valuable for security professionals when developing a ba
    can be used by security professionals to record network communications through packet captures. Packet captures can then be 
    investigated to identify potentially malicious activity.
 
-Packet Capture (P-cap):
-A file containing data packets intercepted from an interface or network.
-
 Packets:
 A data packet is a basic unit of information that travels from one device to another within a network. Detecting network intrusions 
 begins at the packet level. That's because packets form the basis of information exchange over a network. Each time you perform an 
