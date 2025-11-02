@@ -81,7 +81,7 @@ broken up into multiple packets, which then get routed to the intended destinati
 
    Note: Most protocols, such as the Internet Protocol (IP), do not use footers. 
 
- Network protocol analyzers:
+Network protocol analyzers:
 Network protocol analyzers (packet sniffers) are tools designed to capture and analyze data traffic within a network. Examples of 
 network protocol analyzers include tcpdump, Wireshark, and TShark. Beyond their use in security as an investigative tool used to 
 monitor networks and identify suspicious activity, network protocol analyzers can be used to collect network statistics, such as 
