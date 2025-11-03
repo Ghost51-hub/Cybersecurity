@@ -300,7 +300,7 @@ accessed, analyzed, or shared at a later time. Analysts use tcpdump for a variet
 to identifying malicious activity. Tcpdump comes pre-installed in many Linux distributions and can also be installed on other 
 Unix-based operating systems such as macOS®. 
 
- Note: It's common for network traffic to be encrypted, which means data is encoded and unreadable. Inspecting the network packets 
+Note: It's common for network traffic to be encrypted, which means data is encoded and unreadable. Inspecting the network packets 
 might require decrypting the data using the appropriate private keys.
 
  Capturing packets with tcpdump
