@@ -104,3 +104,68 @@ This automated threat detection is a main goal of strong CI/CD security.
 
  ->Improve Threat Knowledge: Checking IoCs gives valuable information about how attackers are targeting your CI/CD, which helps 
    improve security and threat hunting in the future.
+
+ Using Automation to Find Anomalies and IoCs:
+ To monitor CI/CD pipelines and automatically find threats, you can use these methods:
+
+  Comprehensive Logging and Auditing:
+  Detailed logs are the bases of monitoring. Logs provide the raw data that monitoring tools check for unusual activity and 
+  potential Indicators of Compromise (IoCs). The most common logs for finding anomalies include:
+
+  ->Pipeline Execution Logs: To effectively leverage pipeline execution logs for security monitoring, specialized tools employ 
+    automated baselining techniques. These tools analyze logs from successful, typical CI/CD pipeline runs to establish a profile 
+    of normal operation. This baseline encompasses key performance indicators such as the standard duration of each pipeline stage 
+    and expected success and failure rates. By continuously monitoring execution logs and comparing them against this established 
+    baseline, the tools can automatically detect anomalous activities. Deviations from the norm, including pipeline steps exceeding 
+    typical execution times, unexpected error occurrences, or alterations in the usual step order, are flagged as potential 
+    Indicators of Compromise (IoCs), warranting further security scrutiny.
+
+  ->Code Commit Logs: Keep track of code changes for each pipeline run. Unusual code changes, such as changes from people who 
+    shouldn't be making changes, changes made late at night, or changes with suspicious content (like very large deletions or 
+    confusing code), are important IoCs to monitor.
+
+  ->Access Logs: Monitoring tools can learn who usually accesses CI/CD. Unusual logins, like logins from different countries, failed 
+    login attempts followed by a successful login, or login attempts to change important pipeline settings, are strong indicators 
+    of compromise.
+
+  ->Deployment Logs: Tools can learn how often deployments usually happen and what those deployments look like. Unusual deployments, 
+    such as deployments at odd times or deployments to unexpected places, can be IoCs.
+
+  Security Information and Event Management (SIEM) Integration:
+  Connecting your CI/CD logs to a SIEM tool can help  automatically find anomalies at a large scale. SIEM platforms are made to:
+
+  ->Automatically Find Anomalies: SIEMs use machine learning and analytics to automatically find unusual patterns in CI/CD logs, which are  possible IoCs to investigate.
+
+  ->Use Rules to Alert for Known IoCs: You can set up specific rules in the SIEM to find known CI/CD IoCs. For example, rules can send alerts when:
+
+   -->Detection of specific malicious file hashes (related to known CI/CD attacks) are found in build results.
+
+   -->CI/CD servers connect to known malicious command and control (C2) servers (using threat intelligence data).
+
+   -->Someone tries to download or access private secrets outside of approved pipeline steps.
+
+  Real-time Alerting and Notifications:
+  Automated alerts make sure security teams are notified right away about unusual activity and possible IoCs, so they can respond 
+  quickly. Alerts should be set up for:
+
+  ->Unusual Build Failures: Pipeline steps failing repeatedly, especially after code changes that shouldn't cause failures.
+
+  ->Suspicious Code Changes (Based on Anomalies): Alerts sent by code analysis tools that find highly unusual code changes based on 
+    size, author, or confusing content.
+
+  ->Attempts to Expose Secrets: Alerts sent by security tools when someone tries to access or steal secrets from unapproved parts of 
+    the pipeline.
+
+  ->Unusual Network Traffic: Alerts for unusual network traffic from CI/CD servers, especially traffic going out to unknown or 
+    suspicious locations.
+
+  Performance Monitoring to Find IoAs and Discover IoCs:
+  Performance monitoring, while mainly used to make sure things are running smoothly, can also indirectly help find IoCs. 
+  Performance issues (Indicators of Attack - IoAs) like sudden slowdowns or CI/CD servers running out of resources can lead to 
+  deeper checks that may uncover IoCs.
+
+  Continuous Vulnerability Scanning:
+  Regularly checking the CI/CD infrastructure for weaknesses can proactively find vulnerable parts. This includes Common 
+  Vulnerabilities and Exposures (CVEs) in CI/CD tools, plugins, and containers. These weaknesses are potential IoCs. They highlight 
+  areas that need to be patched right away to prevent attacks and possible pipeline compromise.
+  
