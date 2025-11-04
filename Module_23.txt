@@ -42,3 +42,51 @@ Detection refers to the prompt discovery of security events.
  by tricking them into accessing the file because it appears to be legitimate. Once a malicious actor tries to access this file, 
  security teams are alerted.
  
+Automation for Finding Threats (CI/CD):
+CI/CD pipelines help you release software faster, but they can also open up new vulnerabilities for attackers. If someone breaks 
+into your pipeline, they could add code, steal private information, or stop your software from working. So, ongoing monitoring that 
+automatically finds unusual pipeline activity is critical. Effective CI/CD monitoring uses automation to do more than just collect 
+logs. It uses monitoring tools to automatically find unusual things happening in build processes, code, or deployment steps that 
+may indicate potential security threats. When these threats are found, security teams can respond quickly and limit the damage. 
+This automated threat detection is a main goal of strong CI/CD security.
+
+ Common Indicators of Compromise (IoCs) in CI/CD Pipelines:
+
+ ->Unauthorized Code Changes:
+
+  -->Code changes from people who shouldn't be making changes.
+
+  -->Code changes made at unusual times or from unexpected locations.
+
+  -->Code changes that look suspicious, like confusing code, very large deletions without a good reason, or code that doesn't follow 
+     coding rules.
+
+ ->Suspicious Deployment Patterns:
+
+  -->Deployments to unusual or unapproved systems (for example, production deployments started directly from developer branches).
+
+  -->Deployments happening at unexpected times or too often (deployments outside of planned release times).
+
+  -->Deployments started by unusual user accounts or automated accounts that shouldn't be releasing to production.
+
+ ->Compromised Dependencies:
+
+  -->Finding known vulnerabilities (CVEs) in dependencies during automated checks in the CI/CD pipeline.
+
+  -->Suddenly adding new, unexpected dependencies to build settings.
+
+  -->Attempts to download dependencies from unofficial or untrusted sources.
+
+ ->Unusual Pipeline Execution:
+
+  -->Pipeline steps that normally work fine suddenly failing.
+
+  -->Pipelines takeing much longer to run for no clear reason.
+
+  -->Changes in the order or way pipeline steps run without approved changes being made.
+
+ ->Secrets Exposure Attempts:
+
+  -->Logs showing attempts to get to secrets from unapproved places in the pipeline.
+
+  -->Finding private secrets hardcoded in code changes (ideally prevented earlier, but monitoring can catch mistakes).
