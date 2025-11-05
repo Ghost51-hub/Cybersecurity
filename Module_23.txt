@@ -277,6 +277,24 @@ NIST Incident Response Lifecycle:
 
 3.Recovery
 
+4.Post-Incident activity
+
+Final Report:
+One of the most essential forms of documentation that gets created during the end of an incident is the final report. The final 
+report provides a comprehensive review of an incident. Final reports are not standardized, and their formats can vary across 
+organizations. Additionally, multiple final reports can be created depending on the audience it’s written for. Here are some 
+examples of common elements found in a final report:
+
+->Executive summary: A high-level summary of the report including the key findings and essential facts related to the incident
+
+->Timeline:  A detailed chronological timeline of the incident that includes timestamps dating the sequence of events that led to 
+  the incident
+
+->Investigation: A compilation of the actions taken during the detection and analysis of the incident. For example, analysis of a 
+  network artifact such as a packet capture reveals information about what activities happen on a network.
+
+->Recommendations: A list of suggested actions for future prevention
+
 Business continuity planning:
 Security teams must be prepared to minimize the impact that security incidents can have on their normal business operations. When 
 an incident occurs, organizations might experience significant disruptions to the functionality of their systems and services. 
