@@ -70,7 +70,7 @@ secure using log management. Log management is the process of collecting, storin
  server instead of getting stored on a local machine. This makes it more difficult for attackers to access logs because there is a
  barrier between the attacker and the log location. 
 
-Commonly used lof formats:
+ Commonly used lof formats:
 
 ->Syslog
 
