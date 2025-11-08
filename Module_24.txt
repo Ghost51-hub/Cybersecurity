@@ -355,5 +355,25 @@ Suricata is an open-source intrusion detection system, intrusion prevention syst
   detection and monitoring. Custom rules help to minimize the amount of false positive alerts that security teams receive. It's important to develop 
   the ability to write effective and customized signatures so that you can fully leverage the power of detection technologies.
 
+ Configuration file:
+ Before detection tools are deployed and can begin monitoring systems and networks, you must properly configure their settings so that they know what to do. 
+ A configuration file is a file used to configure the settings of an application. Configuration files let you customize exactly how you want your IDS to 
+ interact with the rest of your environment. 
+ Suricata's configuration file is suricata.yaml, which uses the YAML file format for syntax and structure.
+
+ Log files:
+ There are two log files that Suricata generates when alerts are triggered:
+
+ ->eve.json: The eve.json file is the standard Suricata log file. This file contains detailed information and metadata about the events and alerts generated 
+   by Suricata stored in JSON format. For example, events in this file contain a unique identifier called flow_id  which is used to correlate related logs or 
+   alerts to a single network flow, making it easier to analyze network traffic. The eve.json file is used for more detailed analysis and is considered to be
+   a better file format for log parsing and SIEM log ingestion.
+
+ ->fast.log: The fast.log file is used to record minimal alert information including basic IP address and port details about the network traffic. The fast.log 
+   file is used for basic logging and alerting and is considered a legacy file format and is not suitable for incident response or threat hunting tasks.
+
+ The main difference between the eve.json file and the fast.log file is the level of detail that is recorded in each. The fast.log file records basic information, 
+ whereas the eve.json file contains additional verbose information. 
+
 
  
