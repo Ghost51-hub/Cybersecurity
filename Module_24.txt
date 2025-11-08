@@ -242,3 +242,11 @@ Commonly used lof formats:
 
  Note: Extensions and syslog prefix are optional to add to a CEF log.
   
+Telemetry:
+The collection and transmission of data for analysis.
+
+Endpoint:
+Any device connected on a network.
+
+Signature analysis:
+A detection method used to find events of interest.
