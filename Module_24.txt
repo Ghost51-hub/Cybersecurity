@@ -347,3 +347,13 @@ Suricata is an open-source intrusion detection system, intrusion prevention syst
    traffic direction.
 
  ->Rule options: The rule options provide you with different options to customize signatures.
+
+  Custom rules:
+  Although Suricata comes with pre-written rules, it is highly recommended that you modify or customize the existing rules to meet your specific 
+  security requirements. There is no one-size-fits-all approach to creating and modifying rules. This is because each organization's IT infrastructure 
+  differs. Security teams must extensively test and modify detection signatures according to their needs. Creating custom rules helps to tailor 
+  detection and monitoring. Custom rules help to minimize the amount of false positive alerts that security teams receive. It's important to develop 
+  the ability to write effective and customized signatures so that you can fully leverage the power of detection technologies.
+
+
+ 
