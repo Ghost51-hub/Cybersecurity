@@ -407,5 +407,3 @@ Security information and event management (SIEM) tools collect and analyze log d
 
   Note: Many SIEM tools utilize their own proprietary log forwarders. SIEM tools can also integrate with open-source log forwarders. Choosing the right log forwarder 
   depends on many factors such as the specific requirements of your system or organization, compatibility with your existing infrastructure, and more. 
-
- 
