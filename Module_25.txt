@@ -23,12 +23,12 @@ perform common and repetitive tasks. These are some specific areas of cybersecur
 
 ->Log analysis
 
-Malware analysis
+->Malware analysis
 
-Access control list management
+->Access control list management
 
-Intrusion detection
+->Intrusion detection
 
-Compliance checks
+->Compliance checks
 
-Network scanning
+->Network scanning
