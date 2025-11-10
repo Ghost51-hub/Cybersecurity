@@ -1,2 +1,18 @@
 Programming:
 Used to create a specific a specific set of instructions for a computer to execute tasks.
+
+ Advantages of Python:
+ ->Resembles human language
+
+ ->Less code
+
+ ->Easy to read
+
+ ->Standard guidelines
+
+ ->Online support
+
+ ->Built-in code
+
+Automation:
+The use of technology to reduce human and manual effort to perform common and repetitive tasks.
