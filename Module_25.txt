@@ -38,3 +38,6 @@ A note programmers make about the intention behind their code.
 
 print():
 Outputs a specified object to the screen.
+
+Syntax:
+The rules that determine what is correctly structured in a computing language.
