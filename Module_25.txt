@@ -32,3 +32,6 @@ perform common and repetitive tasks. These are some specific areas of cybersecur
 ->Compliance checks
 
 ->Network scanning
+
+Comments:
+A note programmers make about the intention behind their code.
