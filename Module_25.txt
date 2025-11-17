@@ -183,3 +183,34 @@ a particular data type, such as integer, string, or Boolean. The value that is s
  old_username = username
 
  Because username contains the string value of "nzhao" and old_username contains the value of username, old_username now contains a value of "nzhao".
+
+Conditional statements:
+A conditional statement is a statement that evaluates code to determine whether it meets a specific set of conditions. When a condition is met, it 
+evaluates to a Boolean value of True and performs specified actions. When the condition isn’t met, it evaluates a Boolean value of False and doesn’t 
+perform the specified actions. 
+
+ if statements:
+ The keyword if starts a conditional statement. It’s a necessary component of any conditional statement. In the following example, if begins a 
+ statement that tells Python to print an "OK" message when the HTTP response status code equals 200:
+
+ if status == 200:
+
+     print("OK")
+
+ else statements:
+ The keyword else precedes a code section that only evaluates when all conditions that precede it within the conditional statement evaluate to False.
+
+ In the following example, when the HTTP response status code is not equal to 200, it prints an alternative message of "check other status":
+
+ if status == 200:
+
+     print("OK")
+
+ else:
+
+     print("check other status")
+
+ elif statements:
+ In some cases, you might have multiple alternative actions that depend on new conditions. In that case, you can use elif. The elif keyword 
+ precedes a condition that is only evaluated when previous conditions evaluate to False. Unlike with else, there can be multiple elif statements 
+ following if.
