@@ -159,7 +159,7 @@ Variables:
 A variable is a container that stores data. It's a named storage location in a computer's memory that can hold a value. It stores the data in 
 a particular data type, such as integer, string, or Boolean. The value that is stored in a variable can change. 
 
- Assigning and reassigning variables
+ Assigning and reassigning variables:
  If you want to create a variable called username and assign it a value of "nzhao", place the variable to the left of the equals sign and its 
  value to the right:
 
@@ -172,3 +172,14 @@ a particular data type, such as integer, string, or Boolean. The value that is s
  username = "zhao2"
 
  Although the contents have changed from "nzhao" to "zhao2", the variable username remains the same. 
+
+ Assigning variables to variables:
+ Using a similar process, you can also assign variables to other variables. In the following example, the variable username is assigned to a new 
+ variable old_username: 
+
+ # Assign a variable to another variable
+ username = "nzhao"
+
+ old_username = username
+
+ Because username contains the string value of "nzhao" and old_username contains the value of username, old_username now contains a value of "nzhao".
