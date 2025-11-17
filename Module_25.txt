@@ -158,3 +158,17 @@ A data type is a category for a particular type of data item.
 Variables:
 A variable is a container that stores data. It's a named storage location in a computer's memory that can hold a value. It stores the data in 
 a particular data type, such as integer, string, or Boolean. The value that is stored in a variable can change. 
+
+ Assigning and reassigning variables
+ If you want to create a variable called username and assign it a value of "nzhao", place the variable to the left of the equals sign and its 
+ value to the right:
+
+ # Assign 'username' 
+ username = "nzhao"
+
+ If you later reset this username to "zhao2", you still refer to that variable container as username. 
+
+ # Reassign 'username' 
+ username = "zhao2"
+
+ Although the contents have changed from "nzhao" to "zhao2", the variable username remains the same. 
