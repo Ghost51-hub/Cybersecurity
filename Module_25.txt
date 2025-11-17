@@ -154,3 +154,7 @@ A data type is a category for a particular type of data item.
  This example of a set contains strings of usernames:
  
  ->{"jlanksy", "drosas", "nmason"}
+
+Variables:
+A variable is a container that stores data. It's a named storage location in a computer's memory that can hold a value. It stores the data in 
+a particular data type, such as integer, string, or Boolean. The value that is stored in a variable can change. 
