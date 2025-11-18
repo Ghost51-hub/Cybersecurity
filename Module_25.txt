@@ -214,3 +214,39 @@ perform the specified actions.
  In some cases, you might have multiple alternative actions that depend on new conditions. In that case, you can use elif. The elif keyword 
  precedes a condition that is only evaluated when previous conditions evaluate to False. Unlike with else, there can be multiple elif statements 
  following if.
+
+ Logical operators:
+ 
+  and:
+  The and operator requires both conditions on either side of the operator to evaluate to True. For example, all HTTP status response codes between 
+  200 and 226 relate to successful responses. You can use and to join a condition of being greater than or equal to 200 with another condition of 
+  being less than or equal to 226:
+
+  if status >= 200 and status <= 226:
+
+      print("successful response")
+
+  When both conditions are True, then the "successful response" message will print.
+
+  or:
+  The or operator requires only one of the conditions on either side of the operator to evaluate to True. For example, both a status code of 
+  100 and a status code of 102 are informational responses. Using or, you could ask Python to print an "informational response" message when 
+  the code is either 100 or 102:
+
+  if status == 100 or status == 102:
+
+      print("informational response")
+
+  Only one of these conditions needs to be met for Python to print the message.
+
+
+  not:
+  The not operator negates a given condition so that it evaluates to False if the condition is True and to True if it is False. For example, 
+  if you want to indicate that Python should check the status code when it’s something outside of the successful range, you can use not:
+
+  if not(status >= 200 and status <= 226):
+
+      print("check status")
+
+  Python first checks whether the value of status is greater than or equal to 200 and less than or equal to 226, and then because of the operator 
+  not, it inverts this. This means it will print the message if status is less than 200 or greater than 226.
