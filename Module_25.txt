@@ -250,3 +250,16 @@ perform the specified actions.
 
   Python first checks whether the value of status is greater than or equal to 200 and less than or equal to 226, and then because of the operator 
   not, it inverts this. This means it will print the message if status is less than 200 or greater than 226.
+
+ Iterative statements:
+ An iterative statement is code that repeatedly executes a set of instructions.
+
+  for loops  
+  If you need to iterate through a specified sequence, you should use a for loop. 
+
+  for i in ["elarson", "bmoreno", "tshah", "sgilmore"]:
+    print(i)
+
+  Note: When used in a for loop, the in operator precedes the sequence that the for loop will iterate through. When used in a conditional statement, 
+  the in operator is used to evaluate whether an object is part of a sequence.  The example if "elarson" in ["tshah", "bmoreno", "elarson"] 
+  evaluates to True because "elarson" is part of the sequence following in.
