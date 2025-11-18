@@ -263,3 +263,12 @@ perform the specified actions.
   Note: When used in a for loop, the in operator precedes the sequence that the for loop will iterate through. When used in a conditional statement, 
   the in operator is used to evaluate whether an object is part of a sequence.  The example if "elarson" in ["tshah", "bmoreno", "elarson"] 
   evaluates to True because "elarson" is part of the sequence following in.
+
+  while loops:
+  If you want a loop to iterate based on a condition, you should use a while loop. As long as the condition is True, the loop continues, but when it 
+  evaluates to False, the while loop exits. The following while loop continues as long as the condition that i < 5 is True:
+
+  i = 1
+  while i < 5:
+      print(i)
+      i = i + 1
