@@ -290,3 +290,20 @@ perform the specified actions.
       if asset == "desktop20":
           break
       print(asset)
+
+  As expected, the values of "desktop20" and "smartphone03" don't print because the loop breaks on the second iteration.
+
+
+  continue:
+  When you want to skip an iteration based on a certain condition in an if statement being True, you can add the keyword continue in the body of a conditional 
+  statement within the loop. In this example, continue will execute when the loop variable of asset is equal to "desktop20". You can run this code to observe 
+  how this output differs from the previous example with break:
+
+  computer_assets = ["laptop1", "desktop20", "smartphone03"]
+  for asset in computer_assets:
+      if asset == "desktop20":
+          continue
+      print(asset)
+
+  The value "desktop20" in the second iteration doesn't print. However, in this case, the loop continues to the next iteration, and "smartphone03" is printed. 
+
