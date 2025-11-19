@@ -18,12 +18,19 @@ a function header and the body of your function.
  display_investigation_message. 
 
  Function body
- The body of the function is an indented block of code after the function header that defines what the function does. The indentation is very important when writing a function because it separates the definition of a function from the rest of the code.
+ The body of the function is an indented block of code after the function header that defines what the function does. The 
+ indentation is very important when writing a function because it separates the definition of a function from the rest of the code.
 
- To add a body to your definition of the display_investigation_message() function, add an indented line with the print() function. Your function definition becomes the following:
+ To add a body to your definition of the display_investigation_message() function, add an indented line with the print() function. 
+ Your function definition becomes the following:
 
  def display_investigation_message():
 
      print("investigate activity")
 
- 
+ Calling a function:
+ After defining a function, you can use it as many times as needed in your code. Using a function after defining it is referred to as 
+ calling a function. To call a function, write its name followed by parentheses. So, for the function you previously defined, you can 
+ use the following code to call it:
+
+ display_investigation_message()
