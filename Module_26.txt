@@ -132,3 +132,21 @@ is a function in the statistics module that takes numeric data as input and calc
  monthly_failed_attempts = [20, 17, 178, 33, 15, 21, 19, 29, 32, 15, 25, 19]
  mean_failed_attempts = statistics.mean(monthly_failed_attempts)
  print("mean:", mean_failed_attempts)
+
+ Importing specific functions from a module:
+ To import a specific function from the Python Standard Library, you can use the from keyword. For example, if you want to import just the median() 
+ function from the statistics module, you can write from statistics import median.
+
+ To import multiple functions from a module, you can separate the functions you want to import with a comma. For instance, from statistics import mean, 
+ median imports both the mean() and the median() functions from the statistics module.
+
+ An important detail to note is that if you import specific functions from a module, you no longer have to specify the name of the module before those 
+ functions. You can examine this in the following code, which specifically imports only the median() and the mean() functions from the statistics 
+ module and performs the same calculations as the previous examples:
+
+ from statistics import mean, median
+ monthly_failed_attempts = [20, 17, 178, 33, 15, 21, 19, 29, 32, 15, 25, 19]
+ mean_failed_attempts = mean(monthly_failed_attempts)
+ print("mean:", mean_failed_attempts)
+ median_failed_attempts = median(monthly_failed_attempts)
+ print("median:", median_failed_attempts)
