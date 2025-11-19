@@ -56,3 +56,14 @@ a function header and the body of your function.
  These integers pass into the function through the parameters that were identified when defining the function. In this case, those parameters 
  would be maximum_attempts and total_attempts. 3 is in the first position, so it passes into maximum_attempts. Similarly, 2 is in the second 
  position and passes into total_attempts.
+
+ Return statements:
+ When defining functions in Python, you use return statements if you want the function to return output. The return keyword is used to return 
+ information from a function.
+
+ The return keyword appears in front of the information that you want to return. In the following example, it is before the calculation of 
+ how many login attempts remain:
+
+ def remaining_login_attempts(maximum_attempts, total_attempts):
+
+     return maximum_attempts - total_attempts
