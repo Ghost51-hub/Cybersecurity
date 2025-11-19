@@ -117,3 +117,18 @@ For example, you were previously introduced to the following modules in the Pyth
 Another Python Standard Library module is statistics. The statistics module includes functions used when calculating statistics related to numeric data. 
 For example, mean() is a function in the statistics module that takes numeric data as input and calculates its mean (or average). Additionally, median() 
 is a function in the statistics module that takes numeric data as input and calculates its median (or middle value).
+
+ Importing an entire module:
+ To import an entire Python Standard Library module, you use the import keyword. The import keyword searches for a module or library in a system and 
+ adds it to the local Python environment. After import, specify the name of the module to import. For example, you can specify import statistics to 
+ import the statistics module. This will import all the functions inside of the statistics module for use later in your code.
+
+ As an example, you might want to use the mean() function from the statistics module to calculate the average number of failed login attempts per 
+ month for a particular user. In the following code block, the total number of failed login attempts for each of the twelve months is stored in a list 
+ called monthly_failed_attempts. Run this code and analyze how mean() can be used to calculate the average of these monthly failed login totals and 
+ store it in mean_failed_attempts:
+
+ import statistics
+ monthly_failed_attempts = [20, 17, 178, 33, 15, 21, 19, 29, 32, 15, 25, 19]
+ mean_failed_attempts = statistics.mean(monthly_failed_attempts)
+ print("mean:", mean_failed_attempts)
