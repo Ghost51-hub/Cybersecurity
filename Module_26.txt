@@ -1,0 +1,9 @@
+Functions:
+A function is a section of code that can be reused in a program. Functions are important in Python because they allow you to 
+automate repetitive parts of your code. 
+
+In Python, you'll work with built-in functions and user-defined functions. Built-in functions are functions that exist within 
+Python and can be called directly. The print() function is an example of a built-in function.
+
+User-defined functions are functions that programmers design for their specific needs. To define a function, you need to include 
+a function header and the body of your function.
