@@ -154,3 +154,19 @@ functions from a module.
  print("mean:", mean_failed_attempts)
  median_failed_attempts = median(monthly_failed_attempts)
  print("median:", median_failed_attempts)
+
+External libraries:
+In addition to the Python Standard Library, you can also download external libraries and incorporate them into your Python code. For example, for 
+Beautiful Soup (bs4) for parsing HTML files and NumPy (numpy) for arrays and mathematical computations. Before using them in a Jupyter Notebook or 
+a Google Colab environment, you need to install them first.
+
+To install a library, such as numpy, in either environment, you can run the following line prior to importing the library:
+
+%pip install numpy
+
+This installs the library so you can use it in your notebook.
+
+After a library is installed, you can import it directly into Python using the import keyword in a similar way to how you used it to import modules 
+from the Python Standard Library. For example, after the numpy install, you can use this code to import it:
+
+import numpy
