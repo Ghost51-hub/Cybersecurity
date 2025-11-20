@@ -19,3 +19,27 @@ you don't need to manipulate mathematically (such as through division or subtrac
  device_id = "h32rb17"
 
  device_id[0]
+
+ String functions and methods:
+ The str() and len() functions are useful for working with strings. You can also apply methods to strings, 
+ including the .upper(), .lower(), and .index() methods. A method is a function that belongs to a specific data 
+ type.
+
+  str() and len():
+  The str() function converts its input object into a string. Converting an integer to a string gives you the 
+  ability to search through it and extract slices from it.
+
+  string_id = str(19329302)
+
+  The second function you learned for strings is the len() function, which returns the number of elements in an object.
+
+  .upper() and .lower():
+  The .upper() method returns a copy of the string with all of its characters in uppercase. For example, you can 
+  change this department name to all uppercase by running the code "Information Technology".upper(). It would return 
+  the string "INFORMATION TECHNOLOGY".
+
+  Meanwhile, the .lower() method returns a copy of the string in all lowercase characters. "Information Technology".lower() 
+  would return the string "information technology".
+
+  .index():
+  The .index() method finds the first occurrence of the input in a string and returns its location. 
