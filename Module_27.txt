@@ -84,3 +84,27 @@ multiple elements in a single variable. A single list can contain multiple data 
  .index():
  Similar to the .index() method used for strings, the .index() method used for lists finds the first occurrence of an 
  element in a list and returns its index. It takes the element you're searching for as an input.
+
+Regular expressions:
+A regular expression (regex) is a sequence of characters that forms a pattern. You can use these in Python to search for a 
+variety of patterns. This could include IP addresses, emails, or device IDs.
+
+To access regular expressions and related functions in Python, you need to import the re module first. You should use the 
+following line of code to import the re module:
+
+import re
+re.findall("ts", "tsnow, tshah, bmoreno")
+
+ Regular expression symbols:
+
+ ->\w matches with any alphanumeric character.
+
+ ->+ matches one or more times.
+
+ . matches to all characters, including symbols
+
+ ->\d matches to all single digits [0-9]
+
+ ->\s matches to all single spaces 
+
+ ->\. matches to the period character
