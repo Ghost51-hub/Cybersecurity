@@ -55,3 +55,10 @@ multiple elements in a single variable. A single list can contain multiple data 
  Bracket notation:
  Similar to strings, you can use bracket notation to extract elements or slices in a list. To extract an element from a 
  list, after the list or the variable that contains a list, add square brackets that contain the index of the element. 
+
+ Extracting a slice from a list:
+ Just like with strings, it's also possible to use bracket notation to take a slice from a list. With lists, this means 
+ extracting more than one element from the list.
+
+ When you extract a slice from a list, the result is another list. This extracted list is called a sublist because it is 
+ part of the original, larger list. 
