@@ -62,3 +62,25 @@ multiple elements in a single variable. A single list can contain multiple data 
 
  When you extract a slice from a list, the result is another list. This extracted list is called a sublist because it is 
  part of the original, larger list. 
+
+ Changing the elements in a list:
+ Unlike strings, you can also use bracket notation to change elements in a list. This is because a string is immutable 
+ and cannot be changed after it is created and assigned a value, but lists are not immutable.
+
+ List methods:
+ List methods are functions that are specific to the list data type. These include the .insert() , .remove(), .append() and .index(). 
+
+  .insert():
+  The .insert() method adds an element in a specific position inside a list. It has two parameters. The first is the index 
+  where you will insert the new element, and the second is the element you want to insert.
+
+  .remove()
+  The .remove() method removes the first occurrence of a specific element in a list. It has only one parameter, the 
+  element you want to remove.
+
+  .append() 
+  The .append() method adds input to the end of a list. Its one parameter is the element you want to add to the end of the list. 
+
+ .index():
+ Similar to the .index() method used for strings, the .index() method used for lists finds the first occurrence of an 
+ element in a list and returns its index. It takes the element you're searching for as an input.
