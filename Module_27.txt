@@ -1,0 +1,21 @@
+String:
+String data is data consisting of an ordered sequence of characters. It's used to store any type of information 
+you don't need to manipulate mathematically (such as through division or subtraction). 
+
+ Indices:
+ An index is a number assigned to every element in a sequence that indicates its position. With strings, this 
+ means each character in the string has its own index.
+
+ Bracket notation
+ Bracket notation refers to the indices placed in square brackets. You can use bracket notation to extract a 
+ part of a string. For example, the first character of the device ID might represent a certain characteristic 
+ of the device. If you want to extract it, you can use bracket notation for this:
+
+ "h32rb17"[0]
+ 
+ This device ID might also be stored within a variable called device_id. You can apply the same bracket notation 
+ to the variable:
+
+ device_id = "h32rb17"
+
+ device_id[0]
