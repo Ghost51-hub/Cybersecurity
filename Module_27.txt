@@ -42,4 +42,8 @@ you don't need to manipulate mathematically (such as through division or subtrac
   would return the string "information technology".
 
   .index():
-  The .index() method finds the first occurrence of the input in a string and returns its location. 
+  The .index() method finds the first occurrence of the input in a string and returns its location.
+
+List:
+List data is a data structure that consists of a collection of data in sequential form. You can use lists to store 
+multiple elements in a single variable. A single list can contain multiple data types.  
