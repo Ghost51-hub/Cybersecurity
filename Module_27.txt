@@ -92,7 +92,7 @@ variety of patterns. This could include IP addresses, emails, or device IDs.
 To access regular expressions and related functions in Python, you need to import the re module first. You should use the 
 following line of code to import the re module:
 
- import re
+import re
 re.findall("ts", "tsnow, tshah, bmoreno")
 
  Regular expression symbols:
