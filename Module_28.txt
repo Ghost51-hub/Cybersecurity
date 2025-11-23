@@ -23,3 +23,13 @@ You can use Python to automate many kinds of security tasks in CI/CD pipelines. 
  Python scripts can automatically check for compliance. For example, scripts can check if code follows secure 
  coding rules or if infrastructure settings meet security guidelines. You can then use Python to make reports 
  about compliance and ensure security standards are followed.
+
+ Secrets Management Automation:
+ Python is key for automating secure secrets management. Scripts can be used to review through code and stop 
+ private credentials from being directly written in the code. Also, Python scripts can work with secret management 
+ tools (like HashiCorp Vault) to safely get and put secrets into applications during automated releases.
+
+ Policy Enforcement:
+ "Policy as Code" and Python scripts work together to automatically enforce security policies. Python can be used to 
+ define and understand security policies. Then, scripts can check pipeline steps against these policies. If policies 
+ are broken (for example, if too many vulnerabilities are found), Python can automatically stop releases.
