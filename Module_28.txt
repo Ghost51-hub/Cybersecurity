@@ -1,0 +1,15 @@
+What Security Tasks Can You Automate in CI/CD with Python?
+You can use Python to automate many kinds of security tasks in CI/CD pipelines. Here are some main tasks:
+
+ Security Testing:
+ ->Static Application Security Testing (SAST): Python scripts can be written to start SAST tools that look at 
+   your code for weaknesses before it gets built. Python can also be used to understand the SAST results, create 
+   reports, and automatically stop the process if serious security problems are found.
+
+ ->Dynamic Application Security Testing (DAST): Python can be used to automatically run DAST tools to test 
+   software while it’s running in a test area. Then, Python scripts can look at the DAST results and give 
+   feedback in the CI/CD pipeline.
+
+ ->Software Composition Analysis (SCA): Python can work with SCA tools to check your software’s dependencies 
+   for weaknesses. Dependencies are things like open source code and components from other companies. Scripts 
+   can control the SCA process, report problems, and set rules based on the severity of weaknesses.
