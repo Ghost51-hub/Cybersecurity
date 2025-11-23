@@ -62,3 +62,19 @@ Here’s how Python fits in:
  ->Automate Secure Releases: Python scripts are very useful for automating releases to staging and production areas 
    securely. Python can manage release processes and ensure releases follow security best practices. This includes using 
    secure settings and moving software files securely.
+
+Opening files in Python:
+To open a file called "update_log.txt" in Python for purposes of reading it, you can incorporate the following line of code:
+
+with open("update_log.txt", "r") as file:
+
+This line consists of the with keyword, the open() function with its two parameters, and the as keyword followed by a 
+variable name. You must place a colon (:) at the end of the line.
+
+ with:
+ The keyword with handles errors and manages external resources when used with other functions. In this case, it's used 
+ with the open() function in order to open a file. It will then manage the resources by closing the file after exiting the 
+ with statement.
+
+ Note: You can also use the open() function without the with keyword. However, you should close the file you opened to 
+ ensure proper handling of the file. 
