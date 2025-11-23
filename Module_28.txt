@@ -33,3 +33,19 @@ You can use Python to automate many kinds of security tasks in CI/CD pipelines. 
  "Policy as Code" and Python scripts work together to automatically enforce security policies. Python can be used to 
  define and understand security policies. Then, scripts can check pipeline steps against these policies. If policies 
  are broken (for example, if too many vulnerabilities are found), Python can automatically stop releases.
+
+How Python Works with CI/CD Tools:
+Python is even more helpful for CI/CD security automation because it works well with popular CI/CD tools. Tools like 
+Jenkins, GitLab CI, and CircleCI let you easily run Python scripts as part of your release process.
+
+Here’s how Python fits in:
+
+->Run Scripts: CI/CD systems let you set up release steps that run commands or scripts. You can easily set up steps 
+  to run Python scripts that do security tasks.
+
+->API Connections: Many CI/CD tools and security tools have APIs (Application Programming Interfaces). Python is 
+  excellent at using APIs. You can write Python scripts to use CI/CD system APIs to manage the release process, start
+  jobs, get software build files, and connect to security tool APIs to start scans and get results.
+
+->Add-ons and Extensions: Some CI/CD systems have add-ons or extensions made in Python or that can easily use Python 
+  scripts. This makes it even simpler to add security automation based on Python.
