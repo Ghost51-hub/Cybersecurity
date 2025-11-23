@@ -18,3 +18,8 @@ You can use Python to automate many kinds of security tasks in CI/CD pipelines. 
  Python scripts can organize vulnerability scans of things like container images, infrastructure settings, and 
  the CI/CD pipeline itself. You can use Python to schedule these scans, collect the results, and send alerts 
  when new vulnerabilities are discovered.
+
+ Compliance Checks:
+ Python scripts can automatically check for compliance. For example, scripts can check if code follows secure 
+ coding rules or if infrastructure settings meet security guidelines. You can then use Python to make reports 
+ about compliance and ensure security standards are followed.
