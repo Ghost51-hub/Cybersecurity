@@ -106,3 +106,31 @@ print(updates)
 
 The .read() method converts files into strings. This is necessary in order to use and display the contents of the file 
 that was read.
+
+Writing files in Python: 
+To write to a file, you will need to open the file with "w" or "a" as the second argument of open(). 
+
+You should use the "w" argument when you want to replace the contents of an existing file. When working with the existing 
+file update_log.txt, the code with open("update_log.txt", "w") as file: opens it so that its contents can be replaced. 
+
+Additionally, you can use the "w" argument to create a new file. For example, with open("update_log2.txt", "w") as file: 
+creates and opens a new file called "update_log2.txt". 
+
+You should use the "a" argument if you want to append new information to the end of an existing file rather than writing over it. 
+The code with open("update_log.txt", "a") as file: opens "update_log.txt" so that new information can be appended to the end. 
+Its existing information will not be deleted.
+
+Like when opening a file to read from it, you should indicate what to do with the file on the indented lines that follow when 
+you open a file to write to it. With both "w" and "a", you can use the .write() method. The .write() method writes string data 
+to a specified file. 
+
+The following example uses the .write() method to append the content of the line variable to the file "access_log.txt".
+
+line = "jrafael,192.168.243.140,4:56:27,True"
+
+with open("access_log.txt", "a") as file:
+
+    file.write(line)
+
+Note: Calling the .write() method without using the with keyword when importing the file might result in its arguments not 
+being completely written to the file if the file is not properly closed in another way.
