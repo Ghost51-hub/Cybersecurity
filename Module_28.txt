@@ -78,3 +78,11 @@ variable name. You must place a colon (:) at the end of the line.
 
  Note: You can also use the open() function without the with keyword. However, you should close the file you opened to 
  ensure proper handling of the file. 
+
+ open():
+ The open() function opens a file in Python.
+
+ Note: In Python, the names of files or their file paths can be handled as string data, and like all string data, you must 
+ place them in quotation marks. The second parameter of the open() function indicates what you want to do with the file. 
+ The second parameter is "r", which indicates that you want to read the file. Alternatively, you can use "w" if you want 
+ to write to a file or "a" if you want to append to a file.
