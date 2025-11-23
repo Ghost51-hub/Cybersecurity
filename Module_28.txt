@@ -13,3 +13,8 @@ You can use Python to automate many kinds of security tasks in CI/CD pipelines. 
  ->Software Composition Analysis (SCA): Python can work with SCA tools to check your software’s dependencies 
    for weaknesses. Dependencies are things like open source code and components from other companies. Scripts 
    can control the SCA process, report problems, and set rules based on the severity of weaknesses.
+
+ Automated Vulnerability Scanning:
+ Python scripts can organize vulnerability scans of things like container images, infrastructure settings, and 
+ the CI/CD pipeline itself. You can use Python to schedule these scans, collect the results, and send alerts 
+ when new vulnerabilities are discovered.
