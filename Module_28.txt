@@ -205,4 +205,19 @@ Methods that can help you parse your data include .split() and .join().
   When working with files, it may also be necessary to convert its contents back into a string. For example, you may want to use the 
   .write() method. The .write() method writes string data to a file. This means that if you have converted a file's contents into a 
   list while working with it, you'll need to convert it back into a string before using .write(). You can use the .join() method for this.
-  
+
+An Algorithm that lets you log in only if login attempt is less than 3:
+
+with open("usernames_log.txt", "r") as file:
+    usernames = file.read()
+    usernames = usernames.split()
+
+def login_check(login_list, current_user):
+    counter = 0
+    for i in login_list:
+        if i == current_user:
+            counter += 1
+    if counter => 3:
+        print("You have been locked out of the system.")
+    else:
+        print("Login successful.")
