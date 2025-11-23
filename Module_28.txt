@@ -134,3 +134,44 @@ with open("access_log.txt", "a") as file:
 
 Note: Calling the .write() method without using the with keyword when importing the file might result in its arguments not 
 being completely written to the file if the file is not properly closed in another way.
+
+Parsing:
+Parsing is the process of converting data into a more readable format. Data may need to become more readable in a couple of 
+different ways. First, certain parts of your Python code may require modification into a specific format. By converting data 
+into this format, you enable Python to process it in a specific way. Second, programmers need to read and interpret the results 
+of their code, and parsing can also make the data more readable for them.
+
+Methods that can help you parse your data include .split() and .join().
+
+ .split():
+
+  The basics of .split():
+  The .split() method converts a string into a list. It separates the string based on a specified character that's passed into 
+  .split() as an argument. 
+
+  In the following example, the usernames in the approved_users string are separated by a comma. For this reason, a string 
+  containing the comma (",") is passed into .split() in order to parse it into a list. Run this code and analyze the different 
+  contents of approved_users before and after the .split() method is applied to it:
+
+  approved_users = "elarson,bmoreno,tshah,sgilmore,eraab"
+  print("before .split():", approved_users)
+  approved_users = approved_users.split(",")
+  print("after .split():", approved_users)
+
+  before .split(): elarson,bmoreno,tshah,sgilmore,eraab
+  after .split(): ['elarson', 'bmoreno', 'tshah', 'sgilmore', 'eraab']
+
+  Note: A variety of characters are considered whitespaces by Python. These characters include spaces between characters, 
+  returns for new lines, and others.
+
+  Applying .split() to files:
+  The .split() method allows you to work with file content as a list after you've converted it to a string through the 
+  .read() method. This is useful in a variety of ways. For example, if you want to iterate through the file contents in a 
+  for loop, this can be easily done when it's converted into a list.
+
+  The following code opens the "update_log.txt" file. It then reads all of the file contents into the updates variable as 
+  a string and splits the string in the updates variable into a list by creating a new element at each whitespace:
+
+  with open("update_log.txt", "r") as file:
+      updates = file.read()
+  updates = updates.split()
