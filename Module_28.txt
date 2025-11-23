@@ -49,3 +49,16 @@ Here’s how Python fits in:
 
 ->Add-ons and Extensions: Some CI/CD systems have add-ons or extensions made in Python or that can easily use Python 
   scripts. This makes it even simpler to add security automation based on Python.
+
+ Using Python to Set Up Environments, Check Code Quality, and Secure Releases:
+ Besides security testing, Python scripts can automate other important CI/CD tasks while adding security best practices:
+
+ ->Set Up Environments: Python can automate staging areas. Scripts can make sure these areas are set up securely, with 
+   good network settings and security controls.
+
+ ->Code Quality Checks: Python can be used to run code quality tools (linters). Scripts can check code for style problems 
+   and possible security errors. This helps make sure code quality standards are followed early in development.
+
+ ->Automate Secure Releases: Python scripts are very useful for automating releases to staging and production areas 
+   securely. Python can manage release processes and ensure releases follow security best practices. This includes using 
+   secure settings and moving software files securely.
