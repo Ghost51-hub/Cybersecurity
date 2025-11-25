@@ -212,7 +212,7 @@ with open("usernames_log.txt", "r") as file:
     usernames = file.read()
     usernames = usernames.split()
 
- def login_check(login_list, current_user):
+def login_check(login_list, current_user):
     counter = 0
     for i in login_list:
         if i == current_user:
